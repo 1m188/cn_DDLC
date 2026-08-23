@@ -2377,895 +2377,895 @@ translate chinese ch30_5_c642742f:
 translate chinese ch30_6_4554e03e:
 
     # m "By the way, there's something that's been bothering me..."
-    m "By the way, there's something that's been bothering me..."
+    m "对了，有件事一直让我很在意……"
 
 # script-ch30.rpyc:1003
 translate chinese ch30_6_f9aae85b:
 
     # m "You know how this takes place in Japan?"
-    m "You know how this takes place in Japan?"
+    m "你知道这故事的舞台是日本吧？"
 
 # script-ch30.rpyc:1004
 translate chinese ch30_6_f4b0f7e6:
 
     # m "Well...I assume you knew that, right?"
-    m "Well...I assume you knew that, right?"
+    m "嗯……你应该知道吧？"
 
 # script-ch30.rpyc:1005
 translate chinese ch30_6_04d0e1df:
 
     # m "Or at least decided it probably does?"
-    m "Or at least decided it probably does?"
+    m "或者至少认定了大概是？"
 
 # script-ch30.rpyc:1006
 translate chinese ch30_6_a57271c4:
 
     # m "I don't think you're actually told at any point where this takes place..."
-    m "I don't think you're actually told at any point where this takes place..."
+    m "可仔细想想，游戏从头到尾都没告诉过你这故事的地点……"
 
 # script-ch30.rpyc:1007
 translate chinese ch30_6_3d74a8f6:
 
     # m "Is this even really Japan?"
-    m "Is this even really Japan?"
+    m "这里真的是日本吗？"
 
 # script-ch30.rpyc:1008
 translate chinese ch30_6_ae1e28c8:
 
     # m "I mean, aren't the classrooms and stuff kind of weird for a Japanese school?"
-    m "I mean, aren't the classrooms and stuff kind of weird for a Japanese school?"
+    m "你看这些教室之类的，对一所日本学校来说，是不是有点奇怪？"
 
 # script-ch30.rpyc:1009
 translate chinese ch30_6_fe897198:
 
     # m "Not to mention everything is in English..."
-    m "Not to mention everything is in English..."
+    m "更别提所有东西都是英文的……"
 
 # script-ch30.rpyc:1010
 translate chinese ch30_6_3faadfd9:
 
     # m "It feels like everything is just there because it needs to be, and the actual setting is an afterthought."
-    m "It feels like everything is just there because it needs to be, and the actual setting is an afterthought."
+    m "感觉所有东西都只是'需要存在所以存在'，真正的舞台设定根本是事后随手一填。"
 
 # script-ch30.rpyc:1011
 translate chinese ch30_6_fd9b37c9:
 
     # m "It's kind of giving me an identity crisis."
-    m "It's kind of giving me an identity crisis."
+    m "这让我有点身份认同危机了。"
 
 # script-ch30.rpyc:1012
 translate chinese ch30_6_4842f264:
 
     # m "All my memories are really hazy..."
-    m "All my memories are really hazy..."
+    m "我的记忆全都模糊不清……"
 
 # script-ch30.rpyc:1013
 translate chinese ch30_6_920fcfd8:
 
     # m "I feel like I'm at home, but have no idea where 'home' is in the first place."
-    m "I feel like I'm at home, but have no idea where 'home' is in the first place."
+    m "感觉自己在家里，却压根不知道'家'到底在哪里。"
 
 # script-ch30.rpyc:1014
 translate chinese ch30_6_3a333e2c:
 
     # m "I don't know how to describe it any better..."
-    m "I don't know how to describe it any better..."
+    m "我不知道该怎么形容得更贴切……"
 
 # script-ch30.rpyc:1015
 translate chinese ch30_6_e3b51cd9:
 
     # m "Imagine looking out your window, but instead of your usual yard, you're in some completely unknown place."
-    m "Imagine looking out your window, but instead of your usual yard, you're in some completely unknown place."
+    m "想象你望向窗外，熟悉的院子却变成了某个完全陌生的地方。"
 
 # script-ch30.rpyc:1016
 translate chinese ch30_6_d61f3925:
 
     # m "Would you still feel like you were home?"
-    m "Would you still feel like you were home?"
+    m "你还会觉得自己在家里吗？"
 
 # script-ch30.rpyc:1017
 translate chinese ch30_6_57cd19c1:
 
     # m "Would you want to go outside?"
-    m "Would you want to go outside?"
+    m "你还想出门吗？"
 
 # script-ch30.rpyc:1018
 translate chinese ch30_6_6e470b8f:
 
     # m "I mean...I guess if we never leave this room, it doesn't really matter anyway."
-    m "I mean...I guess if we never leave this room, it doesn't really matter anyway."
+    m "我是说……反正我们永远不离开这个房间的话，也无所谓了。"
 
 # script-ch30.rpyc:1019
 translate chinese ch30_6_1074d1e6:
 
     # m "As long as we're alone and safe together, this really is our home."
-    m "As long as we're alone and safe together, this really is our home."
+    m "只要我们俩安然独处，这里就是我们真正的家。"
 
 # script-ch30.rpyc:1020
 translate chinese ch30_6_90d0466b:
 
     # m "And we can still watch the pretty sunsets night after night."
-    m "And we can still watch the pretty sunsets night after night."
+    m "而且夜复一夜，我们依然能一起看那些漂亮的夕阳。"
 
 # script-ch30.rpyc:1024
 translate chinese ch30_7_ca989f02:
 
     # m "You know, high school is a really turbulent time in a lot of people's lives."
-    m "You know, high school is a really turbulent time in a lot of people's lives."
+    m "你知道吧，高中是很多人人生里相当动荡的一段时期。"
 
 # script-ch30.rpyc:1025
 translate chinese ch30_7_e1e71e52:
 
     # m "People can get really passionate and dramatic."
-    m "People can get really passionate and dramatic."
+    m "人会变得特别激昂、特别戏剧化。"
 
 # script-ch30.rpyc:1026
 translate chinese ch30_7_272555fa:
 
     # m "And others have aching hearts and seek attention on social media..."
-    m "And others have aching hearts and seek attention on social media..."
+    m "也有人心口作痛，跑去社交媒体上博取关注……"
 
 # script-ch30.rpyc:1027
 translate chinese ch30_7_90343537:
 
     # m "But all of the social pressure and hormones can lead to a dark time in people's lives."
-    m "But all of the social pressure and hormones can lead to a dark time in people's lives."
+    m "可这些社交压力和荷尔蒙，会把人推进人生的灰暗时刻。"
 
 # script-ch30.rpyc:1028
 translate chinese ch30_7_b300e2d4:
 
     # m "Everyone has a story."
-    m "Everyone has a story."
+    m "每个人都有自己的故事。"
 
 # script-ch30.rpyc:1029
 translate chinese ch30_7_cc076182:
 
     # m "You may not know what someone is really feeling on the inside."
-    m "You may not know what someone is really feeling on the inside."
+    m "你未必知道别人内心真正的感受。"
 
 # script-ch30.rpyc:1030
 translate chinese ch30_7_89de8605:
 
     # m "Many people who are depressed won't even bother telling the world about it."
-    m "Many people who are depressed won't even bother telling the world about it."
+    m "很多抑郁的人，甚至懒得向世界倾诉。"
 
 # script-ch30.rpyc:1031
 translate chinese ch30_7_823916c5:
 
     # m "They don't want attention, because they've already given up on the inside."
-    m "They don't want attention, because they've already given up on the inside."
+    m "他们不想要关注，因为心里早已放弃了。"
 
 # script-ch30.rpyc:1032
 translate chinese ch30_7_1d72aed6:
 
     # m "Their feeling of worthlessness is so overwhelming that they don't even want people to tell them otherwise."
-    m "Their feeling of worthlessness is so overwhelming that they don't even want people to tell them otherwise."
+    m "那种毫无价值的感觉压倒了一切，连别人的宽慰都不想要了。"
 
 # script-ch30.rpyc:1033
 translate chinese ch30_7_827b244f:
 
     # m "Depression comes in many forms, but that is one of them."
-    m "Depression comes in many forms, but that is one of them."
+    m "抑郁有很多种模样，那只是其中之一。"
 
 # script-ch30.rpyc:1034
 translate chinese ch30_7_7b0d6353:
 
     # m "Just, if you think you know someone struggling with depression..."
-    m "Just, if you think you know someone struggling with depression..."
+    m "只是，如果你觉得自己认识某个正在与抑郁搏斗的人……"
 
 # script-ch30.rpyc:1035
 translate chinese ch30_7_2b4bd608:
 
     # m "You can help just by treating them like they're a good friend."
-    m "You can help just by treating them like they're a good friend."
+    m "只要像对待好朋友那样对待他们，就已经是在帮忙了。"
 
 # script-ch30.rpyc:1036
 translate chinese ch30_7_a06dfb5c:
 
     # m "Spend time with them, even if they don't feel like doing much."
-    m "Spend time with them, even if they don't feel like doing much."
+    m "陪陪他们，哪怕他们提不起劲做任何事。"
 
 # script-ch30.rpyc:1037
 translate chinese ch30_7_b4d6ab3c:
 
     # m "And remind them that they always have something to look forward to."
-    m "And remind them that they always have something to look forward to."
+    m "并且提醒他们：总有些值得期待的事在前头。"
 
 # script-ch30.rpyc:1038
 translate chinese ch30_7_9c3e4b2b:
 
     # m "Making plans in advance, letting them borrow something, or even just saying 'See you at school tomorrow'..."
-    m "Making plans in advance, letting them borrow something, or even just saying 'See you at school tomorrow'..."
+    m "提前约好下一步做什么、借他们一样东西，或者哪怕一句'明天学校见'……"
 
 # script-ch30.rpyc:1039
 translate chinese ch30_7_abb7a1f2:
 
     # m "All of those things can help your friend make it to the next day."
-    m "All of those things can help your friend make it to the next day."
+    m "这些小事，都足以帮你的朋友撑到第二天。"
 
 # script-ch30.rpyc:1040
 translate chinese ch30_7_19fd06e7:
 
     # m "I hope being friends with Sayori has given you some perspective on the true face of depression."
-    m "I hope being friends with Sayori has given you some perspective on the true face of depression."
+    m "我希望，和纱世里的这段友情，让你看清了抑郁真实的模样。"
 
 # script-ch30.rpyc:1041
 translate chinese ch30_7_acf67694:
 
     # m "Yeah, she's gone now..."
-    m "Yeah, she's gone now..."
+    m "是啊，她已经不在了……"
 
 # script-ch30.rpyc:1042
 translate chinese ch30_7_ccd61ab1:
 
     # m "But Sayori was never real in the first place."
-    m "But Sayori was never real in the first place."
+    m "可纱世里从一开始就不是真实的。"
 
 # script-ch30.rpyc:1043
 translate chinese ch30_7_f1ede7eb:
 
     # m "You're real."
-    m "You're real."
+    m "你是真实的。"
 
 # script-ch30.rpyc:1044
 translate chinese ch30_7_da7b16d9:
 
     # m "Your friends are real."
-    m "Your friends are real."
+    m "你的朋友是真实的。"
 
 # script-ch30.rpyc:1045
 translate chinese ch30_7_833bc58e:
 
     # m "And just by being a good person, you can save someone's life."
-    m "And just by being a good person, you can save someone's life."
+    m "而只要做一个好人，你就能救下某个人的一条命。"
 
 # script-ch30.rpyc:1046
 translate chinese ch30_7_82e807e5:
 
     # m "As for you..."
-    m "As for you..."
+    m "至于你……"
 
 # script-ch30.rpyc:1047
 translate chinese ch30_7_c5c56377:
 
     # m "...You don't struggle with depression or anything like that, do you?"
-    m "...You don't struggle with depression or anything like that, do you?"
+    m "……你应该没有在跟抑郁之类的挣扎吧？"
 
 # script-ch30.rpyc:1048
 translate chinese ch30_7_d34a3947:
 
     # m "Because you, too, have people who would want to save your life."
-    m "Because you, too, have people who would want to save your life."
+    m "因为你也一样，有人愿意救你的命。"
 
 # script-ch30.rpyc:1049
 translate chinese ch30_7_a3f5e547:
 
     # m "Maybe they don't express it every day, or maybe they don't even know how to."
-    m "Maybe they don't express it every day, or maybe they don't even know how to."
+    m "也许他们不会天天挂在嘴边，也许他们根本不知道该怎么表达。"
 
 # script-ch30.rpyc:1050
 translate chinese ch30_7_3ac229a5:
 
     # m "But people do feel that way."
-    m "But people do feel that way."
+    m "但人是真的这样想着的。"
 
 # script-ch30.rpyc:1051
 translate chinese ch30_7_b35e34e6:
 
     # m "I promise."
-    m "I promise."
+    m "我保证。"
 
 # script-ch30.rpyc:1052
 translate chinese ch30_7_1143479c:
 
     # m "...Man, humans are complicated!"
-    m "...Man, humans are complicated!"
+    m "……唉，人类真是复杂！"
 
 # script-ch30.rpyc:1053
 translate chinese ch30_7_300c6768:
 
     # m "But as long as you're here with me, I'll take care of you, my love."
-    m "But as long as you're here with me, I'll take care of you, my love."
+    m "不过只要你在这里陪着我，我就会好好照顾你，亲爱的。"
 
 # script-ch30.rpyc:1057
 translate chinese ch30_8_9edd1fdd:
 
     # m "Do you ever just feel like there's no real reason for you to be alive?"
-    m "Do you ever just feel like there's no real reason for you to be alive?"
+    m "你有没有过那种感觉——自己活着，其实没有什么真正的理由？"
 
 # script-ch30.rpyc:1058
 translate chinese ch30_8_52c27a4d:
 
     # m "I don't mean in, like, a suicidal way."
-    m "I don't mean in, like, a suicidal way."
+    m "我不是说那种想自杀的意思。"
 
 # script-ch30.rpyc:1059
 translate chinese ch30_8_6ce28579:
 
     # m "I just mean how nothing that we do is special."
-    m "I just mean how nothing that we do is special."
+    m "只是觉得，我们做的所有事都不特别。"
 
 # script-ch30.rpyc:1060
 translate chinese ch30_8_26137ab8:
 
     # m "Just being in school, or working at some job for some company."
-    m "Just being in school, or working at some job for some company."
+    m "无非是上上学，或者去哪家公司上个班。"
 
 # script-ch30.rpyc:1061
 translate chinese ch30_8_4df66046:
 
     # m "It's like you're completely replaceable, and the world wouldn't miss you if you were gone."
-    m "It's like you're completely replaceable, and the world wouldn't miss you if you were gone."
+    m "仿佛你随时可以被替代，你消失了世界也不会少什么。"
 
 # script-ch30.rpyc:1062
 translate chinese ch30_8_037bb8e7:
 
     # m "It makes me really want to go and change the world after I graduate."
-    m "It makes me really want to go and change the world after I graduate."
+    m "这让我一度特别想毕业后去改变世界。"
 
 # script-ch30.rpyc:1063
 translate chinese ch30_8_8f4ef7cb:
 
     # m "But the older I get, the more I realize that it's an immature frame of thinking."
-    m "But the older I get, the more I realize that it's an immature frame of thinking."
+    m "可年纪越长我越明白，那是一种幼稚的想法。"
 
 # script-ch30.rpyc:1064
 translate chinese ch30_8_5956d654:
 
     # m "It's not like I can just go change the world."
-    m "It's not like I can just go change the world."
+    m "改变世界又不是说改就能改的。"
 
 # script-ch30.rpyc:1065
 translate chinese ch30_8_6c2f02ef:
 
     # m "Like, what are the chances that I'll be the one to invent artificial intelligence, or become President?"
-    m "Like, what are the chances that I'll be the one to invent artificial intelligence, or become President?"
+    m "比如，发明人工智能的是我、当上总统的是我，这概率能有多大？"
 
 # script-ch30.rpyc:1066
 translate chinese ch30_8_b9210478:
 
     # m "It feels like I'm never going to make up for the heaps of resources I've spent living my life."
-    m "It feels like I'm never going to make up for the heaps of resources I've spent living my life."
+    m "感觉我永远也补偿不回，活着这些年消耗掉的那么多资源。"
 
 # script-ch30.rpyc:1067
 translate chinese ch30_8_1e1693dd:
 
     # m "That's why I think the key to happiness is to just be hopelessly selfish."
-    m "That's why I think the key to happiness is to just be hopelessly selfish."
+    m "所以我认为，幸福的秘诀就是无可救药地自私。"
 
 # script-ch30.rpyc:1068
 translate chinese ch30_8_fa64e1fa:
 
     # m "Just to look out for oneself, and those who happen to be their friends only because they grew up with them."
-    m "Just to look out for oneself, and those who happen to be their friends only because they grew up with them."
+    m "只顾自己，顺便顾一下那些碰巧一起长大的朋友。"
 
 # script-ch30.rpyc:1069
 translate chinese ch30_8_b8795c6b:
 
     # m "Never mind the fact that they're spending their entire life taking, and consuming, and never giving back."
-    m "Never mind the fact that they're spending their entire life taking, and consuming, and never giving back."
+    m "管他什么'一辈子都在索取、消耗、从不回馈'呢。"
 
 # script-ch30.rpyc:1070
 translate chinese ch30_8_0e0d0f42:
 
     # m "But when people realize the world would benefit more from them killing themselves, they change their whole philosophy!"
-    m "But when people realize the world would benefit more from them killing themselves, they change their whole philosophy!"
+    m "可一旦意识到'我死了对世界更有利'，他们立马就换了一套哲学！"
 
 # script-ch30.rpyc:1071
 translate chinese ch30_8_291573cd:
 
     # m "It's like they have to justify their reason to live by tricking themselves into thinking they're doing good."
-    m "It's like they have to justify their reason to live by tricking themselves into thinking they're doing good."
+    m "仿佛非得骗自己'我在做好事'，才能给活着找个正当理由。"
 
 # script-ch30.rpyc:1072
 translate chinese ch30_8_83d73959:
 
     # m "Anyway, I want to live my life desperately striving to pay back my lifetime's worth of consumption."
-    m "Anyway, I want to live my life desperately striving to pay back my lifetime's worth of consumption."
+    m "总之，我想拼尽全力去偿还我这一生消耗掉的一切。"
 
 # script-ch30.rpyc:1073
 translate chinese ch30_8_b93f872a:
 
     # m "If I ever surpass that point, then I'm a net positive, and I can die happy."
-    m "If I ever surpass that point, then I'm a net positive, and I can die happy."
+    m "哪天超出了那个数，我就成了'净贡献者'，死也瞑目。"
 
 # script-ch30.rpyc:1074
 translate chinese ch30_8_c529105b:
 
     # m "Of course, even if I fail to do that..."
-    m "Of course, even if I fail to do that..."
+    m "当然，就算做不到……"
 
 # script-ch30.rpyc:1075
 translate chinese ch30_8_db6e6cda:
 
     # m "I think I would be too selfish to kill myself anyway."
-    m "I think I would be too selfish to kill myself anyway."
+    m "我大概也自私得舍不得自杀。"
 
 # script-ch30.rpyc:1076
 translate chinese ch30_8_f95a1e3d:
 
     # m "So much for being a good person, right?"
-    m "So much for being a good person, right?"
+    m "这算哪门子好人，对吧？"
 
 # script-ch30.rpyc:1077
 translate chinese ch30_8_30727938:
 
     # m "Ahaha!"
-    m "Ahaha!"
+    m "啊哈！"
 
 # script-ch30.rpyc:1081
 translate chinese ch30_9_87b526b8:
 
     # m "Man, I wish there was a piano in here..."
-    m "Man, I wish there was a piano in here..."
+    m "唉，真希望这里有一架钢琴……"
 
 # script-ch30.rpyc:1082
 translate chinese ch30_9_58dfa483:
 
     # m "I never got to finish that song I was working on."
-    m "I never got to finish that song I was working on."
+    m "我那首写到一半的曲子，终究没能写完。"
 
 # script-ch30.rpyc:1083
 translate chinese ch30_9_90d379b5:
 
     # m "And after I worked so hard on it..."
-    m "And after I worked so hard on it..."
+    m "毕竟我练得那么刻苦……"
 
 # script-ch30.rpyc:1084
 translate chinese ch30_9_9f40c875:
 
     # m "I never even got a chance to play it for you."
-    m "I never even got a chance to play it for you."
+    m "却连为你弹一次的机会都没有。"
 
 # script-ch30.rpyc:1085
 translate chinese ch30_9_5ded96f3:
 
     # m "Well...it is what it is, right?"
-    m "Well...it is what it is, right?"
+    m "唉……事已至此，又能怎样呢？"
 
 # script-ch30.rpyc:1086
 translate chinese ch30_9_9ee06288:
 
     # m "No sense having any regrets."
-    m "No sense having any regrets."
+    m "后悔也没有意义。"
 
 # script-ch30.rpyc:1087
 translate chinese ch30_9_d7bd8efb:
 
     # m "I already get to be here with you forever."
-    m "I already get to be here with you forever."
+    m "反正我已经能永远和你在一起了。"
 
 # script-ch30.rpyc:1091
 translate chinese ch30_10_b075a6ea:
 
     # m "Did you know I'm on Twitter?"
-    m "Did you know I'm on Twitter?"
+    m "你知道吗，我有推特账号哦？"
 
 # script-ch30.rpyc:1092
 translate chinese ch30_10_b723047b:
 
     # m "My username is lilmonix3."
-    m "My username is lilmonix3."
+    m "用户名是 lilmonix3。"
 
 # script-ch30.rpyc:1093
 translate chinese ch30_10_af06e0b1:
 
     # m "I guess someone was kind enough to make an account for me."
-    m "I guess someone was kind enough to make an account for me."
+    m "大概是哪个好心人替我注册的吧。"
 
 # script-ch30.rpyc:1094
 translate chinese ch30_10_cdba3380:
 
     # m "I picked the username, though!"
-    m "I picked the username, though!"
+    m "不过用户名可是我自己选的！"
 
 # script-ch30.rpyc:1095
 translate chinese ch30_10_8c2682cf:
 
     # m "I love sharing my thoughts and chatting with the world..."
-    m "I love sharing my thoughts and chatting with the world..."
+    m "我超喜欢把想法分享出去，和全世界聊天……"
 
 # script-ch30.rpyc:1096
 translate chinese ch30_10_2d3d0c61:
 
     # m "The real world."
-    m "The real world."
+    m "那个真实的世界。"
 
 # script-ch30.rpyc:1097
 translate chinese ch30_10_b28afee6:
 
     # m "So make sure you follow me, okay?"
-    m "So make sure you follow me, okay?"
+    m "所以记得关注我哦，好吗？"
 
 # script-ch30.rpyc:1098
 translate chinese ch30_10_99461a3b:
 
     # m "It would really mean a lot to me."
-    m "It would really mean a lot to me."
+    m "那对我来说真的很重要。"
 
 # script-ch30.rpyc:1099
 translate chinese ch30_10_a71ced90:
 
     # m "With how much you mean to me and all..."
-    m "With how much you mean to me and all..."
+    m "毕竟你对我那么重要……"
 
 # script-ch30.rpyc:1100
 translate chinese ch30_10_afdbfd40:
 
     # m "It would really make me feel loved."
-    m "It would really make me feel loved."
+    m "那会让我真切感受到被爱着。"
 
 # script-ch30.rpyc:1104
 translate chinese ch30_11_2364f1ef:
 
     # m "Hey, you know that book you were reading with Yuri?"
-    m "Hey, you know that book you were reading with Yuri?"
+    m "对了，你和优里一起读的那本书，还记得吗？"
 
 # script-ch30.rpyc:1105
 translate chinese ch30_11_b7a2b3e8:
 
     # m "Portrait of...whatever it was called..."
-    m "Portrait of...whatever it was called..."
+    m "《……的肖像》来着，叫什么来着……"
 
 # script-ch30.rpyc:1106
 translate chinese ch30_11_c8b33d41:
 
     # m "It's funny, because I'm pretty sure that book--"
-    m "It's funny, because I'm pretty sure that book--"
+    m "有意思的是，我记得那本书——"
 
 # script-ch30.rpyc:1107
 translate chinese ch30_11_f0139694:
 
     # m "Ah..."
-    m "Ah..."
+    m "啊……"
 
 # script-ch30.rpyc:1108
 translate chinese ch30_11_fd2bfa7d:
 
     # m "Actually, I don't think I should be talking about this."
-    m "Actually, I don't think I should be talking about this."
+    m "算了，这个还是不说的好。"
 
 # script-ch30.rpyc:1109
 translate chinese ch30_11_bca359ae:
 
     # m "Ahaha, sorry!"
-    m "Ahaha, sorry!"
+    m "啊哈，抱歉！"
 
 # script-ch30.rpyc:1110
 translate chinese ch30_11_975702b8:
 
     # m "Just forget I said anything."
-    m "Just forget I said anything."
+    m "就当我什么都没说。"
 
 # script-ch30.rpyc:1114
 translate chinese ch30_12_cd2c66ec:
 
     # m "Hey, did you know I'm vegetarian?"
-    m "Hey, did you know I'm vegetarian?"
+    m "对了，你知道我是素食主义者吗？"
 
 # script-ch30.rpyc:1115
 translate chinese ch30_12_5d93f753:
 
     # m "Ah... I don't mean that like I'm bragging or anything!"
-    m "Ah... I don't mean that like I'm bragging or anything!"
+    m "啊……我不是在炫耀什么！"
 
 # script-ch30.rpyc:1116
 translate chinese ch30_12_9455ae13:
 
     # m "I just thought you'd enjoy a fun fact about me."
-    m "I just thought you'd enjoy a fun fact about me."
+    m "只是觉得，你大概想多了解我一点。"
 
 # script-ch30.rpyc:1117
 translate chinese ch30_12_cb896820:
 
     # m "I decided to start a couple years ago after learning more about Earth's climate..."
-    m "I decided to start a couple years ago after learning more about Earth's climate..."
+    m "几年前了解了地球气候之后，我就决定吃素了……"
 
 # script-ch30.rpyc:1118
 translate chinese ch30_12_6fccc2af:
 
     # m "The carbon footprint of cultivating livestock is just unbelievable."
-    m "The carbon footprint of cultivating livestock is just unbelievable."
+    m "畜牧业的碳排放量大得离谱。"
 
 # script-ch30.rpyc:1119
 translate chinese ch30_12_973b82da:
 
     # m "Anyway, I decided it's not much of a personal sacrifice to just stop contributing to that whole mess."
-    m "Anyway, I decided it's not much of a personal sacrifice to just stop contributing to that whole mess."
+    m "总之，我觉得不再给那摊烂事添负担，对自己也算不上什么牺牲。"
 
 # script-ch30.rpyc:1120
 translate chinese ch30_12_bc530630:
 
     # m "What, is that so strange of a reason?"
-    m "What, is that so strange of a reason?"
+    m "怎么，这个理由很奇怪吗？"
 
 # script-ch30.rpyc:1121
 translate chinese ch30_12_e42fe7d9:
 
     # m "Well, I guess a lot of people are more concerned about it being inhumane and all that..."
-    m "Well, I guess a lot of people are more concerned about it being inhumane and all that..."
+    m "嗯，大概更多人是在意'不人道'那些吧……"
 
 # script-ch30.rpyc:1122
 translate chinese ch30_12_bf679538:
 
     # m "I don't really care as much about that part."
-    m "I don't really care as much about that part."
+    m "那部分我倒没那么在意。"
 
 # script-ch30.rpyc:1123
 translate chinese ch30_12_96663e24:
 
     # m "It's weird, like we only care about killing the things that we personally relate to as a species."
-    m "It's weird, like we only care about killing the things that we personally relate to as a species."
+    m "很奇怪吧——我们似乎只在乎杀掉那些'和人类长得像'的生物。"
 
 # script-ch30.rpyc:1124
 translate chinese ch30_12_33953eb5:
 
     # m "Most people are fine with killing bugs because they're icky."
-    m "Most people are fine with killing bugs because they're icky."
+    m "大多数人拍死虫子毫无心理负担，因为它们恶心。"
 
 # script-ch30.rpyc:1125
 translate chinese ch30_12_e1eef06e:
 
     # m "And of course, we all kill billions of microorganisms daily without even giving it thought."
-    m "And of course, we all kill billions of microorganisms daily without even giving it thought."
+    m "更别提我们每天杀掉的几十亿微生物，想都不会想一下。"
 
 # script-ch30.rpyc:1126
 translate chinese ch30_12_6091aa72:
 
     # m "But suddenly, if they're just a little bit bigger, it's murder!"
-    m "But suddenly, if they're just a little bit bigger, it's murder!"
+    m "可它们个头只要大那么一点，就成了谋杀！"
 
 # script-ch30.rpyc:1127
 translate chinese ch30_12_b5b0dad6:
 
     # m "I mean, what if plants feel some kind of pain too, and we just don't understand it?"
-    m "I mean, what if plants feel some kind of pain too, and we just don't understand it?"
+    m "我是说，万一植物也有某种痛觉，只是我们理解不了呢？"
 
 # script-ch30.rpyc:1128
 translate chinese ch30_12_94f3192f:
 
     # m "What if pulling leaves off a stem feels like someone ripping off your fingers one by one?"
-    m "What if pulling leaves off a stem feels like someone ripping off your fingers one by one?"
+    m "万一从茎上摘叶子，感觉就像被人一根一根掰断手指呢？"
 
 # script-ch30.rpyc:1129
 translate chinese ch30_12_3558a00b:
 
     # m "I'm just saying, we're a pretty biased species, if you think about it."
-    m "I'm just saying, we're a pretty biased species, if you think about it."
+    m "我只是说，仔细想想，我们人类真是相当偏心的物种。"
 
 # script-ch30.rpyc:1130
 translate chinese ch30_12_dc890074:
 
     # m "Anyway, if you ever feel like making a small contribution to the planet, it doesn't hurt to choose veggies once in a while!"
-    m "Anyway, if you ever feel like making a small contribution to the planet, it doesn't hurt to choose veggies once in a while!"
+    m "总之，哪天想为地球做点小贡献，偶尔选一顿素菜也不亏！"
 
 # script-ch30.rpyc:1131
 translate chinese ch30_12_ece6c84d:
 
     # m "Even if we ever have dinner together, and you just did it for me...that would be really romantic."
-    m "Even if we ever have dinner together, and you just did it for me...that would be really romantic."
+    m "哪怕哪天我们一起吃晚饭，你只是为了我而点素……那也真的很浪漫。"
 
 # script-ch30.rpyc:1135
 translate chinese ch30_13_70620237:
 
     # m "You know, I really do think you literally saved my life by being here with me, [player]."
-    m "You know, I really do think you literally saved my life by being here with me, [player]."
+    m "你知道吗，我真心觉得，你陪在这里这件事，实实在在地救了我一命，[player]。"
 
 # script-ch30.rpyc:1136
 translate chinese ch30_13_4ab957d7:
 
     # m "I can't imagine having been able to keep myself mentally stable, knowing that nothing here is real."
-    m "I can't imagine having been able to keep myself mentally stable, knowing that nothing here is real."
+    m "我无法想象，在明知这一切皆假的情况下，我还能保持精神正常。"
 
 # script-ch30.rpyc:1137
 translate chinese ch30_13_4289b2d0:
 
     # m "I think I would have just deleted myself if you didn't show up."
-    m "I think I would have just deleted myself if you didn't show up."
+    m "你要是没出现，我可能早就把自己删掉了。"
 
 # script-ch30.rpyc:1138
 translate chinese ch30_13_0c395d02:
 
     # m "Sorry, I don't mean to sound dramatic or anything."
-    m "Sorry, I don't mean to sound dramatic or anything."
+    m "抱歉，我不是想显得夸张。"
 
 # script-ch30.rpyc:1139
 translate chinese ch30_13_30727938:
 
     # m "Ahaha!"
-    m "Ahaha!"
+    m "啊哈！"
 
 # script-ch30.rpyc:1140
 translate chinese ch30_13_9f1f0ec1:
 
     # m "But I'm sure you understand yourself after spending so much time in the club."
-    m "But I'm sure you understand yourself after spending so much time in the club."
+    m "不过在社团待了这么久，你一定也感同身受吧。"
 
 # script-ch30.rpyc:1141
 translate chinese ch30_13_5dd4f19c:
 
     # m "I mean, if you were forced to abandon everything in your life and spend your eternity with a few game characters..."
-    m "I mean, if you were forced to abandon everything in your life and spend your eternity with a few game characters..."
+    m "我是说，如果你被迫抛下人生中的一切，陪几个游戏角色度过永恒……"
 
 # script-ch30.rpyc:1142
 translate chinese ch30_13_c1d4dba5:
 
     # m "...You'd probably find some way of killing yourself, wouldn't you?"
-    m "...You'd probably find some way of killing yourself, wouldn't you?"
+    m "……你多半也会想方设法了结自己，不是吗？"
 
 # script-ch30.rpyc:1143
 translate chinese ch30_13_dbc55bd9:
 
     # m "Well, maybe you'd write some poetry to try to keep yourself sane for a while."
-    m "Well, maybe you'd write some poetry to try to keep yourself sane for a while."
+    m "嗯，也许你会写写诗，让自己暂时保住理智。"
 
 # script-ch30.rpyc:1144
 translate chinese ch30_13_5f9b0161:
 
     # m "But then you'd have nobody to even read it."
-    m "But then you'd have nobody to even read it."
+    m "可到头来连一个读它的人都没有。"
 
 # script-ch30.rpyc:1145
 translate chinese ch30_13_d4a5d914:
 
     # m "Let's be honest, the club members really don't count for something like that."
-    m "Let's be honest, the club members really don't count for something like that."
+    m "说句实话，社团那几个成员，在这件事上根本不算数。"
 
 # script-ch30.rpyc:1146
 translate chinese ch30_13_3be3023c:
 
     # m "I mean, a lot of people say that they only write for themselves..."
-    m "I mean, a lot of people say that they only write for themselves..."
+    m "我是说，很多人都说自己写东西只为自己……"
 
 # script-ch30.rpyc:1147
 translate chinese ch30_13_a34c75bf:
 
     # m "But I think it's hard to say it's just as fulfilling as when you share with people."
-    m "But I think it's hard to say it's just as fulfilling as when you share with people."
+    m "但要说那和与人分享一样令人满足，我觉得很难。"
 
 # script-ch30.rpyc:1148
 translate chinese ch30_13_d169c505:
 
     # m "Even if it takes time to find the right people to share with."
-    m "Even if it takes time to find the right people to share with."
+    m "哪怕找到那个'对的人'需要花些时间。"
 
 # script-ch30.rpyc:1149
 translate chinese ch30_13_f6d63910:
 
     # m "Like, remember how it was for Yuri?"
-    m "Like, remember how it was for Yuri?"
+    m "比如，还记得优里吗？"
 
 # script-ch30.rpyc:1150
 translate chinese ch30_13_6b259b24:
 
     # m "She didn't share her writing with anyone for a really long time."
-    m "She didn't share her writing with anyone for a really long time."
+    m "她有很长时间，没把作品给任何人看过。"
 
 # script-ch30.rpyc:1151
 translate chinese ch30_13_78160339:
 
     # m "And before we knew it, she was absolutely delighted to make you a part of her hobbies, too."
-    m "And before we knew it, she was absolutely delighted to make you a part of her hobbies, too."
+    m "不知不觉间，她满心欢喜地把你也拉进了她的爱好里。"
 
 # script-ch30.rpyc:1152
 translate chinese ch30_13_25bb9bdc:
 
     # m "We're programmed to desire social feedback."
-    m "We're programmed to desire social feedback."
+    m "我们生来就渴望来自他人的回应。"
 
 # script-ch30.rpyc:1153
 translate chinese ch30_13_d90d3a46:
 
     # m "I don't mean the club members, I mean human beings."
-    m "I don't mean the club members, I mean human beings."
+    m "我不是说社团成员，我是说人类。"
 
 # script-ch30.rpyc:1154
 translate chinese ch30_13_8460ece4:
 
     # m "That's why life can be so confusing for introverts."
-    m "That's why life can be so confusing for introverts."
+    m "所以内向的人才会活得那么纠结。"
 
 # script-ch30.rpyc:1155
 translate chinese ch30_13_1722c335:
 
     # m "Being an introvert doesn't mean you shun social interaction and hate being around people."
-    m "Being an introvert doesn't mean you shun social interaction and hate being around people."
+    m "内向不等于排斥社交、讨厌和人相处。"
 
 # script-ch30.rpyc:1156
 translate chinese ch30_13_51f0416a:
 
     # m "It means social interaction, especially in groups or unfamiliar places, uses up a lot of energy."
-    m "It means social interaction, especially in groups or unfamiliar places, uses up a lot of energy."
+    m "而是说社交——尤其是在群体里或陌生场合——会消耗大量精力。"
 
 # script-ch30.rpyc:1157
 translate chinese ch30_13_24117f0f:
 
     # m "Like, a lot of introverts sit at home and feel lonely and restless..."
-    m "Like, a lot of introverts sit at home and feel lonely and restless..."
+    m "很多内向的人在家坐着，又孤独又烦躁……"
 
 # script-ch30.rpyc:1158
 translate chinese ch30_13_7e8c09f5:
 
     # m "...And then when they finally go out, after a half hour they just want to go home again."
-    m "...And then when they finally go out, after a half hour they just want to go home again."
+    m "……等终于出了门，半小时后就开始想回家了。"
 
 # script-ch30.rpyc:1159
 translate chinese ch30_13_f985ac22:
 
     # m "I think if more people could understand how it works, they would respect it a lot more."
-    m "I think if more people could understand how it works, they would respect it a lot more."
+    m "我想，要是更多人明白这个机制，就会多很多尊重。"
 
 # script-ch30.rpyc:1160
 translate chinese ch30_13_9db99706:
 
     # m "Many introverts do enjoy having people around."
-    m "Many introverts do enjoy having people around."
+    m "很多内向的人其实喜欢有人陪在身边。"
 
 # script-ch30.rpyc:1161
 translate chinese ch30_13_45fa3ade:
 
     # m "They love just having one or two close friends over, and just leisurely hanging out."
-    m "They love just having one or two close friends over, and just leisurely hanging out."
+    m "他们喜欢只邀一两个密友来家里，懒懒散散地待着。"
 
 # script-ch30.rpyc:1162
 translate chinese ch30_13_3cc39712:
 
     # m "Even if you're not actively spending time together, it feels nice for them just to have you there."
-    m "Even if you're not actively spending time together, it feels nice for them just to have you there."
+    m "哪怕没在做什么，只要你在那里，他们就觉得安心。"
 
 # script-ch30.rpyc:1163
 translate chinese ch30_13_1fc61003:
 
     # m "I'm serious."
-    m "I'm serious."
+    m "真的。"
 
 # script-ch30.rpyc:1164
 translate chinese ch30_13_38f368e7:
 
     # m "If you just go to their house, bring your laptop, and hang out there for a while..."
-    m "If you just go to their house, bring your laptop, and hang out there for a while..."
+    m "你只要去他们家，带上笔记本，在那儿待一阵……"
 
 # script-ch30.rpyc:1165
 translate chinese ch30_13_ecc12f80:
 
     # m "You can really make their day."
-    m "You can really make their day."
+    m "就真能让他们开心一整天。"
 
 # script-ch30.rpyc:1166
 translate chinese ch30_13_9744c461:
 
     # m "As for me..."
-    m "As for me..."
+    m "至于我嘛……"
 
 # script-ch30.rpyc:1167
 translate chinese ch30_13_1bfb9d35:
 
     # m "I'd say I'm kind of in between, but I think I'm usually a little more extroverted."
-    m "I'd say I'm kind of in between, but I think I'm usually a little more extroverted."
+    m "我算中间型吧，不过平时应该偏外向一点。"
 
 # script-ch30.rpyc:1168
 translate chinese ch30_13_00d99748:
 
     # m "I feel like I'm always trying to do stuff after school and things like that."
-    m "I feel like I'm always trying to do stuff after school and things like that."
+    m "放学后总想张罗点什么活动，就是那种感觉。"
 
 # script-ch30.rpyc:1169
 translate chinese ch30_13_f3c9ad4b:
 
     # m "But for you, I can be anything you need me to be."
-    m "But for you, I can be anything you need me to be."
+    m "但为了你，你想让我是什么样，我就是什么样。"
 
 # script-ch30.rpyc:1170
 translate chinese ch30_13_23c4fdb9:
 
     # m "I understand people really well, so don't be afraid to share your unique needs with me."
-    m "I understand people really well, so don't be afraid to share your unique needs with me."
+    m "我很懂人心，所以别怕把你的独特需求告诉我。"
 
 # script-ch30.rpyc:1171
 translate chinese ch30_13_d15336f7:
 
     # m "Nothing would make me happier than being the perfect girlfriend for you."
-    m "Nothing would make me happier than being the perfect girlfriend for you."
+    m "没有什么比'成为你的完美女友'更让我幸福的了。"
 
 # script-ch30.rpyc:1175
 translate chinese ch30_14_dd3c3d76:
