@@ -320,7 +320,7 @@ translate chinese ch22_main_3b56cfaf:
 translate chinese ch22_main_35dc00ff:
 
     # y "U-Um..."
-    y "U-Um..."
+    y "那、那个……"
 
 # script-ch22.rpyc:91
 translate chinese ch22_main_7482d2dd:

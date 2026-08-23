@@ -1,4 +1,4 @@
-# script-ch3.rpyc:6
+﻿# script-ch3.rpyc:6
 translate chinese ch3_main_9f4a56c4:
 
     # m "Aw, man..."
@@ -164,7 +164,7 @@ translate chinese ch3_main_6eb6bfe0:
 translate chinese ch3_main_d8ec5ced:
 
     # m "Besides, what do you mean by 'you of all people'?"
-    m "话说，什么叫'别人也就算了，偏偏是我'？"
+    m "话说，什么叫‘别人也就算了，偏偏是我’？"
 
 # script-ch3.rpyc:57
 translate chinese ch3_main_a0fd7848:
@@ -2444,7 +2444,7 @@ translate chinese ch3_end_3f602671:
 translate chinese ch3_end_8b0b965e:
 
     # n 4f "You {i}literally{/i} just said--"
-    n 4f "你刚才明明自己都说——"
+    n 4f "你刚才明明自己都{i}说{/i}了——"
 
 # script-ch3.rpyc:603
 translate chinese ch3_end_34eb91a2:
@@ -3908,7 +3908,7 @@ translate chinese ch3_end_yuri_b79a4270:
 translate chinese ch3_end_yuri_c235eb7d:
 
     # y 1i "Well, 'excited' may not be the right word..."
-    y 1i "这个，'期待'这个词或许不太贴切……"
+    y 1i "这个，‘期待’这个词或许不太贴切……"
 
 # script-ch3.rpyc:1031
 translate chinese ch3_end_yuri_b9b9a65b:

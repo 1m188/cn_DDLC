@@ -344,7 +344,7 @@ translate chinese ch20_main2_bbd414b4:
 translate chinese ch20_main2_ef8942cb:
 
     # "...Did Monika say \"she\"?"
-    "……莫妮卡刚才说'她'了？"
+    "……莫妮卡刚才说‘她’了？"
 
 # script-ch20.rpyc:98
 translate chinese ch20_main2_11bedf1c:
@@ -818,7 +818,7 @@ translate chinese ch20_main2_28adc331:
 translate chinese ch20_main2_356ce113:
 
     # "She carefully places a teacup in front of each of us before setting down the teapot in the middle."
-    "She carefully places a teacup in front of each of us before setting down the teapot in the middle."
+    "她小心翼翼地在我们每个人面前摆好茶杯，然后把茶壶放在桌子中间。"
 
 # script-ch20.rpyc:231
 translate chinese ch20_main2_b0102204:
@@ -1424,7 +1424,7 @@ translate chinese ch20_main2_1e4b58a1:
 translate chinese ch20_main2_aa92c4c7:
 
     # "All three girls stare back at me with dejected eyes."
-    "All three girls stare back at me with dejected eyes."
+    "三个女孩都垂头丧气地回望着我。"
 
 # script-ch20.rpyc:394
 translate chinese ch20_main2_8911e105:
@@ -1454,7 +1454,7 @@ translate chinese ch20_main2_bbe4458e:
 translate chinese ch20_main2_d6738775:
 
     # "The girls exchange glances before Monika turns back to me."
-    "The girls exchange glances before Monika turns back to me."
+    "女孩们互相交换了眼神，随后莫妮卡转向我。"
 
 # script-ch20.rpyc:402
 translate chinese ch20_main2_6a0c763d:

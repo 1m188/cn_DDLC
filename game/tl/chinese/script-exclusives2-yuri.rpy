@@ -1634,109 +1634,109 @@ translate chinese yuri_exclusive2_2_ch22_8bb5a442:
 translate chinese yuri_exclusive2_2_ch22_d1bae097:
 
     # mc "{cps=150}Yuri...?{/cps}{nw}"
-    mc "{cps=150}Yuri...?{/cps}{nw}"
+    mc "{cps=150}优里……？{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:361
 translate chinese yuri_exclusive2_2_ch22_e6152f36:
 
     # "{cps=150}I reach the corner and peer around it.{/cps}{nw}"
-    "{cps=150}I reach the corner and peer around it.{/cps}{nw}"
+    "{cps=150}我走到拐角，探头看过去。{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:362
 translate chinese yuri_exclusive2_2_ch22_32ca75d9:
 
     # "{cps=150}Are they in pain...?{/cps}{nw}"
-    "{cps=150}Are they in pain...?{/cps}{nw}"
+    "{cps=150}她是不是在痛……？{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:363
 translate chinese yuri_exclusive2_2_ch22_4bb5f0fa:
 
     # "{cps=150}A sharp inhale, like someone is sucking the air through their teeth.{/cps}{nw}"
-    "{cps=150}A sharp inhale, like someone is sucking the air through their teeth.{/cps}{nw}"
+    "{cps=150}一声尖锐的吸气，像是有人倒吸着气。{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:364
 translate chinese yuri_exclusive2_2_ch22_58bb6295:
 
     # y "{cps=150}Khhhhh--{/cps}{nw}"
-    y "{cps=150}Khhhhh--{/cps}{nw}"
+    y "{cps=150}嘶嘶嘶——{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:365
 translate chinese yuri_exclusive2_2_ch22_08f21ca7:
 
     # "{cps=150}It sounds like breathing.{/cps}{nw}"
-    "{cps=150}It sounds like breathing.{/cps}{nw}"
+    "{cps=150}听起来像呼吸声。{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:366
 translate chinese yuri_exclusive2_2_ch22_8cbb7ddd:
 
     # "{cps=150}It's coming from around the corner...{/cps}{nw}"
-    "{cps=150}It's coming from around the corner...{/cps}{nw}"
+    "{cps=150}从拐角那边传来的……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:367
 translate chinese yuri_exclusive2_2_ch22_9efe41bb:
 
     # "{cps=150}...What's that noise?{/cps}{nw}"
-    "{cps=150}...What's that noise?{/cps}{nw}"
+    "{cps=150}……什么声音？{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:368
 translate chinese yuri_exclusive2_2_ch22_2170fe8c:
 
     # y "{cps=150}....Haah.....haah....{/cps}{nw}"
-    y "{cps=150}....Haah.....haah....{/cps}{nw}"
+    y "{cps=150}……哈啊……哈啊……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:369
 translate chinese yuri_exclusive2_2_ch22_931edd08:
 
     # y "{cps=150}Haah.....haah....{/cps}{nw}"
-    y "{cps=150}Haah.....haah....{/cps}{nw}"
+    y "{cps=150}哈啊……哈啊……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:371
 translate chinese yuri_exclusive2_2_ch22_88faba50:
 
     # "{cps=150}I start heading down the hallway.{/cps}{nw}"
-    "{cps=150}I start heading down the hallway.{/cps}{nw}"
+    "{cps=150}我沿着走廊走去。{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:372
 translate chinese yuri_exclusive2_2_ch22_e4fb0c07:
 
     # "{cps=150}The most logical place for Yuri to be would be the nearest water fountain...{/cps}{nw}"
-    "{cps=150}The most logical place for Yuri to be would be the nearest water fountain...{/cps}{nw}"
+    "{cps=150}优里最可能去的地方，就是最近的水龙头……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:373
 translate chinese yuri_exclusive2_2_ch22_bd04a622:
 
     # mc "{cps=150}Let's see...{/cps}{nw}"
-    mc "{cps=150}Let's see...{/cps}{nw}"
+    mc "{cps=150}让我想想……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:380
 translate chinese yuri_exclusive2_2_ch22_6e4de4a6:
 
     # "{cps=150}I'm bored just waiting here, so I decide to go look for her.{/cps}{nw}"
-    "{cps=150}I'm bored just waiting here, so I decide to go look for her.{/cps}{nw}"
+    "{cps=150}光在这儿等着太无聊了，我决定去找她。{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:381
 translate chinese yuri_exclusive2_2_ch22_023a44ec:
 
     # "{cps=150}Is something holding her up?{/cps}{nw}"
-    "{cps=150}Is something holding her up?{/cps}{nw}"
+    "{cps=150}她是不是被什么事耽搁了？{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:382
 translate chinese yuri_exclusive2_2_ch22_e4a41be3:
 
     # "{cps=150}Yuri said it wouldn't take long...{/cps}{nw}"
-    "{cps=150}Yuri said it wouldn't take long...{/cps}{nw}"
+    "{cps=150}优里说用不了多久的……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:383
 translate chinese yuri_exclusive2_2_ch22_aba8093d:
 
     # "{cps=150}Ten minutes pass.{/cps}{nw}"
-    "{cps=150}Ten minutes pass.{/cps}{nw}"
+    "{cps=150}十分钟过去了。{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:384
 translate chinese yuri_exclusive2_2_ch22_231f46ba:
 
     # "{cps=150}...{/cps}{nw}"
-    "{cps=150}...{/cps}{nw}"
+    "{cps=150}……{/cps}{nw}"
 
 # script-exclusives2-yuri.rpyc:397
 translate chinese yuri_exclusive2_2_ch22_deebf71c:
