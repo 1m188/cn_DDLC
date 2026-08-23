@@ -428,187 +428,187 @@ translate chinese ch22_n_end2_bc805864:
 translate chinese ch23_n_end_197a2a8f:
 
     # n "I changed my mind."
-    n "I changed my mind."
+    n "我改主意了。"
 
 # script-poemresponses2.rpyc:168
 translate chinese ch23_n_end_e5cdc987:
 
     # n "Ignore everything you just read."
-    n "Ignore everything you just read."
+    n "把你刚读到的都忘掉吧。"
 
 # script-poemresponses2.rpyc:169
 translate chinese ch23_n_end_7ccb81a3:
 
     # n "There's no point in trying to do anything."
-    n "There's no point in trying to do anything."
+    n "做什么都没有意义。"
 
 # script-poemresponses2.rpyc:170
 translate chinese ch23_n_end_43d633ac:
 
     # n "It's Yuri's own fault that she's so unlikable."
-    n "It's Yuri's own fault that she's so unlikable."
+    n "优里那么让人讨厌，是她自己的错。"
 
 # script-poemresponses2.rpyc:171
 translate chinese ch23_n_end_307c974f:
 
     # n "Can you hear me, [player]?"
-    n "Can you hear me, [player]?"
+    n "[player]，你听得到吗？"
 
 # script-poemresponses2.rpyc:172
 translate chinese ch23_n_end_deb6b51f:
 
     # n "If you would just spend more time with Monika, all these problems would go away."
-    n "If you would just spend more time with Monika, all these problems would go away."
+    n "只要你肯多陪陪莫妮卡，这些问题就都会消失。"
 
 # script-poemresponses2.rpyc:173
 translate chinese ch23_n_end_3418f148:
 
     # n "Yuri and I are too messed up for someone as wonderful as you."
-    n "Yuri and I are too messed up for someone as wonderful as you."
+    n "优里和我都太扭曲了，配不上这么出色的你。"
 
 # script-poemresponses2.rpyc:174
 translate chinese ch23_n_end_708e8f2f:
 
     # n "Just think of Monika from now on."
-    n "Just think of Monika from now on."
+    n "从今往后，心里只要想着莫妮卡就好。"
 
 # script-poemresponses2.rpyc:175
 translate chinese ch23_n_end_51c11221:
 
     # n "Just Monika."
-    n "Just Monika."
+    n "只想着莫妮卡。"
 
 # script-poemresponses2.rpyc:178
 translate chinese ch23_n_end_24b5bc76:
 
     # "Just Monika."
-    "Just Monika."
+    "只想着莫妮卡。"
 
 # script-poemresponses2.rpyc:210
 translate chinese ch22_m_end_83c4f89d:
 
     # m 5 "Sorry, I know it's kind of abstract."
-    m 5 "Sorry, I know it's kind of abstract."
+    m 5 "抱歉，我知道这首诗写得有些抽象。"
 
 # script-poemresponses2.rpyc:211
 translate chinese ch22_m_end_fc0ccc51:
 
     # m "I'm just trying to...um..."
-    m "I'm just trying to...um..."
+    m "我只是想……那个……"
 
 # script-poemresponses2.rpyc:212
 translate chinese ch22_m_end_7230704b:
 
     # m 1r "Well, never mind."
-    m 1r "Well, never mind."
+    m 1r "咳，算了。"
 
 # script-poemresponses2.rpyc:213
 translate chinese ch22_m_end_3e1e8945:
 
     # m "There's no point in explaining."
-    m "There's no point in explaining."
+    m "解释了也没什么用。"
 
 # script-poemresponses2.rpyc:214
 translate chinese ch22_m_end_76b81468:
 
     # m 1i "Anyway..."
-    m 1i "Anyway..."
+    m 1i "总之……"
 
 # script-poemresponses2.rpyc:215
 translate chinese ch22_m_end_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "Here's Monika's Writing Tip of the Day!"
+    m 3b "那么，这里是莫妮卡的每日写作小贴士！"
 
 # script-poemresponses2.rpyc:216
 translate chinese ch22_m_end_6417a080:
 
     # m "Sometimes you'll find yourself facing a difficult decision..."
-    m "Sometimes you'll find yourself facing a difficult decision..."
+    m "有时候，你会遇到一个两难的抉择……"
 
 # script-poemresponses2.rpyc:217
 translate chinese ch22_m_end_a151287c:
 
     # m "When that happens, don't forget to save your game!"
-    m "When that happens, don't forget to save your game!"
+    m "遇到这种情况时，别忘了先存个档！"
 
 # script-poemresponses2.rpyc:218
 translate chinese ch22_m_end_f12b95e5:
 
     # m 3k "You never know when...um..."
-    m 3k "You never know when...um..."
+    m 3k "你永远不知道会……那个……"
 
 # script-poemresponses2.rpyc:219
 translate chinese ch22_m_end_a9bffe18:
 
     # m 3i "...Who am I talking to?"
-    m 3i "...Who am I talking to?"
+    m 3i "……我在跟谁说话？"
 
 # script-poemresponses2.rpyc:220
 translate chinese ch22_m_end_4cd84cd1:
 
     # m "Can you hear me?"
-    m "Can you hear me?"
+    m "你听得到吗？"
 
 # script-poemresponses2.rpyc:221
 translate chinese ch22_m_end_0f112add:
 
     # m 3g "Tell me you can hear me."
-    m 3g "Tell me you can hear me."
+    m 3g "告诉我，你听得到。"
 
 # script-poemresponses2.rpyc:222
 translate chinese ch22_m_end_f97ac3b8:
 
     # m "Anything."
-    m "Anything."
+    m "说点什么。"
 
 # script-poemresponses2.rpyc:224
 translate chinese ch22_m_end_a33519f4:
 
     # m 3k "...That's my advice for today!"
-    m 3k "...That's my advice for today!"
+    m 3k "……这就是我今天的建议！"
 
 # script-poemresponses2.rpyc:225
 translate chinese ch22_m_end_d33852a1:
 
     # m "Thanks for listening~"
-    m "Thanks for listening~"
+    m "谢谢你能听我说这些~"
 
 # script-poemresponses2.rpyc:244
 translate chinese ch23_m_end_62664d25:
 
     # m "Jeez! That really startled me!{fast}"
-    m "Jeez! That really startled me!{fast}"
+    m "哎呀！你真是吓我一跳！{fast}"
 
 # script-poemresponses2.rpyc:246
 translate chinese ch23_m_end_619a4637:
 
     # m "Um..."
-    m "Um..."
+    m "那个……"
 
 # script-poemresponses2.rpyc:247
 translate chinese ch23_m_end_45490c24:
 
     # m 1m "Well, I guess I kinda messed up at, uh... 'writing' this poem."
-    m 1m "Well, I guess I kinda messed up at, uh... 'writing' this poem."
+    m 1m "唔，看来我这首诗的「写作」，算是搞砸了呢。"
 
 # script-poemresponses2.rpyc:248
 translate chinese ch23_m_end_d4549a8b:
 
     # m "I was just trying to..."
-    m "I was just trying to..."
+    m "我只是想……"
 
 # script-poemresponses2.rpyc:249
 translate chinese ch23_m_end_f3cd2d78:
 
     # m 1i "...Never mind."
-    m 1i "...Never mind."
+    m 1i "……算了。"
 
 # script-poemresponses2.rpyc:250
 translate chinese ch23_m_end_71195760:
 
     # m "Let's just move on..."
-    m "Let's just move on..."
+    m "我们换个话题吧……"
 
 # script-poemresponses2.rpyc:267
 translate chinese ch22_n_bad_80e20624:
@@ -2607,6 +2607,7 @@ translate chinese strings:
     # script-poemresponses2.rpy:179
     old "Just Monika."
     new "Just Monika."
+
 
 
 
