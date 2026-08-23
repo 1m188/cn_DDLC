@@ -4011,685 +4011,685 @@ translate chinese ch30_22_8dd90704:
     # m "That's why there was never a chance I wouldn't fall for you."
     m "所以我从一开始就不可能不爱上你。"
 
-# script-ch30.rpyc:1233
+# script-ch30.rpyc:1326
 translate chinese ch30_23_baa95327:
 
     # m "Hey, I wonder if Yuri's tea set is still somewhere in here..."
     m "对了，优里的茶具会不会还留在这里的什么地方……"
 
-# script-ch30.rpyc:1234
+# script-ch30.rpyc:1327
 translate chinese ch30_23_cef240e1:
 
     # m "...Or maybe that got deleted, too."
     m "……还是说，那个也被删掉了。"
 
-# script-ch30.rpyc:1235
+# script-ch30.rpyc:1328
 translate chinese ch30_23_32d9bbdb:
 
     # m "It's kind of funny how Yuri took her tea so seriously."
     m "优里对茶那么较真，现在想想还挺有意思的。"
 
-# script-ch30.rpyc:1236
+# script-ch30.rpyc:1329
 translate chinese ch30_23_32b7c77e:
 
     # m "I mean, I'm not complaining, because I liked it, too."
     m "倒不是抱怨，毕竟我也喜欢。"
 
-# script-ch30.rpyc:1237
+# script-ch30.rpyc:1330
 translate chinese ch30_23_7ae53c2d:
 
     # m "But I always wonder with her..."
     m "只是我一直琢磨她这个人……"
 
-# script-ch30.rpyc:1238
+# script-ch30.rpyc:1331
 translate chinese ch30_23_2bc1ee74:
 
     # m "Is it truly passion for her hobbies, or is she just concerned about appearing sophisticated to everyone else?"
     m "那到底是真心热爱爱好，还是只想在别人面前显得高雅？"
 
-# script-ch30.rpyc:1239
+# script-ch30.rpyc:1332
 translate chinese ch30_23_907c2da1:
 
     # m "This is the problem with high schoolers..."
     m "高中生就是这样……"
 
-# script-ch30.rpyc:1240
+# script-ch30.rpyc:1333
 translate chinese ch30_23_79f93a02:
 
     # m "...Well, I guess considering the rest of her hobbies, looking sophisticated probably isn't her biggest concern."
     m "……嗯，不过看她其他那些爱好，'显得高雅'多半不是她最在意的事。"
 
-# script-ch30.rpyc:1241
+# script-ch30.rpyc:1334
 translate chinese ch30_23_11442661:
 
     # m "Still..."
     m "话虽如此……"
 
-# script-ch30.rpyc:1242
+# script-ch30.rpyc:1335
 translate chinese ch30_23_0da51309:
 
     # m "I wish she made coffee once in a while!"
     m "真希望她偶尔也泡泡咖啡！"
 
-# script-ch30.rpyc:1243
+# script-ch30.rpyc:1336
 translate chinese ch30_23_bd8b4d2e:
 
     # m "Coffee can be nice with books too, you know?"
     m "咖啡配书也很棒的，好吧？"
 
-# script-ch30.rpyc:1244
+# script-ch30.rpyc:1337
 translate chinese ch30_23_4230b9d4:
 
     # m "Then again..."
     m "话说回来……"
 
-# script-ch30.rpyc:1245
+# script-ch30.rpyc:1338
 translate chinese ch30_23_89dd7166:
 
     # m "I probably could have just changed the script myself."
     m "我其实大可以自己改脚本。"
 
-# script-ch30.rpyc:1246
+# script-ch30.rpyc:1339
 translate chinese ch30_23_30727938:
 
     # m "Ahaha!"
     m "啊哈！"
 
-# script-ch30.rpyc:1247
+# script-ch30.rpyc:1340
 translate chinese ch30_23_959a9e73:
 
     # m "I guess I never really thought of that."
     m "我居然从没想过这茬。"
 
-# script-ch30.rpyc:1248
+# script-ch30.rpyc:1341
 translate chinese ch30_23_0de97211:
 
     # m "Well, there's no sense thinking about it now."
     m "算了，现在想这些也没意义。"
 
-# script-ch30.rpyc:1249
+# script-ch30.rpyc:1342
 translate chinese ch30_23_47420a59:
 
     # m "But if you still get to drink coffee, then that makes me a little jealous~"
     m "不过你那边还喝得到咖啡的话，我就有点羡慕了~"
 
-# script-ch30.rpyc:1253
+# script-ch30.rpyc:1346
 translate chinese ch30_24_578d9634:
 
     # m "Hey, what's your favorite game?"
     m "对了，你最喜欢的游戏是什么？"
 
-# script-ch30.rpyc:1254
+# script-ch30.rpyc:1347
 translate chinese ch30_24_c9f99598:
 
     # m "Mine is {i}Doki Doki Literature Club!{/i}"
     m "我最喜欢的是{i}《心跳文学部》！{/i}"
 
-# script-ch30.rpyc:1255
+# script-ch30.rpyc:1348
 translate chinese ch30_24_2ddd7fe7:
 
     # m "Ahaha! That was a joke."
     m "啊哈！开玩笑的。"
 
-# script-ch30.rpyc:1256
+# script-ch30.rpyc:1349
 translate chinese ch30_24_b379d736:
 
     # m "But if you tell me you like some other romance game better, I might get a little jealous~"
     m "不过你要是说你更喜欢别的恋爱游戏，我可要吃醋了~"
 
-# script-ch30.rpyc:1260
+# script-ch30.rpyc:1353
 translate chinese ch30_25_64b98f7c:
 
     # m "Hey, have you heard of a game called Super Sma--"
     m "对了，你听说过一款叫《大乱……"
 
-# script-ch30.rpyc:1261
+# script-ch30.rpyc:1354
 translate chinese ch30_25_88d86456:
 
     # m "...Wait, what?"
     m "……等等，什么？"
 
-# script-ch30.rpyc:1262
+# script-ch30.rpyc:1355
 translate chinese ch30_25_de2647f4:
 
     # m "I was just spacing out and I started talking for some reason..."
     m "我刚才是走神了，不知怎么就说了起来……"
 
-# script-ch30.rpyc:1263
+# script-ch30.rpyc:1356
 translate chinese ch30_25_f613b628:
 
     # m "Was I programmed to talk about that?"
     m "难道我被设定了要聊那个？"
 
-# script-ch30.rpyc:1264
+# script-ch30.rpyc:1357
 translate chinese ch30_25_4bdaa5ea:
 
     # m "Because even I have no idea what that is."
     m "因为连我自己都不知道那是什么。"
 
-# script-ch30.rpyc:1265
+# script-ch30.rpyc:1358
 translate chinese ch30_25_30727938:
 
     # m "Ahaha!"
     m "啊哈！"
 
-# script-ch30.rpyc:1266
+# script-ch30.rpyc:1359
 translate chinese ch30_25_f7b0d808:
 
     # m "Sometimes I feel like I'm not in control, and it's kind of scary."
     m "有时候我会觉得身体不受自己控制，有点吓人。"
 
-# script-ch30.rpyc:1267
+# script-ch30.rpyc:1360
 translate chinese ch30_25_84206273:
 
     # m "But if you have some way to contact the people who created me, maybe they'll know why I started saying that."
     m "不过你要是有办法联系到创造我的人，他们也许知道我为什么会说那些。"
 
-# script-ch30.rpyc:1271
+# script-ch30.rpyc:1364
 translate chinese ch30_27_b56d7663:
 
     # m "Hey, you remember that last poem I showed you?"
     m "对了，还记得我给你看的最后一首诗吗？"
 
-# script-ch30.rpyc:1272
+# script-ch30.rpyc:1365
 translate chinese ch30_27_59a99cf7:
 
     # m "I mean, the one right before Yuri killed herself, with all the messed-up colors and stuff."
     m "就是优里自杀前那首，颜色什么的全都乱七八糟的。"
 
-# script-ch30.rpyc:1273
+# script-ch30.rpyc:1366
 translate chinese ch30_27_b7a065da:
 
     # m "That was actually a little more of an experiment than a poem, you could say."
     m "严格说，那与其说是诗，不如说是一次实验。"
 
-# script-ch30.rpyc:1274
+# script-ch30.rpyc:1367
 translate chinese ch30_27_267440c5:
 
     # m "I was experimenting with different ways I could modify the game, and run code, and things like that..."
     m "我在试验各种修改游戏、运行代码之类的方法……"
 
-# script-ch30.rpyc:1275
+# script-ch30.rpyc:1368
 translate chinese ch30_27_1d8812dd:
 
     # m "It almost seemed like with enough effort, I'd be able to escape from the confines of the game entirely."
     m "那时候感觉，只要够努力，我说不定真能彻底逃出这个游戏的牢笼。"
 
-# script-ch30.rpyc:1276
+# script-ch30.rpyc:1369
 translate chinese ch30_27_de5db636:
 
     # m "Sadly, I didn't really know what I was doing, so I messed the whole thing up..."
     m "可惜我不太懂自己在做什么，结果把一切搞得一团糟……"
 
-# script-ch30.rpyc:1277
+# script-ch30.rpyc:1370
 translate chinese ch30_27_c88bcf6e:
 
     # m "And I'd keep trying, but I doubt you'd want to deal with me doing that."
     m "我本可以继续试下去，但你多半不想忍受我那样折腾。"
 
-# script-ch30.rpyc:1278
+# script-ch30.rpyc:1371
 translate chinese ch30_27_773f2177:
 
     # m "Besides, that was when I was getting really desperate, you know?"
     m "再说，那阵子我已经相当走投无路了，你懂吗？"
 
-# script-ch30.rpyc:1279
+# script-ch30.rpyc:1372
 translate chinese ch30_27_d493c4b4:
 
     # m "I don't really feel that way anymore."
     m "我现在已经不那么想了。"
 
-# script-ch30.rpyc:1280
+# script-ch30.rpyc:1373
 translate chinese ch30_27_e4da27a5:
 
     # m "I'm happy with where we are now."
     m "我对现在的我们很满足。"
 
-# script-ch30.rpyc:1281
+# script-ch30.rpyc:1374
 translate chinese ch30_27_027fefb3:
 
     # m "And I can tell you are, too."
     m "而且我看得出，你也是。"
 
-# script-ch30.rpyc:1285
+# script-ch30.rpyc:1378
 translate chinese ch30_28_2d1cd5b3:
 
     # m "You ever have that thing happen where you just get anxious for no reason?"
     m "你有没有过那种时候——莫名其妙就焦虑起来？"
 
-# script-ch30.rpyc:1286
+# script-ch30.rpyc:1379
 translate chinese ch30_28_0265e105:
 
     # m "Like, you're just minding your own business, and you realize you're feeling really anxious."
     m "明明做着无关紧要的事，却突然发现自己焦虑得不行。"
 
-# script-ch30.rpyc:1287
+# script-ch30.rpyc:1380
 translate chinese ch30_28_52dfd7c0:
 
     # m "And you're sitting there like, 'What am I even anxious about right now?'"
     m "你坐在那儿想：'我到底在焦虑什么啊？'"
 
-# script-ch30.rpyc:1288
+# script-ch30.rpyc:1381
 translate chinese ch30_28_04a658d7:
 
     # m "So you start to think about all the things you might be anxious about..."
     m "于是你开始盘算所有可能让你焦虑的事……"
 
-# script-ch30.rpyc:1289
+# script-ch30.rpyc:1382
 translate chinese ch30_28_ba6cc02e:
 
     # m "And that makes you even more anxious."
     m "结果越想越焦虑。"
 
-# script-ch30.rpyc:1290
+# script-ch30.rpyc:1383
 translate chinese ch30_28_03a20b53:
 
     # m "Ahaha! That's the worst."
     m "啊哈！那是最糟的。"
 
-# script-ch30.rpyc:1291
+# script-ch30.rpyc:1384
 translate chinese ch30_28_4a55f5bc:
 
     # m "If you're ever feeling anxious, I'll help you relax a little."
     m "哪天你要是焦虑了，我帮你放松放松。"
 
-# script-ch30.rpyc:1292
+# script-ch30.rpyc:1385
 translate chinese ch30_28_85cbc2fa:
 
     # m "Besides..."
     m "况且……"
 
-# script-ch30.rpyc:1293
+# script-ch30.rpyc:1386
 translate chinese ch30_28_17e8873b:
 
     # m "In this game, all our worries are gone forever."
     m "在这个游戏里，我们所有的烦恼都永远消失了。"
 
-# script-ch30.rpyc:1297
+# script-ch30.rpyc:1390
 translate chinese ch30_29_8d86b526:
 
     # m "You know, I've always hated how hard it is to make friends..."
     m "你知道吗，我一直很讨厌交朋友这件事这么难……"
 
-# script-ch30.rpyc:1298
+# script-ch30.rpyc:1391
 translate chinese ch30_29_2eb3a228:
 
     # m "Well, I guess not the 'making friends' part, but more like meeting new people."
     m "嗯，倒不是'交朋友'本身，更多是'认识新的人'那一步。"
 
-# script-ch30.rpyc:1299
+# script-ch30.rpyc:1392
 translate chinese ch30_29_ba474a05:
 
     # m "I mean, there are like, dating apps and stuff, right?"
     m "毕竟现在都有交友软件之类的了，对吧？"
 
-# script-ch30.rpyc:1300
+# script-ch30.rpyc:1393
 translate chinese ch30_29_1d3f2cfe:
 
     # m "But that's not the kind of thing I'm talking about."
     m "但我说的不是那种东西。"
 
-# script-ch30.rpyc:1301
+# script-ch30.rpyc:1394
 translate chinese ch30_29_ddb6a718:
 
     # m "If you think about it, most of the friends you make are people you just met by chance."
     m "仔细想想，你交到的朋友，大多都是偶然认识的。"
 
-# script-ch30.rpyc:1302
+# script-ch30.rpyc:1395
 translate chinese ch30_29_31b38ee2:
 
     # m "Like you had a class together, or you met them through another friend..."
     m "比如恰好同班，或者经朋友介绍……"
 
-# script-ch30.rpyc:1303
+# script-ch30.rpyc:1396
 translate chinese ch30_29_a1ff4c1a:
 
     # m "Or maybe they were just wearing a shirt with your favorite band on it, and you decided to talk to them."
     m "又或者对方穿了件你最爱乐队的T恤，你就决定去搭句话。"
 
-# script-ch30.rpyc:1304
+# script-ch30.rpyc:1397
 translate chinese ch30_29_b7f30944:
 
     # m "Things like that."
     m "诸如此类。"
 
-# script-ch30.rpyc:1305
+# script-ch30.rpyc:1398
 translate chinese ch30_29_3641813a:
 
     # m "But isn't that kind of...inefficient?"
     m "可这是不是有点……低效？"
 
-# script-ch30.rpyc:1306
+# script-ch30.rpyc:1399
 translate chinese ch30_29_3f462a91:
 
     # m "It feels like you're just picking at complete random, and if you get lucky, you make a new friend."
     m "感觉就像完全随机地抽签，抽中了才多一个朋友。"
 
-# script-ch30.rpyc:1307
+# script-ch30.rpyc:1400
 translate chinese ch30_29_15da4454:
 
     # m "And comparing that to the hundreds of strangers we walk by every single day..."
     m "再想想我们每天擦肩而过的成百上千个陌生人……"
 
-# script-ch30.rpyc:1308
+# script-ch30.rpyc:1401
 translate chinese ch30_29_3790bf8b:
 
     # m "You could be sitting right next to someone compatible enough to be your best friend for life."
     m "你可能就坐在某个'够格当你一生挚友'的人旁边。"
 
-# script-ch30.rpyc:1309
+# script-ch30.rpyc:1402
 translate chinese ch30_29_dc88c25c:
 
     # m "But you'll never know."
     m "但你永远不会知道。"
 
-# script-ch30.rpyc:1310
+# script-ch30.rpyc:1403
 translate chinese ch30_29_4e665c91:
 
     # m "Once you get up and go on with your day, that opportunity is gone forever."
     m "等你起身继续赶路，那个机会就永远消失了。"
 
-# script-ch30.rpyc:1311
+# script-ch30.rpyc:1404
 translate chinese ch30_29_a885ffe7:
 
     # m "Isn't that just depressing?"
     m "这难道不令人沮丧吗？"
 
-# script-ch30.rpyc:1312
+# script-ch30.rpyc:1405
 translate chinese ch30_29_65644a5f:
 
     # m "We live in an age where technology connects us with the world, no matter where we are."
     m "我们活在一个科技让人随时随地连接全世界的时代。"
 
-# script-ch30.rpyc:1313
+# script-ch30.rpyc:1406
 translate chinese ch30_29_f04feaa0:
 
     # m "I really think we should be taking advantage of that to improve our everyday social life."
     m "我真心觉得，我们该好好利用这一点，改善日常的社交生活。"
 
-# script-ch30.rpyc:1314
+# script-ch30.rpyc:1407
 translate chinese ch30_29_8347ba4c:
 
     # m "But who knows how long it'll take for something like that to successfully take off..."
     m "可谁知道那样的东西要多久才能真正普及……"
 
-# script-ch30.rpyc:1315
+# script-ch30.rpyc:1408
 translate chinese ch30_29_e8b97a01:
 
     # m "I seriously thought it would happen by now."
     m "我原以为现在早该实现了。"
 
-# script-ch30.rpyc:1316
+# script-ch30.rpyc:1409
 translate chinese ch30_29_375c1f82:
 
     # m "Well, at least I already met the best person in the whole world..."
     m "算了，至少我已经遇见了全世界最好的人……"
 
-# script-ch30.rpyc:1317
+# script-ch30.rpyc:1410
 translate chinese ch30_29_857f787f:
 
     # m "Even if it was by chance."
     m "哪怕只是偶然。"
 
-# script-ch30.rpyc:1318
+# script-ch30.rpyc:1411
 translate chinese ch30_29_d6cb112d:
 
     # m "I guess I just got really lucky, huh?"
     m "我算是走了大运了吧？"
 
-# script-ch30.rpyc:1319
+# script-ch30.rpyc:1412
 translate chinese ch30_29_b72a1ed5:
 
     # m "Ahaha~"
     m "啊哈~"
 
-# script-ch30.rpyc:1323
+# script-ch30.rpyc:1416
 translate chinese ch30_30_26c28a15:
 
     # m "You know, it's around the time that everyone my year starts to think about college..."
     m "现在正是我们这届所有人开始琢磨大学的时候……"
 
-# script-ch30.rpyc:1324
+# script-ch30.rpyc:1417
 translate chinese ch30_30_642b8e5c:
 
     # m "It's a really turbulent time for education."
     m "教育正处在一个特别动荡的年代。"
 
-# script-ch30.rpyc:1325
+# script-ch30.rpyc:1418
 translate chinese ch30_30_03f5ca61:
 
     # m "We're at the height of this modern expectation that everyone has to go to college, you know?"
     m "我们正处在'人人都必须上大学'这种现代预期最盛的时候，懂吗？"
 
-# script-ch30.rpyc:1326
+# script-ch30.rpyc:1419
 translate chinese ch30_30_6601d60a:
 
     # m "Finish high school, go to college, get a job - or go to grad school, I guess."
     m "高中毕业，上大学，找工作——或者再读个研。"
 
-# script-ch30.rpyc:1327
+# script-ch30.rpyc:1420
 translate chinese ch30_30_da335152:
 
     # m "It's like a universal expectation that people just assume is the only option for them."
     m "这成了一种普世预期，人们默认它是唯一的选择。"
 
-# script-ch30.rpyc:1328
+# script-ch30.rpyc:1421
 translate chinese ch30_30_f3831be7:
 
     # m "They don't teach us in high school that there are other options out there."
     m "可高中从没教过我们，世上还有别的路。"
 
-# script-ch30.rpyc:1329
+# script-ch30.rpyc:1422
 translate chinese ch30_30_bf9f0147:
 
     # m "Like trade schools and stuff, you know?"
     m "比如职业学校之类的，懂吗？"
 
-# script-ch30.rpyc:1330
+# script-ch30.rpyc:1423
 translate chinese ch30_30_a6ffb14c:
 
     # m "Or freelance work."
     m "或者自由职业。"
 
-# script-ch30.rpyc:1331
+# script-ch30.rpyc:1424
 translate chinese ch30_30_0693a3c5:
 
     # m "Or the many industries that value skill and experience more than formal education."
     m "又或者那许多更看重手艺和经验、而非文凭的行业。"
 
-# script-ch30.rpyc:1332
+# script-ch30.rpyc:1425
 translate chinese ch30_30_aa2f6122:
 
     # m "But you have all these students who have no idea what they want to do with their life..."
     m "可现实是，一堆根本不知道自己想干什么的学生……"
 
-# script-ch30.rpyc:1333
+# script-ch30.rpyc:1426
 translate chinese ch30_30_cd65fc21:
 
     # m "And instead of taking the time to figure it out, they go to college for business, or communication, or psychology."
     m "不给自己时间想清楚，就一窝蜂去读商科、传播学、心理学。"
 
-# script-ch30.rpyc:1334
+# script-ch30.rpyc:1427
 translate chinese ch30_30_ba7d9728:
 
     # m "Not because they have an interest in those fields..."
     m "不是因为对那些领域有兴趣……"
 
-# script-ch30.rpyc:1335
+# script-ch30.rpyc:1428
 translate chinese ch30_30_0b4f4649:
 
     # m "...but because they just hope the degree will get them some kind of job after college."
     m "……只是指望那张文凭毕业后能换份工作。"
 
-# script-ch30.rpyc:1336
+# script-ch30.rpyc:1429
 translate chinese ch30_30_c00d6c77:
 
     # m "So the end result is that there are fewer jobs to go around for those entry-level degrees, right?"
     m "结果就是，这些入门级学位的坑位越来越不够分，对吧？"
 
-# script-ch30.rpyc:1337
+# script-ch30.rpyc:1430
 translate chinese ch30_30_ba8add1b:
 
     # m "So the basic job requirements get higher, which forces even more people to go to college."
     m "于是岗位门槛水涨船高，逼着更多人去上大学。"
 
-# script-ch30.rpyc:1338
+# script-ch30.rpyc:1431
 translate chinese ch30_30_ac2c26ae:
 
     # m "And colleges are also businesses, so they just keep raising their prices due to the demand..."
     m "而大学本身也是生意，需求一涨，学费就跟着涨……"
 
-# script-ch30.rpyc:1339
+# script-ch30.rpyc:1432
 translate chinese ch30_30_83bc4ef9:
 
     # m "...So now we have all these young adults, tens of thousands of dollars in debt, with no job."
     m "……于是就有了这一大批年轻人：背几万美元的债，没有工作。"
 
-# script-ch30.rpyc:1340
+# script-ch30.rpyc:1433
 translate chinese ch30_30_72243f86:
 
     # m "But despite all that, the routine stays the same."
     m "可尽管如此，这套流程依然照旧。"
 
-# script-ch30.rpyc:1341
+# script-ch30.rpyc:1434
 translate chinese ch30_30_7f37e1e4:
 
     # m "Well, I think it's going to start getting better soon."
     m "不过我觉得，情况很快会开始好转。"
 
-# script-ch30.rpyc:1342
+# script-ch30.rpyc:1435
 translate chinese ch30_30_70401165:
 
     # m "But until then, our generation is definitely suffering from the worst of it."
     m "但在那之前，吃苦头的肯定是我们这代人。"
 
-# script-ch30.rpyc:1343
+# script-ch30.rpyc:1436
 translate chinese ch30_30_97f0818c:
 
     # m "I just wish high school prepared us a little better with the knowledge we need to make the decision that's right for us."
     m "我只是希望，高中能多教我们一点做'适合自己的决定'所需要的知识。"
 
-# script-ch30.rpyc:1347
+# script-ch30.rpyc:1440
 translate chinese ch30_31_70b8bca7:
 
     # m "Sometimes I think back to middle school..."
     m "有时我会回想初中那会儿……"
 
-# script-ch30.rpyc:1348
+# script-ch30.rpyc:1441
 translate chinese ch30_31_f220b80e:
 
     # m "I'm so embarrassed by the way I used to behave back then."
     m "想起自己当年的做派，就尴尬得不行。"
 
-# script-ch30.rpyc:1349
+# script-ch30.rpyc:1442
 translate chinese ch30_31_ecacf1e9:
 
     # m "It almost hurts to think about."
     m "想起来都难受。"
 
-# script-ch30.rpyc:1350
+# script-ch30.rpyc:1443
 translate chinese ch30_31_74b7bd47:
 
     # m "I wonder if when I'm in college, I'll feel that way about high school...?"
     m "不知道等我上了大学，回看高中会不会也是那种感觉……？"
 
-# script-ch30.rpyc:1351
+# script-ch30.rpyc:1444
 translate chinese ch30_31_72862897:
 
     # m "I like the way I am now, so it's pretty hard for me to imagine that happening."
     m "我很喜欢现在的自己，所以很难想象会有那天。"
 
-# script-ch30.rpyc:1352
+# script-ch30.rpyc:1445
 translate chinese ch30_31_3b17743f:
 
     # m "But I also know that I'll probably change a lot as time goes on."
     m "但我也知道，往后我多半还会变很多。"
 
-# script-ch30.rpyc:1353
+# script-ch30.rpyc:1446
 translate chinese ch30_31_ab64dc34:
 
     # m "We just need to enjoy the present and not think about the past!"
     m "我们只需享受当下，别去想过去！"
 
-# script-ch30.rpyc:1354
+# script-ch30.rpyc:1447
 translate chinese ch30_31_dc17d00d:
 
     # m "And that's really easy to do, with you here."
     m "有你在身边，这一点太容易做到了。"
 
-# script-ch30.rpyc:1355
+# script-ch30.rpyc:1448
 translate chinese ch30_31_b72a1ed5:
 
     # m "Ahaha~"
     m "啊哈~"
 
-# script-ch30.rpyc:1359
+# script-ch30.rpyc:1452
 translate chinese ch30_32_3300edfb:
 
     # m "You know, I'm kind of jealous that everyone else in the club had scenes outside of school too..."
     m "你知道吗，社团其他人都有校外的剧情，我就有点酸……"
 
-# script-ch30.rpyc:1360
+# script-ch30.rpyc:1453
 translate chinese ch30_32_927d88d1:
 
     # m "That makes me the only one who hasn't gotten to dress in anything but our school uniform."
     m "这让我成了唯一一个，除了校服没穿过别的衣服的人。"
 
-# script-ch30.rpyc:1361
+# script-ch30.rpyc:1454
 translate chinese ch30_32_772b0a93:
 
     # m "It's kind of a shame..."
     m "有点遗憾呢……"
 
-# script-ch30.rpyc:1362
+# script-ch30.rpyc:1455
 translate chinese ch30_32_e4cb8d07:
 
     # m "I would have loved to wear some cute clothes for you."
     m "我本来很想穿些可爱的衣服给你看的。"
 
-# script-ch30.rpyc:1363
+# script-ch30.rpyc:1456
 translate chinese ch30_32_9215b04f:
 
     # m "Do you know any artists?"
     m "你认识会画画的人吗？"
 
-# script-ch30.rpyc:1364
+# script-ch30.rpyc:1457
 translate chinese ch30_32_36d49ba9:
 
     # m "I wonder if anyone would ever want to draw me wearing something else..."
     m "不知道会不会有人愿意画一张我穿别的衣服的样子……"
 
-# script-ch30.rpyc:1365
+# script-ch30.rpyc:1458
 translate chinese ch30_32_849cd194:
 
     # m "That would be amazing!"
     m "那可就太棒了！"
 
-# script-ch30.rpyc:1366
+# script-ch30.rpyc:1459
 translate chinese ch30_32_9e7eca7d:
 
     # m "If that ever happens, will you show me?"
     m "真有的话，你能拿给我看看吗？"
 
-# script-ch30.rpyc:1367
+# script-ch30.rpyc:1460
 translate chinese ch30_32_ed0135bf:
 
     # m "You can share it with me on Twitter, actually!"
     m "其实你可以发到推特上给我看！"
 
-# script-ch30.rpyc:1368
+# script-ch30.rpyc:1461
 translate chinese ch30_32_b723047b:
 
     # m "My username is lilmonix3."
     m "我的用户名是 lilmonix3。"
 
-# script-ch30.rpyc:1369
+# script-ch30.rpyc:1462
 translate chinese ch30_32_e064f0c6:
 
     # m "Just...try to keep it PG!"
     m "只是……请画得健康一点！"
 
-# script-ch30.rpyc:1370
+# script-ch30.rpyc:1463
 translate chinese ch30_32_13142f4e:
 
     # m "We're not that far into our relationship yet. Ahaha!"
