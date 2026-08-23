@@ -236,7 +236,7 @@ translate chinese yuri_exclusive_1_9edded30:
 translate chinese yuri_exclusive_1_0c75c656:
 
     # "The book is titled \"Portrait of Markov\"."
-    "The book is titled \"Portrait of Markov\"这本书叫《马尔可夫肖像》。"
+    "这本书叫《马尔可夫肖像》。"
 
 # script-exclusives-yuri.rpyc:46
 translate chinese yuri_exclusive_1_fd714eb0:
@@ -650,7 +650,7 @@ translate chinese yuri_exclusive_1_b7550a3e:
 translate chinese yuri_exclusive_1_695b1b6b:
 
     # "I soon understand what Yuri means about reading in company."
-    "我很快就明白优里说的"和别人一起读书"是什么意思了。"
+    "我很快就明白优里说的“和别人一起读书”是什么意思了。"
 
 # script-exclusives-yuri.rpyc:117
 translate chinese yuri_exclusive_1_d2bc4359:
@@ -2162,7 +2162,7 @@ translate chinese yuri_exclusive_2_ch3_33179bd7:
 translate chinese yuri_exclusive_2_ch3_c42403a3:
 
     # "It's a bag of small chocolate candies that I kept hidden from Sayori's candy radar."
-    "那是我藏在纱世里的"糖果雷达"探测范围之外的一袋小巧克力糖。"
+    "那是我藏在纱世里的“糖果雷达”探测范围之外的一袋小巧克力糖。"
 
 # script-exclusives-yuri.rpyc:439
 translate chinese yuri_exclusive_2_ch3_e1063e85:
