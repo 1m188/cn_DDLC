@@ -3098,7 +3098,7 @@ translate chinese ch1_n_bad_5b1182db:
 translate chinese ch1_n_bad_9d7973b8:
 
     # mc "If you're still proud of the first poem {i}you{/i} ever wrote, then I'd like to read it."
-    mc "要是你到现在还为你写的第一首诗{i}自己{/i}得意，那我倒想读读看。"
+    mc "要是你到现在还为你写的第一首诗得意，那我倒想读读看。"
 
 # script-poemresponses.rpyc:758
 translate chinese ch1_n_bad_fb415e31:
@@ -3446,679 +3446,679 @@ translate chinese ch1_n_good_d2e89e86:
 translate chinese ch2_n_bad_a9238065:
 
     # n "...Hm."
-    n "...Hm."
+    n "……唔。"
 
 # script-poemresponses.rpyc:827
 translate chinese ch2_n_bad_5d9aad6c:
 
     # n 2k "Well, I can admit that it's better than the last one."
-    n 2k "Well, I can admit that it's better than the last one."
+    n 2k "唔，我承认这首比上一篇好。"
 
 # script-poemresponses.rpyc:828
 translate chinese ch2_n_bad_0d4958b9:
 
     # n "It's nice to see that you're putting in some effort."
-    n "It's nice to see that you're putting in some effort."
+    n "看得出你花了不少心思，这点不错。"
 
 # script-poemresponses.rpyc:829
 translate chinese ch2_n_bad_0c1a926e:
 
     # mc "That's good..."
-    mc "That's good..."
+    mc "那就好……"
 
 # script-poemresponses.rpyc:830
 translate chinese ch2_n_bad_88ad311c:
 
     # n 2c "But I still don't like this at all."
-    n 2c "But I still don't like this at all."
+    n 2c "不过，我还是完全不喜欢这首。"
 
 # script-poemresponses.rpyc:831
 translate chinese ch2_n_bad_b0bc4dd3:
 
     # n "It's trying too hard to be serious."
-    n "It's trying too hard to be serious."
+    n "它太用力装深沉了。"
 
 # script-poemresponses.rpyc:832
 translate chinese ch2_n_bad_d85cb98c:
 
     # mc "Eh? What do you mean by that?"
-    mc "Eh? What do you mean by that?"
+    mc "诶？你这话什么意思？"
 
 # script-poemresponses.rpyc:836
 translate chinese ch2_n_bad_sharedwithch3_450073cc:
 
     # n 4c "Poems don't need to be all deep-sounding to express something."
-    n 4c "Poems don't need to be all deep-sounding to express something."
+    n 4c "诗要表达什么，又不需要非得写得那么高深。"
 
 # script-poemresponses.rpyc:837
 translate chinese ch2_n_bad_sharedwithch3_aad0a30c:
 
     # n "It's going to just sound like you're forcing it unless you really don't suck at it."
-    n "It's going to just sound like you're forcing it unless you really don't suck at it."
+    n "除非你真的有两下子，不然硬凹深沉只会显得很刻意。"
 
 # script-poemresponses.rpyc:838
 translate chinese ch2_n_bad_sharedwithch3_5c28c9d7:
 
     # n 4w "Honestly... Don't bother trying to write poems like this until you're on Yuri's level--"
-    n 4w "Honestly... Don't bother trying to write poems like this until you're on Yuri's level--"
+    n 4w "说真的……在你还没到优里那水平之前，别费劲写这种诗了——"
 
 # script-poemresponses.rpyc:840
 translate chinese ch2_n_bad_sharedwithch3_cde110ce:
 
     # "Natsuki stops short all of a sudden."
-    "Natsuki stops short all of a sudden."
+    "夏树突然住了口。"
 
 # script-poemresponses.rpyc:841
 translate chinese ch2_n_bad_sharedwithch3_dc2b3681:
 
     # n 1o "D-Don't...tell me..."
-    n 1o "D-Don't...tell me..."
+    n 1o "别、别告诉我……"
 
 # script-poemresponses.rpyc:842
 translate chinese ch2_n_bad_sharedwithch3_fb2e5377:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "诶？"
 
 # script-poemresponses.rpyc:843
 translate chinese ch2_n_bad_sharedwithch3_241edb08:
 
     # n "You're not...you're not just trying to impress Yuri, are you?!"
-    n "You're not...you're not just trying to impress Yuri, are you?!"
+    n "你该不会……该不会只是想讨好优里才写这个的吧？！"
 
 # script-poemresponses.rpyc:844
 translate chinese ch2_n_bad_sharedwithch3_e942cdcc:
 
     # mc "W-What are you talking about?? And keep your voice down...!"
-    mc "W-What are you talking about?? And keep your voice down...!"
+    mc "你、你在说什么啊？？还有小声一点……！"
 
 # script-poemresponses.rpyc:845
 translate chinese ch2_n_bad_sharedwithch3_bcaffe77:
 
     # n 1x "You know Yuri would love this kind of...this angsty.......!!"
-    n 1x "You know Yuri would love this kind of...this angsty.......!!"
+    n 1x "你明知道优里会喜欢这种……这种多愁善感的……！"
 
 # script-poemresponses.rpyc:846
 translate chinese ch2_n_bad_sharedwithch3_0beb0948:
 
     # mc "Just because she's a talented writer doesn't mean...I-I mean..."
-    mc "Just because she's a talented writer doesn't mean...I-I mean..."
+    mc "就算她是个有才华的作家，那也不代表……我、我是说……"
 
 # script-poemresponses.rpyc:847
 translate chinese ch2_n_bad_sharedwithch3_ea8d5567:
 
     # n 1o "Uu....!!"
-    n 1o "Uu....!!"
+    n 1o "呜……！"
 
 # script-poemresponses.rpyc:848
 translate chinese ch2_n_bad_sharedwithch3_250ca20f:
 
     # "Looks like I'm in trouble."
-    "Looks like I'm in trouble."
+    "看来我麻烦大了。"
 
 # script-poemresponses.rpyc:849
 translate chinese ch2_n_bad_sharedwithch3_a51d3942:
 
     # "I somehow struck a nerve, though what I did is beyond me."
-    "I somehow struck a nerve, though what I did is beyond me."
+    "不知怎的，我戳到了她的痛处，尽管我自己也一头雾水。"
 
 # script-poemresponses.rpyc:850
 translate chinese ch2_n_bad_sharedwithch3_a08f0ca4:
 
     # n 1c "I am so done with you."
-    n 1c "I am so done with you."
+    n 1c "我真是受够你了。"
 
 # script-poemresponses.rpyc:851
 translate chinese ch2_n_bad_sharedwithch3_c687316f:
 
     # "Natsuki shoves the poem I handed her back over to me."
-    "Natsuki shoves the poem I handed her back over to me."
+    "夏树把我递给她的诗又推了回来。"
 
 # script-poemresponses.rpyc:852
 translate chinese ch2_n_bad_sharedwithch3_3d94c19b:
 
     # n 5w "Take your stupid poem. If you wrote it for someone else, just don't show it to me!"
-    n 5w "Take your stupid poem. If you wrote it for someone else, just don't show it to me!"
+    n 5w "拿走你的破诗。既然是写给别人看的，就别拿来给我看！"
 
 # script-poemresponses.rpyc:853
 translate chinese ch2_n_bad_sharedwithch3_7b4b2ccf:
 
     # mc "Ouch..."
-    mc "Ouch..."
+    mc "好痛……"
 
 # script-poemresponses.rpyc:854
 translate chinese ch2_n_bad_sharedwithch3_654584f3:
 
     # "This is what I get for letting a younger girl step into my business."
-    "This is what I get for letting a younger girl step into my business."
+    "谁让我放任一个小姑娘来插手我的事，这就是报应。"
 
 # script-poemresponses.rpyc:855
 translate chinese ch2_n_bad_sharedwithch3_bc3ae6de:
 
     # "Unless I was a mind reader, I was destined to be in a world of pain from the start."
-    "Unless I was a mind reader, I was destined to be in a world of pain from the start."
+    "除非我是会读心术，否则从一开始就注定要吃苦头。"
 
 # script-poemresponses.rpyc:856
 translate chinese ch2_n_bad_sharedwithch3_227553d4:
 
     # "At least Natsuki wasn't really the girl I was trying to impress in the first place..."
-    "At least Natsuki wasn't really the girl I was trying to impress in the first place..."
+    "至少，夏树本来也不是我想讨好的那个女孩子……"
 
 # script-poemresponses.rpyc:862
 translate chinese ch2_n_bad_sharedwithch3_28817dab:
 
     # n 1k "...Hm."
-    n 1k "...Hm."
+    n 1k "……唔。"
 
 # script-poemresponses.rpyc:863
 translate chinese ch2_n_bad_sharedwithch3_74244aa4:
 
     # n "I liked your last one better."
-    n "I liked your last one better."
+    n "我更喜欢你上一篇。"
 
 # script-poemresponses.rpyc:864
 translate chinese ch2_n_bad_sharedwithch3_d7b8459d:
 
     # mc "Eh? Really?"
-    mc "Eh? Really?"
+    mc "诶？真的吗？"
 
 # script-poemresponses.rpyc:865
 translate chinese ch2_n_bad_sharedwithch3_5956e212:
 
     # n 2c "Well yeah. I can tell you were a little more daring with this one."
-    n 2c "Well yeah. I can tell you were a little more daring with this one."
+    n 2c "嗯，是啊。我看得出来你这次写得大胆了些。"
 
 # script-poemresponses.rpyc:866
 translate chinese ch2_n_bad_sharedwithch3_deb986a6:
 
     # n "But you're really not good enough for that yet. It fell flat."
-    n "But you're really not good enough for that yet. It fell flat."
+    n "可你还远没到能驾驭这种写法的地步。结果就垮了。"
 
 # script-poemresponses.rpyc:867
 translate chinese ch2_n_bad_sharedwithch3_c267cc85:
 
     # mc "That may be true, but I just wanted to try something different."
-    mc "That may be true, but I just wanted to try something different."
+    mc "也许吧，但我就是想试试不一样的。"
 
 # script-poemresponses.rpyc:868
 translate chinese ch2_n_bad_sharedwithch3_192d21e2:
 
     # mc "I'm still figuring this all out."
-    mc "I'm still figuring this all out."
+    mc "我还在摸索的阶段。"
 
 # script-poemresponses.rpyc:869
 translate chinese ch2_n_bad_sharedwithch3_c199a9a0:
 
     # n 2k "I mean, I always like poems that aren't trying too hard."
-    n 2k "I mean, I always like poems that aren't trying too hard."
+    n 2k "我是说，我一向喜欢那些不刻意卖弄的诗。"
 
 # script-poemresponses.rpyc:870
 translate chinese ch2_n_bad_sharedwithch3_9338c573:
 
     # n 2q "I hate when people try to sound fancy or add more meaning just by using annoying and complicated language."
-    n 2q "I hate when people try to sound fancy or add more meaning just by using annoying and complicated language."
+    n 2q "我讨厌那种，光靠堆砌烦人的复杂词句，就装得很有格调、很有深度的写法。"
 
 # script-poemresponses.rpyc:871
 translate chinese ch2_n_bad_sharedwithch3_dab4c55a:
 
     # n 4b "Just make it simple, cute, and to the point!"
-    n 4b "Just make it simple, cute, and to the point!"
+    n 4b "简简单单、可可爱爱、一针见血，不就得了！"
 
 # script-poemresponses.rpyc:872
 translate chinese ch2_n_bad_sharedwithch3_1b67f29d:
 
     # n 4y "Yuri's head over heels for all this cryptic nonsense, but I see right through that BS. Hah!"
-    n 4y "Yuri's head over heels for all this cryptic nonsense, but I see right through that BS. Hah!"
+    n 4y "优里对这套玄乎的东西简直着迷，可我一眼就能看穿那全是鬼扯。哈！"
 
 # script-poemresponses.rpyc:873
 translate chinese ch2_n_bad_sharedwithch3_b068e777:
 
     # n 42a "Making your reader look so hard for all this deep meaning is just an excuse to have no meaning at all."
-    n 42a "Making your reader look so hard for all this deep meaning is just an excuse to have no meaning at all."
+    n 42a "让读者费半天劲去挖所谓的深意，无非是为了掩饰里面根本没有深意罢了。"
 
 # script-poemresponses.rpyc:874
 translate chinese ch2_n_bad_sharedwithch3_27c315b5:
 
     # mc "I guess that's one way to look at it."
-    mc "I guess that's one way to look at it."
+    mc "这倒也是一种看法吧。"
 
 # script-poemresponses.rpyc:875
 translate chinese ch2_n_bad_sharedwithch3_3a5d915e:
 
     # n 2d "Well, everyone has their own opinion."
-    n 2d "Well, everyone has their own opinion."
+    n 2d "嘛，每个人都有自己的看法。"
 
 # script-poemresponses.rpyc:876
 translate chinese ch2_n_bad_sharedwithch3_1a138e6d:
 
     # n "But my opinion is the best opinion. I'm sure you've figured that out already."
-    n "But my opinion is the best opinion. I'm sure you've figured that out already."
+    n "不过我的看法才是最正确的。这点你早就该明白了吧。"
 
 # script-poemresponses.rpyc:877
 translate chinese ch2_n_bad_sharedwithch3_ef59a989:
 
     # mc "Er..."
-    mc "Er..."
+    mc "呃……"
 
 # script-poemresponses.rpyc:878
 translate chinese ch2_n_bad_sharedwithch3_416b2cb7:
 
     # n 2a "Anyway, here's my poem. Maybe you'll learn something."
-    n 2a "Anyway, here's my poem. Maybe you'll learn something."
+    n 2a "总之，这是我的诗。也许你能学到点什么。"
 
 # script-poemresponses.rpyc:884
 translate chinese ch2_n_med_a9238065:
 
     # n "...Hm."
-    n "...Hm."
+    n "……唔。"
 
 # script-poemresponses.rpyc:885
 translate chinese ch2_n_med_5d9aad6c:
 
     # n 2k "Well, I can admit that it's better than the last one."
-    n 2k "Well, I can admit that it's better than the last one."
+    n 2k "唔，我承认这首比上一篇好。"
 
 # script-poemresponses.rpyc:886
 translate chinese ch2_n_med_0d4958b9:
 
     # n "It's nice to see that you're putting in some effort."
-    n "It's nice to see that you're putting in some effort."
+    n "看得出你花了不少心思，这点不错。"
 
 # script-poemresponses.rpyc:887
 translate chinese ch2_n_med_0c1a926e:
 
     # mc "That's good..."
-    mc "That's good..."
+    mc "那就好……"
 
 # script-poemresponses.rpyc:889
 translate chinese ch2_n_med_shared_91c0abf5:
 
     # n 2c "Come to think of it, this kind of reminds me of Sayori's poem from yesterday..."
-    n 2c "Come to think of it, this kind of reminds me of Sayori's poem from yesterday..."
+    n 2c "说起来，这首让我想起昨天纱世里的诗……"
 
 # script-poemresponses.rpyc:890
 translate chinese ch2_n_med_shared_0d6714e9:
 
     # mc "Eh? You think so?"
-    mc "Eh? You think so?"
+    mc "诶？你这么说？"
 
 # script-poemresponses.rpyc:891
 translate chinese ch2_n_med_shared_a7474c85:
 
     # n 2j "Yeah. Well I guess if you've been friends with her for so long, you might be on the same wavelength."
-    n 2j "Yeah. Well I guess if you've been friends with her for so long, you might be on the same wavelength."
+    n 2j "嗯。我想你们认识了这么久，说不定还挺有默契的。"
 
 # script-poemresponses.rpyc:892
 translate chinese ch2_n_med_shared_975e2e25:
 
     # n 2k "But you never really struck me as her type."
-    n 2k "But you never really struck me as her type."
+    n 2k "不过说实话，我怎么也不觉得你会是她的菜。"
 
 # script-poemresponses.rpyc:893
 translate chinese ch2_n_med_shared_ea5f67aa:
 
     # mc "Sayori has a 'type' all of a sudden...?"
-    mc "Sayori has a 'type' all of a sudden...?"
+    mc "纱世里居然也讲究「类型」了……？"
 
 # script-poemresponses.rpyc:894
 translate chinese ch2_n_med_shared_38b61ed6:
 
     # n 42c "Well, I don't know! But honestly, how can someone so...er, fluffy...spend so much time with someone like you?"
-    n 42c "Well, I don't know! But honestly, how can someone so...er, fluffy...spend so much time with someone like you?"
+    n 42c "额，我也不知道啦！可你说，一个那么……呃，像团棉花似的女孩子，怎么会这么愿意跟你混在一起？"
 
 # script-poemresponses.rpyc:895
 translate chinese ch2_n_med_shared_6486d68b:
 
     # n "It's like she's dragging around a dead weight."
-    n "It's like she's dragging around a dead weight."
+    n "简直像是在拖着个累赘似的。"
 
 # script-poemresponses.rpyc:896
 translate chinese ch2_n_med_shared_556ac253:
 
     # mc "Uug... That was a little unnecessary..."
-    mc "Uug... That was a little unnecessary..."
+    mc "唔呃……这话说得有点过分了吧……"
 
 # script-poemresponses.rpyc:897
 translate chinese ch2_n_med_shared_9ab1c449:
 
     # mc "But think of it this way. If it weren't for me, she would probably just fly away like letting go of a balloon."
-    mc "But think of it this way. If it weren't for me, she would probably just fly away like letting go of a balloon."
+    mc "不过你换个角度想。要是没有我，她大概早就像松手的气球一样，飘得没影了。"
 
 # script-poemresponses.rpyc:898
 translate chinese ch2_n_med_shared_5fc52632:
 
     # mc "You could say we each take care of each other in our own way."
-    mc "You could say we each take care of each other in our own way."
+    mc "你也可以说，我们俩是各有各的方式在照顾彼此。"
 
 # script-poemresponses.rpyc:899
 translate chinese ch2_n_med_shared_71de0e61:
 
     # n 2q "Whatever it is, I don't get it..."
-    n 2q "Whatever it is, I don't get it..."
+    n 2q "管他呢，反正我不明白……"
 
 # script-poemresponses.rpyc:900
 translate chinese ch2_n_med_shared_ac64fb80:
 
     # n "...Oh, yeah, I guess I'm supposed to show you my poem."
-    n "...Oh, yeah, I guess I'm supposed to show you my poem."
+    n "……啊，对哦，好像该把我的诗给你看了。"
 
 # script-poemresponses.rpyc:901
 translate chinese ch2_n_med_shared_2466ac54:
 
     # n "Here."
-    n "Here."
+    n "给你。"
 
 # script-poemresponses.rpyc:906
 translate chinese ch2_n_med_shared_a9238065:
 
     # n "...Hm."
-    n "...Hm."
+    n "……唔。"
 
 # script-poemresponses.rpyc:907
 translate chinese ch2_n_med_shared_96bb6129:
 
     # n 2k "Well, it's not really any worse than your last one."
-    n 2k "Well, it's not really any worse than your last one."
+    n 2k "唔，跟上一篇比也不差。"
 
 # script-poemresponses.rpyc:908
 translate chinese ch2_n_med_shared_1a05189b:
 
     # n "But I can't really say it's any better, either."
-    n "But I can't really say it's any better, either."
+    n "不过要说更好，倒也谈不上。"
 
 # script-poemresponses.rpyc:909
 translate chinese ch2_n_med_shared_d91458f0:
 
     # mc "Phew..."
-    mc "Phew..."
+    mc "呼……"
 
 # script-poemresponses.rpyc:910
 translate chinese ch2_n_med_shared_06c9456d:
 
     # n 2c "Huh? 'Phew' what?"
-    n 2c "Huh? 'Phew' what?"
+    n 2c "嗯？「呼」什么？"
 
 # script-poemresponses.rpyc:911
 translate chinese ch2_n_med_shared_f30730dc:
 
     # mc "Ah... Well anything that isn't a trainwreck, I'll take as a win."
-    mc "Ah... Well anything that isn't a trainwreck, I'll take as a win."
+    mc "啊……只要没写成一场灾难，我就算赢了。"
 
 # script-poemresponses.rpyc:912
 translate chinese ch2_n_med_shared_293ad1f3:
 
     # mc "And I get the feeling you're probably the most critical."
-    mc "And I get the feeling you're probably the most critical."
+    mc "而且我总觉得，你大概是最挑剔的那个。"
 
 # script-poemresponses.rpyc:913
 translate chinese ch2_n_med_shared_7783e711:
 
     # n 1p "H-Hey! What makes you--"
-    n 1p "H-Hey! What makes you--"
+    n 1p "喂、喂！你凭什么这么——"
 
 # script-poemresponses.rpyc:914
 translate chinese ch2_n_med_shared_8968fb51:
 
     # n 1q "{i}(Wait, maybe that was a compliment...?){/i}"
-    n 1q "{i}(Wait, maybe that was a compliment...?){/i}"
+    n 1q "{i}（等等，这说不定是句夸奖……？）{/i}"
 
 # script-poemresponses.rpyc:915
 translate chinese ch2_n_med_shared_190b81c1:
 
     # n 4y "A-Ahah! Glad to see someone recognizes my experience!"
-    n 4y "A-Ahah! Glad to see someone recognizes my experience!"
+    n 4y "哈、哈哈！总算有人识货了！"
 
 # script-poemresponses.rpyc:916
 translate chinese ch2_n_med_shared_472981db:
 
     # n "Well then, keep practicing and maybe you'll be as good as me someday!"
-    n "Well then, keep practicing and maybe you'll be as good as me someday!"
+    n "那你就好好练，说不定有朝一日也能赶上我！"
 
 # script-poemresponses.rpyc:917
 translate chinese ch2_n_med_shared_d2fcd254:
 
     # mc "That's...uh..."
-    mc "That's...uh..."
+    mc "这……呃……"
 
 # script-poemresponses.rpyc:918
 translate chinese ch2_n_med_shared_6840c02e:
 
     # "Something tells me Natsuki completely missed the point."
-    "Something tells me Natsuki completely missed the point."
+    "我有种预感，夏树完全理解错了。"
 
 # script-poemresponses.rpyc:923
 translate chinese ch2_n_med_shared_a9238065_1:
 
     # n "...Hm."
-    n "...Hm."
+    n "……唔。"
 
 # script-poemresponses.rpyc:924
 translate chinese ch2_n_med_shared_80bc2c6d:
 
     # n 2c "Well, it's not terrible."
-    n 2c "Well, it's not terrible."
+    n 2c "唔，倒也不算太糟。"
 
 # script-poemresponses.rpyc:925
 translate chinese ch2_n_med_shared_95975dcd:
 
     # n "But it's pretty disappointing after your last one."
-    n "But it's pretty disappointing after your last one."
+    n "不过跟上一篇比起来，就有点让人失望了。"
 
 # script-poemresponses.rpyc:926
 translate chinese ch2_n_med_shared_d9da8001:
 
     # n 2s "Then again, if this one was as good as your last one, I would be completely pissed."
-    n 2s "Then again, if this one was as good as your last one, I would be completely pissed."
+    n 2s "再说，要是这篇也有上一篇那么好，我反而会气个半死。"
 
 # script-poemresponses.rpyc:927
 translate chinese ch2_n_med_shared_b0f3312e:
 
     # mc "Well, I guess I wanted to try something a little different this time."
-    mc "Well, I guess I wanted to try something a little different this time."
+    mc "嗯，我想这篇想试着换个路子写写看。"
 
 # script-poemresponses.rpyc:928
 translate chinese ch2_n_med_shared_42b36abf:
 
     # n 2c "Fair enough. You're still new to this, so I wouldn't expect you to find your style right away."
-    n 2c "Fair enough. You're still new to this, so I wouldn't expect you to find your style right away."
+    n 2c "那也说得过去。你毕竟还是新手，我也不指望你能一下子找到自己的风格。"
 
 # script-poemresponses.rpyc:934
 translate chinese ch2_n_good_54255bee:
 
     # n 1h "..."
-    n 1h "..."
+    n 1h "……"
 
 # script-poemresponses.rpyc:935
 translate chinese ch2_n_good_97bd1d7a:
 
     # "Natsuki reads my poem."
-    "Natsuki reads my poem."
+    "夏树读着我的诗。"
 
 # script-poemresponses.rpyc:936
 translate chinese ch2_n_good_5d9c392f:
 
     # "She keeps glancing at me, then back at the poem."
-    "She keeps glancing at me, then back at the poem."
+    "她一会儿看我，一会儿又看诗。"
 
 # script-poemresponses.rpyc:937
 translate chinese ch2_n_good_a22373b2:
 
     # "By now, she must have read it more than once."
-    "By now, she must have read it more than once."
+    "到这会儿，她大概已经读过不止一遍了。"
 
 # script-poemresponses.rpyc:938
 translate chinese ch2_n_good_07a83d30:
 
     # n 1q "...Aren't you supposed to be bad at this?"
-    n 1q "...Aren't you supposed to be bad at this?"
+    n 1q "……你不是应该写得挺烂的吗？"
 
 # script-poemresponses.rpyc:939
 translate chinese ch2_n_good_9d2d1886:
 
     # mc "...Is that a compliment?"
-    mc "...Is that a compliment?"
+    mc "……这是在夸我吗？"
 
 # script-poemresponses.rpyc:940
 translate chinese ch2_n_good_9f2b732e:
 
     # n 1o "N-No! I mean... You know..."
-    n 1o "N-No! I mean... You know..."
+    n 1o "不、不是！我是说……你知道的……"
 
 # script-poemresponses.rpyc:941
 translate chinese ch2_n_good_d022f701:
 
     # "Natsuki struggles to find the words she wants."
-    "Natsuki struggles to find the words she wants."
+    "夏树想不出该怎么说才好。"
 
 # script-poemresponses.rpyc:942
 translate chinese ch2_n_good_d724ecc5:
 
     # n 5w "I just...expected a lot less after what you showed me yesterday."
-    n 5w "I just...expected a lot less after what you showed me yesterday."
+    n 5w "只是……昨天你给我看了那样的东西，我本来不抱什么指望的。"
 
 # script-poemresponses.rpyc:943
 translate chinese ch2_n_good_726a8413:
 
     # n "That's all."
-    n "That's all."
+    n "就这样。"
 
 # script-poemresponses.rpyc:944
 translate chinese ch2_n_good_98006949:
 
     # mc "Well, I guess I just got lucky with this one."
-    mc "Well, I guess I just got lucky with this one."
+    mc "嗯，大概是这篇我运气好吧。"
 
 # script-poemresponses.rpyc:945
 translate chinese ch2_n_good_9d8a8a07:
 
     # n 4t "Y-Yeah!! Exactly!"
-    n 4t "Y-Yeah!! Exactly!"
+    n 4t "对、对啊！就是这样！"
 
 # script-poemresponses.rpyc:946
 translate chinese ch2_n_good_cd395bd3:
 
     # n "You just got lucky, you know?"
-    n "You just got lucky, you know?"
+    n "你就是运气好，懂吗？"
 
 # script-poemresponses.rpyc:947
 translate chinese ch2_n_good_2f7bee69:
 
     # n 4y "Don't get used to it."
-    n 4y "Don't get used to it."
+    n 4y "别太得意。"
 
 # script-poemresponses.rpyc:948
 translate chinese ch2_n_good_8c4104aa:
 
     # n "You won't always manage to write poems this cute. I mean--!"
-    n "You won't always manage to write poems this cute. I mean--!"
+    n "你不可能每次都写出这么可爱的诗来。我是说——！"
 
 # script-poemresponses.rpyc:949
 translate chinese ch2_n_good_c0bba8b4:
 
     # n 1p "I mean well-written! No, I mean--"
-    n 1p "I mean well-written! No, I mean--"
+    n 1p "我是说写得很好！不对，我是说——"
 
 # script-poemresponses.rpyc:950
 translate chinese ch2_n_good_89864fa4:
 
     # mc "Ah, so that's how it is. My poem is cute?"
-    mc "Ah, so that's how it is. My poem is cute?"
+    mc "噢，原来如此。我的诗很可爱呢。"
 
 # script-poemresponses.rpyc:951
 translate chinese ch2_n_good_9177548a:
 
     # n 1v "No! Why are you smiling?! It's not like I like cute things!"
-    n 1v "No! Why are you smiling?! It's not like I like cute things!"
+    n 1v "不是！你笑什么笑？！我又没说我喜欢可爱的东西！"
 
 # script-poemresponses.rpyc:952
 translate chinese ch2_n_good_3e83fc51:
 
     # "Natsuki shoves my poem back towards me."
-    "Natsuki shoves my poem back towards me."
+    "夏树把我的诗一把推了回来。"
 
 # script-poemresponses.rpyc:953
 translate chinese ch2_n_good_a523ab3e:
 
     # n 4w "H-Huh! Reading it again, I decided that it's not so great after all."
-    n 4w "H-Huh! Reading it again, I decided that it's not so great after all."
+    n 4w "哼、哼！我重看了一遍，果然觉得它也没那么好。"
 
 # script-poemresponses.rpyc:954
 translate chinese ch2_n_good_8c1c0569:
 
     # n "It's too cute and doki-doki."
-    n "It's too cute and doki-doki."
+    n "太可爱了，都让人心跳加速了。"
 
 # script-poemresponses.rpyc:955
 translate chinese ch2_n_good_7e8bb200:
 
     # n 4t "It would only impress...you know, girls...who like those kinds of things."
-    n 4t "It would only impress...you know, girls...who like those kinds of things."
+    n 4t "这种诗只会让……那些……喜欢这种东西的女孩子动心罢了。"
 
 # script-poemresponses.rpyc:956
 translate chinese ch2_n_good_5ba50678:
 
     # n "Ahaha!"
-    n "Ahaha!"
+    n "啊哈哈！"
 
 # script-poemresponses.rpyc:957
 translate chinese ch2_n_good_2e72f39c:
 
     # "For some reason, Natsuki is incredibly easy to see through."
-    "For some reason, Natsuki is incredibly easy to see through."
+    "不知为何，夏树实在是太好懂了。"
 
 # script-poemresponses.rpyc:958
 translate chinese ch2_n_good_cb8cd814:
 
     # n 1w "Well, anyway...!"
-    n 1w "Well, anyway...!"
+    n 1w "嘛，总之……！"
 
 # script-poemresponses.rpyc:959
 translate chinese ch2_n_good_4a2f1148:
 
     # n 1h "You're gonna read mine now, right?"
-    n 1h "You're gonna read mine now, right?"
+    n 1h "现在，你要看我的了吧？"
 
 # script-poemresponses.rpyc:960
 translate chinese ch2_n_good_9a5ef7b8:
 
     # n "Judging by your tastes, you'll probably like it a lot."
-    n "Judging by your tastes, you'll probably like it a lot."
+    n "以你的品味，应该会非常喜欢才对。"
 
 # script-poemresponses.rpyc:961
 translate chinese ch2_n_good_cc5d22cd:
 
     # n 2q "You'll probably learn something, too. Don't forget who the {i}real{/i} pro is."
-    n 2q "You'll probably learn something, too. Don't forget who the {i}real{/i} pro is."
+    n 2q "你八成也能学到点东西。可别忘了谁才是{i}真正的{/i}内行。"
 
 # script-poemresponses.rpyc:966
 translate chinese ch2_n_good_sharedwithch3_5aa1ff30:
 
     # n 1n "..."
-    n 1n "..."
+    n 1n "……"
 
 # script-poemresponses.rpyc:967
 translate chinese ch2_n_good_sharedwithch3_97bd1d7a:
 
     # "Natsuki reads my poem."
-    "Natsuki reads my poem."
+    "夏树读着我的诗。"
 
 # script-poemresponses.rpyc:968
 translate chinese ch2_n_good_sharedwithch3_5d9c392f:
 
     # "She keeps glancing at me, then back at the poem."
-    "She keeps glancing at me, then back at the poem."
+    "她一会儿看我，一会儿又看诗。"
 
 # script-poemresponses.rpyc:969
 translate chinese ch2_n_good_sharedwithch3_a22373b2:
 
     # "By now, she must have read it more than once."
-    "By now, she must have read it more than once."
+    "到这会儿，她大概已经读过不止一遍了。"
 
 # script-poemresponses.rpyc:970
 translate chinese ch2_n_good_sharedwithch3_e6a78c7f:
 
     # n 1u "Rrgh..."
-    n 1u "Rrgh..."
+    n 1u "唔唔……"
 
 # script-poemresponses.rpyc:971
 translate chinese ch2_n_good_sharedwithch3_652650d3:
@@ -12867,6 +12867,8 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
+
 
 
 
