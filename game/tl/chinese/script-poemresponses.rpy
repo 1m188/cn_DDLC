@@ -8606,361 +8606,361 @@ translate chinese ch1_y_good_e1b568f9:
 translate chinese ch2_y_bad_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses.rpyc:1878
 translate chinese ch2_y_bad_57baf64f:
 
     # y 2h "Um..."
-    y 2h "Um..."
+    y 2h "那个……"
 
 # script-poemresponses.rpyc:1879
 translate chinese ch2_y_bad_211dfb12:
 
     # y "...Are you still mad at me?"
-    y "...Are you still mad at me?"
+    y "……你还生我的气吗？"
 
 # script-poemresponses.rpyc:1880
 translate chinese ch2_y_bad_af40f385:
 
     # mc "Eh?!"
-    mc "Eh?!"
+    mc "诶？！"
 
 # script-poemresponses.rpyc:1881
 translate chinese ch2_y_bad_21ef176b:
 
     # y "For disrespecting Natsuki yesterday..."
-    y "For disrespecting Natsuki yesterday..."
+    y "因为昨天我对夏树不敬……"
 
 # script-poemresponses.rpyc:1882
 translate chinese ch2_y_bad_5f0c0a6f:
 
     # y "Because reading this poem..."
-    y "Because reading this poem..."
+    y "因为读完这首诗……"
 
 # script-poemresponses.rpyc:1883
 translate chinese ch2_y_bad_8e14cddd:
 
     # y "Now I know why you got mad at me."
-    y "Now I know why you got mad at me."
+    y "我才明白，你那天为什么会生我的气。"
 
 # script-poemresponses.rpyc:1884
 translate chinese ch2_y_bad_19b892a2:
 
     # y "Because you..."
-    y "Because you..."
+    y "因为你……"
 
 # script-poemresponses.rpyc:1885
 translate chinese ch2_y_bad_99414671:
 
     # y 3v "You prefer her writing over mine!"
-    y 3v "You prefer her writing over mine!"
+    y 3v "你更喜欢她写的诗！"
 
 # script-poemresponses.rpyc:1886
 translate chinese ch2_y_bad_69ee3afb:
 
     # mc "That's not really true...!"
-    mc "That's not really true...!"
+    mc "真不是那样的……！"
 
 # script-poemresponses.rpyc:1887
 translate chinese ch2_y_bad_00ecc785:
 
     # y "Meaning when I disrespected her..."
-    y "Meaning when I disrespected her..."
+    y "也就是说，当我轻慢了夏树……"
 
 # script-poemresponses.rpyc:1888
 translate chinese ch2_y_bad_a514372f:
 
     # y "I disrespected you too...didn't I?"
-    y "I disrespected you too...didn't I?"
+    y "其实，也在冒犯你……对吧？"
 
 # script-poemresponses.rpyc:1889
 translate chinese ch2_y_bad_6c9e27e0:
 
     # y 4c "Oh no..."
-    y 4c "Oh no..."
+    y 4c "哎呀……"
 
 # script-poemresponses.rpyc:1890
 translate chinese ch2_y_bad_d90390e4:
 
     # mc "Yuri..."
-    mc "Yuri..."
+    mc "优里……"
 
 # script-poemresponses.rpyc:1891
 translate chinese ch2_y_bad_d07f142c:
 
     # mc "You might be reading into this a little too much..."
-    mc "You might be reading into this a little too much..."
+    mc "你大概想得有点太多了……"
 
 # script-poemresponses.rpyc:1892
 translate chinese ch2_y_bad_27b70dee:
 
     # y "How could I be so stupid...?"
-    y "How could I be so stupid...?"
+    y "我怎么会这么迟钝……？"
 
 # script-poemresponses.rpyc:1893
 translate chinese ch2_y_bad_782a2639:
 
     # y "I always let these things happen..."
-    y "I always let these things happen..."
+    y "我总是把事情搞成这个样子……"
 
 # script-poemresponses.rpyc:1894
 translate chinese ch2_y_bad_f54886c3:
 
     # y "Whenever I think before I speak, I just come off as awkward and unlikable."
-    y "Whenever I think before I speak, I just come off as awkward and unlikable."
+    y "每次说话前绞尽脑汁，反而显得又笨拙又讨人嫌。"
 
 # script-poemresponses.rpyc:1895
 translate chinese ch2_y_bad_6d46a01b:
 
     # y "But if I speak without thinking, the things I want to keep inside come out and make people hate me."
-    y "But if I speak without thinking, the things I want to keep inside come out and make people hate me."
+    y "可要是不假思索就说出口，那些藏在心里的话又会溜出来，让人讨厌我。"
 
 # script-poemresponses.rpyc:1896
 translate chinese ch2_y_bad_3a084ebc:
 
     # y 2v "So...please don't force yourself to be around me."
-    y 2v "So...please don't force yourself to be around me."
+    y 2v "所以……请你不要勉强自己待在我身边。"
 
 # script-poemresponses.rpyc:1897
 translate chinese ch2_y_bad_8d6c70f2:
 
     # y "I know this is what Monika wants."
-    y "I know this is what Monika wants."
+    y "我知道，这是莫妮卡希望的。"
 
 # script-poemresponses.rpyc:1898
 translate chinese ch2_y_bad_6f728f91:
 
     # y "But it's not fair to you when you could be enjoying your time with Natsuki and Sayori."
-    y "But it's not fair to you when you could be enjoying your time with Natsuki and Sayori."
+    y "可这对你不公平，你明明可以开开心心地和夏树、纱世里待在一起。"
 
 # script-poemresponses.rpyc:1899
 translate chinese ch2_y_bad_40d9123c:
 
     # mc "Yuri--"
-    mc "Yuri--"
+    mc "优里——"
 
 # script-poemresponses.rpyc:1900
 translate chinese ch2_y_bad_aa4ccf7a:
 
     # y 4b "Please..."
-    y 4b "Please..."
+    y 4b "拜托……"
 
 # script-poemresponses.rpyc:1901
 translate chinese ch2_y_bad_024a7ff4:
 
     # y "It makes it easier for me if you don't express any concern."
-    y "It makes it easier for me if you don't express any concern."
+    y "你要是不表露出关心，对我来说反倒轻松些。"
 
 # script-poemresponses.rpyc:1902
 translate chinese ch2_y_bad_a7b7bd96:
 
     # y "Besides..."
-    y "Besides..."
+    y "再说了……"
 
 # script-poemresponses.rpyc:1903
 translate chinese ch2_y_bad_9f840a77:
 
     # y "I have my books with me."
-    y "I have my books with me."
+    y "我还有我的书陪着。"
 
 # script-poemresponses.rpyc:1904
 translate chinese ch2_y_bad_2cc7794c:
 
     # y 3u "That's...all I need."
-    y 3u "That's...all I need."
+    y 3u "那样……就够了。"
 
 # script-poemresponses.rpyc:1905
 translate chinese ch2_y_bad_2b35b6fe:
 
     # mc "..."
-    mc "..."
+    mc "……"
 
 # script-poemresponses.rpyc:1906
 translate chinese ch2_y_bad_b75c60f5:
 
     # "Yuri smiles sadly and puts her head down on her desk."
-    "Yuri smiles sadly and puts her head down on her desk."
+    "优里带着苦涩的微笑，把头埋在了桌上。"
 
 # script-poemresponses.rpyc:1907
 translate chinese ch2_y_bad_f06a89d6:
 
     # "I'm frustrated."
-    "I'm frustrated."
+    "我有些泄气。"
 
 # script-poemresponses.rpyc:1908
 translate chinese ch2_y_bad_8e149fef:
 
     # "I don't hate her, but it's as if she's not capable of listening to me over her own thoughts."
-    "I don't hate her, but it's as if she's not capable of listening to me over her own thoughts."
+    "我并不讨厌她，可她似乎根本听不进我的话，只顾沉浸在自己的思绪里。"
 
 # script-poemresponses.rpyc:1909
 translate chinese ch2_y_bad_4a07b043:
 
     # "I sigh to myself."
-    "I sigh to myself."
+    "我不禁在心里叹了口气。"
 
 # script-poemresponses.rpyc:1910
 translate chinese ch2_y_bad_c8d8f3ef:
 
     # "All I can do is accept that that's how she is."
-    "All I can do is accept that that's how she is."
+    "我能做的，只有接受她本就是这样一个人的事实。"
 
 # script-poemresponses.rpyc:1911
 translate chinese ch2_y_bad_d6dbd480:
 
     # "If she wants to be left alone, then I have no choice but to abide to that request."
-    "If she wants to be left alone, then I have no choice but to abide to that request."
+    "既然她想要独处，我也只能顺着她的意思。"
 
 # script-poemresponses.rpyc:1916
 translate chinese ch2_y_bad_1ef211b6:
 
     # y 2a "Ah, is it my turn?"
-    y 2a "Ah, is it my turn?"
+    y 2a "啊，该轮到我了吗？"
 
 # script-poemresponses.rpyc:1917
 translate chinese ch2_y_bad_4836265b:
 
     # y "Let's see how it compares to yesterday's..."
-    y "Let's see how it compares to yesterday's..."
+    y "让我看看，它跟昨天那首比怎么样……"
 
 # script-poemresponses.rpyc:1918
 translate chinese ch2_y_bad_6cef37bf:
 
     # y "Mm..."
-    y "Mm..."
+    y "唔……"
 
 # script-poemresponses.rpyc:1919
 translate chinese ch2_y_bad_dde3ed59:
 
     # y "I see..."
-    y "I see..."
+    y "原来如此……"
 
 # script-poemresponses.rpyc:1920
 translate chinese ch2_y_bad_b951602e:
 
     # y "It's a bit different."
-    y "It's a bit different."
+    y "这首有点不一样。"
 
 # script-poemresponses.rpyc:1921
 translate chinese ch2_y_bad_1e6a485b:
 
     # y 1a "I respect you for trying different things, [player]."
-    y 1a "I respect you for trying different things, [player]."
+    y 1a "我很欣赏你愿意尝试不同风格，[player]。"
 
 # script-poemresponses.rpyc:1922
 translate chinese ch2_y_bad_61bef8d5:
 
     # y "Were you inspired by Natsuki's poem?"
-    y "Were you inspired by Natsuki's poem?"
+    y "你是受夏树的诗启发了吗？"
 
 # script-poemresponses.rpyc:1923
 translate chinese ch2_y_bad_3e9b9b8b:
 
     # y "Or Sayori's, perhaps?"
-    y "Or Sayori's, perhaps?"
+    y "还是说，也许受了纱世里的影响？"
 
 # script-poemresponses.rpyc:1924
 translate chinese ch2_y_bad_c14c584c:
 
     # mc "Well..."
-    mc "Well..."
+    mc "嗯……"
 
 # script-poemresponses.rpyc:1925
 translate chinese ch2_y_bad_8640be65:
 
     # mc "I guess you could say that..."
-    mc "I guess you could say that..."
+    mc "也可以这么说吧……"
 
 # script-poemresponses.rpyc:1926
 translate chinese ch2_y_bad_4dfc34ef:
 
     # y "I thought so."
-    y "I thought so."
+    y "我猜也是。"
 
 # script-poemresponses.rpyc:1927
 translate chinese ch2_y_bad_0b5c0cf4:
 
     # y 2u "I'm happy for you."
-    y 2u "I'm happy for you."
+    y 2u "我为你感到高兴。"
 
 # script-poemresponses.rpyc:1928
 translate chinese ch2_y_bad_16c5dfa8:
 
     # y "You don't need to find inspiration in my poems."
-    y "You don't need to find inspiration in my poems."
+    y "你不需要从我的诗里找灵感。"
 
 # script-poemresponses.rpyc:1929
 translate chinese ch2_y_bad_877dc66e:
 
     # y "I write them for myself..."
-    y "I write them for myself..."
+    y "我的诗，是写给我自己的……"
 
 # script-poemresponses.rpyc:1930
 translate chinese ch2_y_bad_30ff2bc1:
 
     # y 4b "...Not for anyone else."
-    y 4b "...Not for anyone else."
+    y 4b "……不是写给别人的。"
 
 # script-poemresponses.rpyc:1931
 translate chinese ch2_y_bad_42db5513:
 
     # y "So I don't really...need for people to like them or anything."
-    y "So I don't really...need for people to like them or anything."
+    y "所以，我并不需要……别人喜不喜欢它们。"
 
 # script-poemresponses.rpyc:1932
 translate chinese ch2_y_bad_530f484c:
 
     # mc "Yuri!"
-    mc "Yuri!"
+    mc "优里！"
 
 # script-poemresponses.rpyc:1933
 translate chinese ch2_y_bad_b953c215:
 
     # y 3t "E-Eh?"
-    y 3t "E-Eh?"
+    y 3t "诶、诶？"
 
 # script-poemresponses.rpyc:1934
 translate chinese ch2_y_bad_efd36996:
 
     # mc "I'm sorry for being blunt, but you're overthinking this a little."
-    mc "I'm sorry for being blunt, but you're overthinking this a little."
+    mc "抱歉说得这么直接，但你是不是想太多了。"
 
 # script-poemresponses.rpyc:1935
 translate chinese ch2_y_bad_020f8801:
 
     # mc "Just because our styles are different doesn't mean I dislike your poems..."
-    mc "Just because our styles are different doesn't mean I dislike your poems..."
+    mc "我们的风格不同，不代表我就不喜欢你的诗……"
 
 # script-poemresponses.rpyc:1936
 translate chinese ch2_y_bad_9c1d1b3f:
 
     # mc "In fact, if I tried to do something in your style, I would probably just do a terrible job."
-    mc "In fact, if I tried to do something in your style, I would probably just do a terrible job."
+    mc "再说了，要是让我照你的风格来写，恐怕会写得一团糟。"
 
 # script-poemresponses.rpyc:1937
 translate chinese ch2_y_bad_593dcbdd:
 
     # y 4a "I...I see..."
-    y 4a "I...I see..."
+    y 4a "我……我知道了……"
 
 # script-poemresponses.rpyc:1938
 translate chinese ch2_y_bad_df164599:
 
     # y "I'm sorry..."
-    y "I'm sorry..."
+    y "对不起……"
 
 # script-poemresponses.rpyc:1939
 translate chinese ch2_y_bad_50f9cd72:
 
     # y "My stupid mind...it likes to do that sometimes."
-    y "My stupid mind...it likes to do that sometimes."
+    y "我这颗笨脑袋……有时候就是会这样。"
 
 # script-poemresponses.rpyc:1940
 translate chinese ch2_y_bad_c03f336e:
 
     # y "Anyway..."
-    y "Anyway..."
+    y "总之……"
 
 # script-poemresponses.rpyc:1942
 translate chinese ch2_y_shared_f1a72134:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
