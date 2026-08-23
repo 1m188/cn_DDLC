@@ -992,367 +992,367 @@ translate chinese ch22_n_med_shared2_2a38376c:
 translate chinese ch23_n_bad_49ef7472:
 
     # n 5x "I'm not going to read another one of your Yuri suck-up poems."
-    n 5x "I'm not going to read another one of your Yuri suck-up poems."
+    n 5x "你那些巴结优里的诗，我可不想再看第二首。"
 
 # script-poemresponses2.rpyc:358
 translate chinese ch23_n_bad_49d58d58:
 
     # n 5s "But I'm still going to make you read mine."
-    n 5s "But I'm still going to make you read mine."
+    n 5s "不过，我还是会让你读我的。"
 
 # script-poemresponses2.rpyc:359
 translate chinese ch23_n_bad_5901bc46:
 
     # n "There's a reason."
-    n "There's a reason."
+    n "这是有原因的。"
 
 # script-poemresponses2.rpyc:360
 translate chinese ch23_n_bad_a2c8bab9:
 
     # n 5x "I really wish I didn't have to do this..."
-    n 5x "I really wish I didn't have to do this..."
+    n 5x "说实话，我真希望自己不用这么做……"
 
 # script-poemresponses2.rpyc:361
 translate chinese ch23_n_bad_2fbfeac2:
 
     # n "But unfortunately I don't have much of a choice."
-    n "But unfortunately I don't have much of a choice."
+    n "可遗憾的是，我几乎没有别的选择。"
 
 # script-poemresponses2.rpyc:362
 translate chinese ch23_n_bad_13a2b39c:
 
     # n 5h "Just...read it carefully, okay?"
-    n 5h "Just...read it carefully, okay?"
+    n 5h "就……仔细读吧，好吗？"
 
 # script-poemresponses2.rpyc:363
 translate chinese ch23_n_bad_a79131e4:
 
     # n "Then you can go away."
-    n "Then you can go away."
+    n "读完你就可以走了。"
 
 # script-poemresponses2.rpyc:367
 translate chinese ch23_n_bad_bb2cf764:
 
     # n "..."
-    n "..."
+    n "……"
 
 # script-poemresponses2.rpyc:368
 translate chinese ch23_n_bad_58f95e02:
 
     # n 2c "...Meh."
-    n 2c "...Meh."
+    n 2c "……啧。"
 
 # script-poemresponses2.rpyc:369
 translate chinese ch23_n_bad_7337ee1a:
 
     # n "I guess you really haven't learned anything after all."
-    n "I guess you really haven't learned anything after all."
+    n "看来你果然还是什么都没学到。"
 
 # script-poemresponses2.rpyc:370
 translate chinese ch23_n_bad_8e9ab461:
 
     # n "Honestly, I don't know why I got my hopes up in the first place."
-    n "Honestly, I don't know why I got my hopes up in the first place."
+    n "说真的，我一开始就不该对你抱什么期待。"
 
 # script-poemresponses2.rpyc:372
 translate chinese ch23_n_bad_shared_1442a9ae:
 
     # n 42c "This is clearly Yuri's influence..."
-    n 42c "This is clearly Yuri's influence..."
+    n 42c "这明显是受了优里的影响……"
 
 # script-poemresponses2.rpyc:373
 translate chinese ch23_n_bad_shared_38cf2868:
 
     # n "I didn't realize you were so impressionable."
-    n "I didn't realize you were so impressionable."
+    n "没想到你还这么容易被带跑。"
 
 # script-poemresponses2.rpyc:374
 translate chinese ch23_n_bad_shared_12cacc14:
 
     # n "Spending all this time with her in the club..."
-    n "Spending all this time with her in the club..."
+    n "在社团里老陪着她……"
 
 # script-poemresponses2.rpyc:375
 translate chinese ch23_n_bad_shared_ca96819f:
 
     # n "Now trying to write like her..."
-    n "Now trying to write like her..."
+    n "现在倒好，连写都学着写了……"
 
 # script-poemresponses2.rpyc:376
 translate chinese ch23_n_bad_shared_162846fe:
 
     # n 1s "This is stupid."
-    n 1s "This is stupid."
+    n 1s "真够蠢的。"
 
 # script-poemresponses2.rpyc:377
 translate chinese ch23_n_bad_shared_1d3b6824:
 
     # n "At least Monika appreciates my writing..."
-    n "At least Monika appreciates my writing..."
+    n "至少莫妮卡还会欣赏我的诗……"
 
 # script-poemresponses2.rpyc:378
 translate chinese ch23_n_bad_shared_c80758bc:
 
     # n 1r "...Ugh."
-    n 1r "...Ugh."
+    n 1r "……唉。"
 
 # script-poemresponses2.rpyc:379
 translate chinese ch23_n_bad_shared_7df93708:
 
     # n 1q "Okay...I guess I'm going to share my poem with you now."
-    n 1q "Okay...I guess I'm going to share my poem with you now."
+    n 1q "好吧……看来现在该把诗给你看了。"
 
 # script-poemresponses2.rpyc:380
 translate chinese ch23_n_bad_shared_c717fbad:
 
     # n "I really hate that I have to do this."
-    n "I really hate that I have to do this."
+    n "我真痛恨自己非得这么做。"
 
 # script-poemresponses2.rpyc:381
 translate chinese ch23_n_bad_shared_2fbfeac2:
 
     # n "But unfortunately I don't have much of a choice."
-    n "But unfortunately I don't have much of a choice."
+    n "可遗憾的是，我几乎没有别的选择。"
 
 # script-poemresponses2.rpyc:382
 translate chinese ch23_n_bad_shared_a4659c3e:
 
     # n 1h "Just...read it carefully, okay?"
-    n 1h "Just...read it carefully, okay?"
+    n 1h "就……仔细读吧，好吗？"
 
 # script-poemresponses2.rpyc:383
 translate chinese ch23_n_bad_shared_a79131e4:
 
     # n "Then you can go away."
-    n "Then you can go away."
+    n "读完你就可以走了。"
 
 # script-poemresponses2.rpyc:387
 translate chinese ch23_n_bad_shared_bb2cf764:
 
     # n "..."
-    n "..."
+    n "……"
 
 # script-poemresponses2.rpyc:388
 translate chinese ch23_n_bad_shared_9cc23ece:
 
     # n 2r "Oh, man."
-    n 2r "Oh, man."
+    n 2r "哎呀，天哪。"
 
 # script-poemresponses2.rpyc:389
 translate chinese ch23_n_bad_shared_c7c09fee:
 
     # n "This is seriously a step backwards."
-    n "This is seriously a step backwards."
+    n "这首简直是倒退。"
 
 # script-poemresponses2.rpyc:390
 translate chinese ch23_n_bad_shared_fb2e5377:
 
     # mc "Eh?"
-    mc "Eh?"
+    mc "诶？"
 
 # script-poemresponses2.rpyc:391
 translate chinese ch23_n_bad_shared_61696799:
 
     # n 2c "I liked your last two way better than this one."
-    n 2c "I liked your last two way better than this one."
+    n 2c "比起这首，我更喜欢你前两篇。"
 
 # script-poemresponses2.rpyc:401
 translate chinese ch23_n_med_bb2cf764:
 
     # n "..."
-    n "..."
+    n "……"
 
 # script-poemresponses2.rpyc:402
 translate chinese ch23_n_med_3e89254a:
 
     # n 2k "...This one's alright."
-    n 2k "...This one's alright."
+    n 2k "……这首还行。"
 
 # script-poemresponses2.rpyc:403
 translate chinese ch23_n_med_9790cac2:
 
     # mc "Alright?"
-    mc "Alright?"
+    mc "还行？"
 
 # script-poemresponses2.rpyc:404
 translate chinese ch23_n_med_384289aa:
 
     # n "Yeah, it's at least better than yesterday's."
-    n "Yeah, it's at least better than yesterday's."
+    n "嗯，至少比昨天那首强点。"
 
 # script-poemresponses2.rpyc:406
 translate chinese ch23_n_shared_919cece6:
 
     # n 2c "I still can't really tell how much you actually care about writing, but either way, you're doing alright."
-    n 2c "I still can't really tell how much you actually care about writing, but either way, you're doing alright."
+    n 2c "我还是看不出你对写作到底有多上心，不过，反正是做得还行。"
 
 # script-poemresponses2.rpyc:407
 translate chinese ch23_n_shared_8b4ca590:
 
     # n 4r "Even though you're not really spending time with anyone but Yuri..."
-    n 4r "Even though you're not really spending time with anyone but Yuri..."
+    n 4r "哪怕你除了优里，谁都不搭理……"
 
 # script-poemresponses2.rpyc:408
 translate chinese ch23_n_shared_1b1f785e:
 
     # n 4h "I still think it's nice to have activities that we all participate in."
-    n 4h "I still think it's nice to have activities that we all participate in."
+    n 4h "我依然觉得，能有大家一起参与的活动是件好事。"
 
 # script-poemresponses2.rpyc:409
 translate chinese ch23_n_shared_9dcaea88:
 
     # n 4w "So you better keep working hard!"
-    n 4w "So you better keep working hard!"
+    n 4w "所以，你最好给我继续努力！"
 
 # script-poemresponses2.rpyc:410
 translate chinese ch23_n_shared_d97c576a:
 
     # n "I mean..."
-    n "I mean..."
+    n "我是说……"
 
 # script-poemresponses2.rpyc:411
 translate chinese ch23_n_shared_256f5427:
 
     # n 1h "I know I'm not President or Vice President or anything..."
-    n 1h "I know I'm not President or Vice President or anything..."
+    n 1h "我知道我不是社长也不是副社长什么的……"
 
 # script-poemresponses2.rpyc:412
 translate chinese ch23_n_shared_c114d92a:
 
     # n "But that doesn't mean you can let me down, okay?"
-    n "But that doesn't mean you can let me down, okay?"
+    n "可那也不代表你就可以让我失望，知道吗？"
 
 # script-poemresponses2.rpyc:413
 translate chinese ch23_n_shared_bd025d78:
 
     # n 1q "So, at least read mine too for now."
-    n 1q "So, at least read mine too for now."
+    n 1q "所以，至少我的诗你也该读一读吧。"
 
 # script-poemresponses2.rpyc:414
 translate chinese ch23_n_shared_514531ab:
 
     # n "But just to be clear..."
-    n "But just to be clear..."
+    n "不过先说清楚……"
 
 # script-poemresponses2.rpyc:415
 translate chinese ch23_n_shared_6772410a:
 
     # n 1h "This poem...means a lot to me."
-    n 1h "This poem...means a lot to me."
+    n 1h "这首诗……对我很重要。"
 
 # script-poemresponses2.rpyc:416
 translate chinese ch23_n_shared_48a6b58c:
 
     # n "So read it carefully, okay?"
-    n "So read it carefully, okay?"
+    n "所以要仔细地读，好吗？"
 
 # script-poemresponses2.rpyc:419
 translate chinese ch23_n_shared_bb2cf764:
 
     # n "..."
-    n "..."
+    n "……"
 
 # script-poemresponses2.rpyc:420
 translate chinese ch23_n_shared_3e89254a:
 
     # n 2k "...This one's alright."
-    n 2k "...This one's alright."
+    n 2k "……这首还行。"
 
 # script-poemresponses2.rpyc:421
 translate chinese ch23_n_shared_9790cac2:
 
     # mc "Alright?"
-    mc "Alright?"
+    mc "还行？"
 
 # script-poemresponses2.rpyc:422
 translate chinese ch23_n_shared_37f7579e:
 
     # n "Well, yeah."
-    n "Well, yeah."
+    n "嗯，是啊。"
 
 # script-poemresponses2.rpyc:423
 translate chinese ch23_n_shared_ef787c01:
 
     # n "About as good as yesterday's, anyway."
-    n "About as good as yesterday's, anyway."
+    n "跟昨天那首差不多水平吧。"
 
 # script-poemresponses2.rpyc:427
 translate chinese ch23_n_ygave_2337e9fd:
 
     # n 1h "What?"
-    n 1h "What?"
+    n 1h "什么？"
 
 # script-poemresponses2.rpyc:428
 translate chinese ch23_n_ygave_573ed9ce:
 
     # n "You gave your poem to Yuri?"
-    n "You gave your poem to Yuri?"
+    n "你把诗给优里了？"
 
 # script-poemresponses2.rpyc:429
 translate chinese ch23_n_ygave_9f5b8d9a:
 
     # n 4x "Gross!"
-    n 4x "Gross!"
+    n 4x "恶心！"
 
 # script-poemresponses2.rpyc:430
 translate chinese ch23_n_ygave_094d7631:
 
     # n "What is with you two?"
-    n "What is with you two?"
+    n "你们俩到底是怎么回事？"
 
 # script-poemresponses2.rpyc:431
 translate chinese ch23_n_ygave_f36f981d:
 
     # n 1s "Hmph..."
-    n 1s "Hmph..."
+    n 1s "哼……"
 
 # script-poemresponses2.rpyc:432
 translate chinese ch23_n_ygave_839719b9:
 
     # n "It's not like I wanted to read it anyway."
-    n "It's not like I wanted to read it anyway."
+    n "反正，我也不是真那么想读。"
 
 # script-poemresponses2.rpyc:433
 translate chinese ch23_n_ygave_28ce978b:
 
     # n 1r "It's just pissing me off a little bit that you didn't even think to show me at all."
-    n 1r "It's just pissing me off a little bit that you didn't even think to show me at all."
+    n 1r "只是你连想都没想给我看，让我有点火大。"
 
 # script-poemresponses2.rpyc:434
 translate chinese ch23_n_ygave_e92db113:
 
     # n 1x "...Ugh."
-    n 1x "...Ugh."
+    n 1x "……唉。"
 
 # script-poemresponses2.rpyc:435
 translate chinese ch23_n_ygave_99060fb3:
 
     # n 1q "Okay...I guess I'm going to share my poem with you anyway."
-    n 1q "Okay...I guess I'm going to share my poem with you anyway."
+    n 1q "好吧……看来还是把我的诗给你看吧。"
 
 # script-poemresponses2.rpyc:436
 translate chinese ch23_n_ygave_c717fbad:
 
     # n "I really hate that I have to do this."
-    n "I really hate that I have to do this."
+    n "我真痛恨自己非得这么做。"
 
 # script-poemresponses2.rpyc:437
 translate chinese ch23_n_ygave_2fbfeac2:
 
     # n "But unfortunately I don't have much of a choice."
-    n "But unfortunately I don't have much of a choice."
+    n "可遗憾的是，我几乎没有别的选择。"
 
 # script-poemresponses2.rpyc:438
 translate chinese ch23_n_ygave_a4659c3e:
 
     # n 1h "Just...read it carefully, okay?"
-    n 1h "Just...read it carefully, okay?"
+    n 1h "就……仔细读吧，好吗？"
 
 # script-poemresponses2.rpyc:439
 translate chinese ch23_n_ygave_a79131e4:
 
     # n "Then you can go away."
-    n "Then you can go away."
+    n "读完你就可以走了。"
 
 # script-poemresponses2.rpyc:458
 translate chinese ch22_y_med_94ddb391:
@@ -2607,6 +2607,7 @@ translate chinese strings:
     # script-poemresponses2.rpy:179
     old "Just Monika."
     new "Just Monika."
+
 
 
 
