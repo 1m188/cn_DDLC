@@ -7424,637 +7424,637 @@ translate chinese ch2_s_good_e8f94437:
 translate chinese ch3_s_bad_e1554201:
 
     # s "..."
-    s "..."
+    s "……"
 
 # script-poemresponses.rpyc:1651
 translate chinese ch3_s_bad_826ee4b4:
 
     # s 1k "...Hm."
-    s 1k "...Hm."
+    s 1k "……嗯。"
 
 # script-poemresponses.rpyc:1652
 translate chinese ch3_s_bad_15f8d5bb:
 
     # s "It's nice, I guess~"
-    s "It's nice, I guess~"
+    s "还不错吧，大概~"
 
 # script-poemresponses.rpyc:1653
 translate chinese ch3_s_bad_70fe31f6:
 
     # mc "Come on, I can already tell you don't like it."
-    mc "Come on, I can already tell you don't like it."
+    mc "得了，我看得出来你不喜欢。"
 
 # script-poemresponses.rpyc:1654
 translate chinese ch3_s_bad_bc57d696:
 
     # s 1d "Well..."
-    s 1d "Well..."
+    s 1d "嗯……"
 
 # script-poemresponses.rpyc:1655
 translate chinese ch3_s_bad_de7d409a:
 
     # s "You don't need to worry about what I think."
-    s "You don't need to worry about what I think."
+    s "你不用在意我怎么想。"
 
 # script-poemresponses.rpyc:1656
 translate chinese ch3_s_bad_27d55987:
 
     # s 2y "After all, you wrote this for someone else, didn't you?"
-    s 2y "After all, you wrote this for someone else, didn't you?"
+    s 2y "毕竟，这首你是为别人写的吧？"
 
 # script-poemresponses.rpyc:1657
 translate chinese ch3_s_bad_d782c986:
 
     # s "Probably [currentname]..."
-    s "Probably [currentname]..."
+    s "大概是[currentname]吧……"
 
 # script-poemresponses.rpyc:1658
 translate chinese ch3_s_bad_b8c522fc:
 
     # mc "Eh??"
-    mc "Eh??"
+    mc "诶？？"
 
 # script-poemresponses.rpyc:1659
 translate chinese ch3_s_bad_cc4d0854:
 
     # mc "I didn't write this for anyone specifically!"
-    mc "I didn't write this for anyone specifically!"
+    mc "我没特意为谁写啊！"
 
 # script-poemresponses.rpyc:1660
 translate chinese ch3_s_bad_42c3de85:
 
     # s "Maybe..."
-    s "Maybe..."
+    s "也许吧……"
 
 # script-poemresponses.rpyc:1661
 translate chinese ch3_s_bad_d2815214:
 
     # s 1d "That's not really what I meant, though."
-    s 1d "That's not really what I meant, though."
+    s 1d "不过，我说的不是那个意思。"
 
 # script-poemresponses.rpyc:1662
 translate chinese ch3_s_bad_68058b71:
 
     # s "But it's okay."
-    s "But it's okay."
+    s "但没关系。"
 
 # script-poemresponses.rpyc:1663
 translate chinese ch3_s_bad_904a3174:
 
     # s "You're making new friends, just like I was hoping."
-    s "You're making new friends, just like I was hoping."
+    s "你在交到新朋友，就跟我想的一样。"
 
 # script-poemresponses.rpyc:1664
 translate chinese ch3_s_bad_468760bf:
 
     # s 1q "That makes me...really happy."
-    s 1q "That makes me...really happy."
+    s 1q "这让我……真的很开心。"
 
 # script-poemresponses.rpyc:1665
 translate chinese ch3_s_bad_e6acf7be:
 
     # s "And you're happy too, right?"
-    s "And you're happy too, right?"
+    s "你也很开心吧？"
 
 # script-poemresponses.rpyc:1666
 translate chinese ch3_s_bad_a59ef9e9:
 
     # s 1a "In this club?"
-    s 1a "In this club?"
+    s 1a "在这个社团里？"
 
 # script-poemresponses.rpyc:1667
 translate chinese ch3_s_bad_c14c584c:
 
     # mc "Well..."
-    mc "Well..."
+    mc "嗯……"
 
 # script-poemresponses.rpyc:1668
 translate chinese ch3_s_bad_f2a59416:
 
     # mc "Of course I am."
-    mc "Of course I am."
+    mc "那当然开心啦。"
 
 # script-poemresponses.rpyc:1669
 translate chinese ch3_s_bad_42dab8b7:
 
     # s 4q "Good~"
-    s 4q "Good~"
+    s 4q "那就好~"
 
 # script-poemresponses.rpyc:1670
 translate chinese ch3_s_bad_194142fb:
 
     # s "That's all that matters to me."
-    s "That's all that matters to me."
+    s "对我而言，这就是最重要的了。"
 
 # script-poemresponses.rpyc:1671
 translate chinese ch3_s_bad_605b7d7a:
 
     # s 1d "Thank you, [player]."
-    s 1d "Thank you, [player]."
+    s 1d "谢谢你，[player]。"
 
 # script-poemresponses.rpyc:1672
 translate chinese ch3_s_bad_e87e0575:
 
     # mc "Sayori..."
-    mc "Sayori..."
+    mc "纱世里……"
 
 # script-poemresponses.rpyc:1673
 translate chinese ch3_s_bad_56e8300e:
 
     # mc "Is there something wrong?"
-    mc "Is there something wrong?"
+    mc "你没什么事吧？"
 
 # script-poemresponses.rpyc:1674
 translate chinese ch3_s_bad_ce9e0888:
 
     # s 1b "Huh?"
-    s 1b "Huh?"
+    s 1b "嗯？"
 
 # script-poemresponses.rpyc:1675
 translate chinese ch3_s_bad_d0f5a386:
 
     # s 1k "No, nothing."
-    s 1k "No, nothing."
+    s 1k "没有，没什么事。"
 
 # script-poemresponses.rpyc:1676
 translate chinese ch3_s_bad_f7b2ed6b:
 
     # s "I'm just a little tired today."
-    s "I'm just a little tired today."
+    s "只是今天有点累了。"
 
 # script-poemresponses.rpyc:1677
 translate chinese ch3_s_bad_7b2365c3:
 
     # s 1l "Ehehe."
-    s 1l "Ehehe."
+    s 1l "诶嘿嘿。"
 
 # script-poemresponses.rpyc:1678
 translate chinese ch3_s_bad_b12907fb:
 
     # mc "Alright..."
-    mc "Alright..."
+    mc "好吧……"
 
 # script-poemresponses.rpyc:1679
 translate chinese ch3_s_bad_a3847011:
 
     # mc "Just tell me if you need anything."
-    mc "Just tell me if you need anything."
+    mc "需要什么就说一声。"
 
 # script-poemresponses.rpyc:1680
 translate chinese ch3_s_bad_d43dfd71:
 
     # s 1a "I will."
-    s 1a "I will."
+    s 1a "嗯，我会的。"
 
 # script-poemresponses.rpyc:1681
 translate chinese ch3_s_bad_075703d6:
 
     # s "Don't worry about me, okay?"
-    s "Don't worry about me, okay?"
+    s "你别担心我，好吗？"
 
 # script-poemresponses.rpyc:1682
 translate chinese ch3_s_bad_2c8d383a:
 
     # s "You can go play with everyone else now."
-    s "You can go play with everyone else now."
+    s "你现在可以去跟大家玩了。"
 
 # script-poemresponses.rpyc:1683
 translate chinese ch3_s_bad_0385b06b:
 
     # mc "If you insist..."
-    mc "If you insist..."
+    mc "要是你这么说的话……"
 
 # script-poemresponses.rpyc:1684
 translate chinese ch3_s_bad_df253bf7:
 
     # s 4q "Yaay~"
-    s 4q "Yaay~"
+    s 4q "耶~"
 
 # script-poemresponses.rpyc:1685
 translate chinese ch3_s_bad_b3d216a1:
 
     # s 4a "I'm gonna go home a little bit early today."
-    s 4a "I'm gonna go home a little bit early today."
+    s 4a "我今天想早点回家。"
 
 # script-poemresponses.rpyc:1686
 translate chinese ch3_s_bad_e47a0e88:
 
     # mc "Sayori...?"
-    mc "Sayori...?"
+    mc "纱世里……？"
 
 # script-poemresponses.rpyc:1687
 translate chinese ch3_s_bad_951b4bf7:
 
     # s 1q "Tell Monika I wasn't feeling well, okay?"
-    s 1q "Tell Monika I wasn't feeling well, okay?"
+    s 1q "帮我跟莫妮卡说一声我不舒服，好吗？"
 
 # script-poemresponses.rpyc:1688
 translate chinese ch3_s_bad_2c824509:
 
     # s "I'll see you tomorrow~"
-    s "I'll see you tomorrow~"
+    s "明天见~"
 
 # script-poemresponses.rpyc:1689
 translate chinese ch3_s_bad_5d66f349:
 
     # "Before I can say anything else, Sayori cheerfully walks out of the classroom, humming to herself."
-    "Before I can say anything else, Sayori cheerfully walks out of the classroom, humming to herself."
+    "我还没来得及开口，纱世里就哼着小曲，开开心心地走出了教室。"
 
 # script-poemresponses.rpyc:1700
 translate chinese ch3_s_good_e9fdfc88:
 
     # s 1d "..."
-    s 1d "..."
+    s 1d "……"
 
 # script-poemresponses.rpyc:1701
 translate chinese ch3_s_good_dccd2575:
 
     # s "This is your best one so far."
-    s "This is your best one so far."
+    s "这是你到目前为止写得最好的一首。"
 
 # script-poemresponses.rpyc:1702
 translate chinese ch3_s_good_41eaeea5:
 
     # s "It's really really nice, [player]~"
-    s "It's really really nice, [player]~"
+    s "真的非常好非常好，[player]~"
 
 # script-poemresponses.rpyc:1703
 translate chinese ch3_s_good_eece8b48:
 
     # mc "Er-- Thanks."
-    mc "Er-- Thanks."
+    mc "呃——谢谢。"
 
 # script-poemresponses.rpyc:1704
 translate chinese ch3_s_good_8936817a:
 
     # s 1q "Mhm~"
-    s 1q "Mhm~"
+    s 1q "嗯嗯~"
 
 # script-poemresponses.rpyc:1705
 translate chinese ch3_s_good_2b35b6fe:
 
     # mc "..."
-    mc "..."
+    mc "……"
 
 # script-poemresponses.rpyc:1706
 translate chinese ch3_s_good_d8faa5f8:
 
     # mc "Sayori, you've been a little quiet today."
-    mc "Sayori, you've been a little quiet today."
+    mc "纱世里，你今天话有点少啊。"
 
 # script-poemresponses.rpyc:1707
 translate chinese ch3_s_good_86bcc222:
 
     # mc "Is everything alright?"
-    mc "Is everything alright?"
+    mc "没什么事吧？"
 
 # script-poemresponses.rpyc:1708
 translate chinese ch3_s_good_f8816a49:
 
     # s 4m "E-Eh??"
-    s 4m "E-Eh??"
+    s 4m "诶、诶？？"
 
 # script-poemresponses.rpyc:1709
 translate chinese ch3_s_good_6b7d410a:
 
     # s "Of course!"
-    s "Of course!"
+    s "当然没事！"
 
 # script-poemresponses.rpyc:1710
 translate chinese ch3_s_good_5a33dc51:
 
     # s 4l "Everything is fine~"
-    s 4l "Everything is fine~"
+    s 4l "一切都好好的~"
 
 # script-poemresponses.rpyc:1711
 translate chinese ch3_s_good_2eb8abb8:
 
     # s "Maybe I'm just a little tired today."
-    s "Maybe I'm just a little tired today."
+    s "可能只是今天有点累了吧。"
 
 # script-poemresponses.rpyc:1712
 translate chinese ch3_s_good_7b2365c3:
 
     # s 1l "Ehehe."
-    s 1l "Ehehe."
+    s 1l "诶嘿嘿。"
 
 # script-poemresponses.rpyc:1713
 translate chinese ch3_s_good_a68fb8d9:
 
     # mc "Do you want to nap or something?"
-    mc "Do you want to nap or something?"
+    mc "你要不要睡个午觉什么的？"
 
 # script-poemresponses.rpyc:1714
 translate chinese ch3_s_good_63e8f1c5:
 
     # s 1h "No, that's silly!"
-    s 1h "No, that's silly!"
+    s 1h "不用啦，那多傻啊！"
 
 # script-poemresponses.rpyc:1715
 translate chinese ch3_s_good_075703d6:
 
     # s "Don't worry about me, okay?"
-    s "Don't worry about me, okay?"
+    s "你别担心我，好吗？"
 
 # script-poemresponses.rpyc:1716
 translate chinese ch3_s_good_d4a14fcf:
 
     # s 1q "I only want to see smiles on your face~"
-    s 1q "I only want to see smiles on your face~"
+    s 1q "我只想看到你脸上的笑容~"
 
 # script-poemresponses.rpyc:1717
 translate chinese ch3_s_good_aa6cef40:
 
     # mc "Well, alright..."
-    mc "Well, alright..."
+    mc "嗯，好吧……"
 
 # script-poemresponses.rpyc:1718
 translate chinese ch3_s_good_9898a3fc:
 
     # s 1b "Hey, [player]..."
-    s 1b "Hey, [player]..."
+    s 1b "嘿，[player]……"
 
 # script-poemresponses.rpyc:1719
 translate chinese ch3_s_good_2f3cf047:
 
     # s "I'm still a little surprised."
-    s "I'm still a little surprised."
+    s "我还是有点意外。"
 
 # script-poemresponses.rpyc:1720
 translate chinese ch3_s_good_c039897b:
 
     # s "I really thought that you would try writing your poems like the way Yuri does..."
-    s "I really thought that you would try writing your poems like the way Yuri does..."
+    s "我一直以为，你会试着写成像优里那样风格的诗……"
 
 # script-poemresponses.rpyc:1721
 translate chinese ch3_s_good_d546d225:
 
     # s 1y "Or even Natsuki..."
-    s 1y "Or even Natsuki..."
+    s 1y "或者夏树那样……"
 
 # script-poemresponses.rpyc:1722
 translate chinese ch3_s_good_534eeda5:
 
     # s "But in the end..."
-    s "But in the end..."
+    s "可到头来……"
 
 # script-poemresponses.rpyc:1723
 translate chinese ch3_s_good_c300082f:
 
     # mc "...Yeah."
-    mc "...Yeah."
+    mc "……是啊。"
 
 # script-poemresponses.rpyc:1724
 translate chinese ch3_s_good_4e7b6fec:
 
     # mc "I guess you're the one who likes this one the most."
-    mc "I guess you're the one who likes this one the most."
+    mc "我想，最懂这首的人就是你了。"
 
 # script-poemresponses.rpyc:1726
 translate chinese ch3_s_good_028e5587:
 
     # s 1k "...Why?"
-    s 1k "...Why?"
+    s 1k "……为什么？"
 
 # script-poemresponses.rpyc:1727
 translate chinese ch3_s_good_47a60e18:
 
     # s "You don't want to get closer with everyone else?"
-    s "You don't want to get closer with everyone else?"
+    s "你不想跟其他人拉近关系吗？"
 
 # script-poemresponses.rpyc:1729
 translate chinese ch3_s_good_8b5e620a:
 
     # mc "Wait!"
-    mc "Wait!"
+    mc "等等！"
 
 # script-poemresponses.rpyc:1730
 translate chinese ch3_s_good_7ee22fb4:
 
     # mc "Of course I do!"
-    mc "Of course I do!"
+    mc "我当然想啊！"
 
 # script-poemresponses.rpyc:1731
 translate chinese ch3_s_good_47bfdc11:
 
     # mc "But that doesn't mean I need to try so hard to impress them."
-    mc "But that doesn't mean I need to try so hard to impress them."
+    mc "可那也不代表我得费尽心思去讨他们欢心。"
 
 # script-poemresponses.rpyc:1732
 translate chinese ch3_s_good_3e0d6383:
 
     # mc "I still understand you the most, Sayori."
-    mc "I still understand you the most, Sayori."
+    mc "最懂我的人，还是你啊，纱世里。"
 
 # script-poemresponses.rpyc:1733
 translate chinese ch3_s_good_57abb626:
 
     # mc "I know you have to sometimes put up with me."
-    mc "I know you have to sometimes put up with me."
+    mc "我知道，你有时候也得忍受我。"
 
 # script-poemresponses.rpyc:1734
 translate chinese ch3_s_good_8fdab651:
 
     # mc "And I have to sometimes put up with you."
-    mc "And I have to sometimes put up with you."
+    mc "我也得忍受你。"
 
 # script-poemresponses.rpyc:1735
 translate chinese ch3_s_good_e9abcaf6:
 
     # mc "But we have...a wavelength or something."
-    mc "But we have...a wavelength or something."
+    mc "可我们之间……有那么一种默契什么的。"
 
 # script-poemresponses.rpyc:1736
 translate chinese ch3_s_good_7c54dd2e:
 
     # mc "And this is how the poem came out."
-    mc "And this is how the poem came out."
+    mc "所以，这首诗才会写成这样。"
 
 # script-poemresponses.rpyc:1737
 translate chinese ch3_s_good_f63822c7:
 
     # mc "Sometimes it feels like you're the only exciting thing in my life."
-    mc "Sometimes it feels like you're the only exciting thing in my life."
+    mc "有时候我真觉得，你是我生活里唯一有意思的事。"
 
 # script-poemresponses.rpyc:1738
 translate chinese ch3_s_good_d2b4a4a0:
 
     # mc "So sometimes it's just easier to write when thinking about you."
-    mc "So sometimes it's just easier to write when thinking about you."
+    mc "所以，想着你的时候，反而更容易下笔。"
 
 # script-poemresponses.rpyc:1739
 translate chinese ch3_s_good_afb84914:
 
     # mc "...Sayori?"
-    mc "...Sayori?"
+    mc "……纱世里？"
 
 # script-poemresponses.rpyc:1740
 translate chinese ch3_s_good_ef7ef4bc:
 
     # s 4v "N-No..."
-    s 4v "N-No..."
+    s 4v "不、不……"
 
 # script-poemresponses.rpyc:1741
 translate chinese ch3_s_good_23d81314:
 
     # s "[player]..."
-    s "[player]..."
+    s "[player]……"
 
 # script-poemresponses.rpyc:1742
 translate chinese ch3_s_good_fb0a2b81:
 
     # s "I don't...deserve this..."
-    s "I don't...deserve this..."
+    s "我……受不起你这样的好……"
 
 # script-poemresponses.rpyc:1743
 translate chinese ch3_s_good_41cb4dd1:
 
     # s "You're too nice to me..."
-    s "You're too nice to me..."
+    s "你对我太好了……"
 
 # script-poemresponses.rpyc:1744
 translate chinese ch3_s_good_2dd1d27f:
 
     # s "Why are you doing this...?"
-    s "Why are you doing this...?"
+    s "你为什么要这样做……？"
 
 # script-poemresponses.rpyc:1745
 translate chinese ch3_s_good_8ad9226e:
 
     # "Sayori has trouble keeping her voice steady, all of a sudden."
-    "Sayori has trouble keeping her voice steady, all of a sudden."
+    "忽然间，纱世里的声音有些颤抖。"
 
 # script-poemresponses.rpyc:1746
 translate chinese ch3_s_good_4a2ea0b8:
 
     # s "If you had fun with everyone else instead..."
-    s "If you had fun with everyone else instead..."
+    s "要是你去跟其他人玩得开心就好了……"
 
 # script-poemresponses.rpyc:1747
 translate chinese ch3_s_good_7770f345:
 
     # s "This would be...so much easier!"
-    s "This would be...so much easier!"
+    s "那样的话，这一切……就会轻松许多！"
 
 # script-poemresponses.rpyc:1748
 translate chinese ch3_s_good_4f50e214:
 
     # mc "Sayori...!"
-    mc "Sayori...!"
+    mc "纱世里……！"
 
 # script-poemresponses.rpyc:1749
 translate chinese ch3_s_good_bd584f4a:
 
     # "I glance around the room to make sure nobody has noticed this."
-    "I glance around the room to make sure nobody has noticed this."
+    "我环顾了一下房间，确认没人注意到这边。"
 
 # script-poemresponses.rpyc:1750
 translate chinese ch3_s_good_bf3e34d4:
 
     # mc "Sayori."
-    mc "Sayori."
+    mc "纱世里。"
 
 # script-poemresponses.rpyc:1751
 translate chinese ch3_s_good_b0c434f0:
 
     # mc "I've probably never said this before, but I don't understand what you're feeling right now."
-    mc "I've probably never said this before, but I don't understand what you're feeling right now."
+    mc "也许我从没说过，但现在的你，我心里真的很难理解。"
 
 # script-poemresponses.rpyc:1752
 translate chinese ch3_s_good_1a7043e5:
 
     # mc "Tell me what will cheer you up."
-    mc "Tell me what will cheer you up."
+    mc "告诉我，怎么做才能让你振作起来。"
 
 # script-poemresponses.rpyc:1753
 translate chinese ch3_s_good_00494714:
 
     # "Sayori shakes her head."
-    "Sayori shakes her head."
+    "纱世里摇了摇头。"
 
 # script-poemresponses.rpyc:1754
 translate chinese ch3_s_good_619857fb:
 
     # "She sniffles and keeps shaking her head."
-    "She sniffles and keeps shaking her head."
+    "她抽了抽鼻子，一直摇头。"
 
 # script-poemresponses.rpyc:1755
 translate chinese ch3_s_good_b54b1753:
 
     # "Finally, she gathers herself and puts on a smile."
-    "Finally, she gathers herself and puts on a smile."
+    "终于，她收拾好心情，挤出一个笑容。"
 
 # script-poemresponses.rpyc:1756
 translate chinese ch3_s_good_657ecaac:
 
     # s 1y "It's nothing, [player]."
-    s 1y "It's nothing, [player]."
+    s 1y "没什么，[player]。"
 
 # script-poemresponses.rpyc:1757
 translate chinese ch3_s_good_0e0f73ec:
 
     # s "It's just a little raincloud."
-    s "It's just a little raincloud."
+    s "只是心里飘着小小的乌云而已。"
 
 # script-poemresponses.rpyc:1758
 translate chinese ch3_s_good_92b876c0:
 
     # s 4r "I'm sorry you had to see that. Ahahaha!"
-    s 4r "I'm sorry you had to see that. Ahahaha!"
+    s 4r "对不起，让你看到那一面了。啊哈哈哈！"
 
 # script-poemresponses.rpyc:1759
 translate chinese ch3_s_good_57b21542:
 
     # s "I promise it won't happen again."
-    s "I promise it won't happen again."
+    s "我保证，不会再这样了。"
 
 # script-poemresponses.rpyc:1760
 translate chinese ch3_s_good_a8a1c355:
 
     # s 1a "Just smiles from everyone, okay?"
-    s 1a "Just smiles from everyone, okay?"
+    s 1a "大家只要开心地笑着就好，好吗？"
 
 # script-poemresponses.rpyc:1761
 translate chinese ch3_s_good_e1ff45cf:
 
     # s "That's all that matters."
-    s "That's all that matters."
+    s "这就是最重要的了。"
 
 # script-poemresponses.rpyc:1762
 translate chinese ch3_s_good_e15d60a5:
 
     # s "Go play with everyone else."
-    s "Go play with everyone else."
+    s "去跟大家玩吧。"
 
 # script-poemresponses.rpyc:1763
 translate chinese ch3_s_good_1952a617:
 
     # s "I'm gonna go home a little bit early today~"
-    s "I'm gonna go home a little bit early today~"
+    s "我今天想早点回家~"
 
 # script-poemresponses.rpyc:1764
 translate chinese ch3_s_good_4de86fac:
 
     # mc "Sayori--"
-    mc "Sayori--"
+    mc "纱世里——"
 
 # script-poemresponses.rpyc:1765
 translate chinese ch3_s_good_fe87d870:
 
     # s 2q "Tell Monika I wasn't feeling well, okay?"
-    s 2q "Tell Monika I wasn't feeling well, okay?"
+    s 2q "帮我跟莫妮卡说一声我不舒服，好吗？"
 
 # script-poemresponses.rpyc:1766
 translate chinese ch3_s_good_2c824509:
 
     # s "I'll see you tomorrow~"
-    s "I'll see you tomorrow~"
+    s "明天见~"
 
 # script-poemresponses.rpyc:1767
 translate chinese ch3_s_good_5d66f349:
 
     # "Before I can say anything else, Sayori cheerfully walks out of the classroom, humming to herself."
-    "Before I can say anything else, Sayori cheerfully walks out of the classroom, humming to herself."
+    "我还没来得及开口，纱世里就哼着小曲，开开心心地走出了教室。"
 
 # script-poemresponses.rpyc:1772
 translate chinese ch1_y_bad_345ff396:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
