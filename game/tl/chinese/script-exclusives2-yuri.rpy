@@ -236,7 +236,7 @@ translate chinese yuri_exclusive2_1_ch22_4330ddf7:
 translate chinese yuri_exclusive2_1_ch22_0c75c656:
 
     # "The book is titled \"Portrait of Markov\"."
-    "The book is titled \"Portrait of Markov\"这本书叫《马尔可夫肖像》。"
+    "这本书叫《马尔可夫肖像》。"
 
 # script-exclusives2-yuri.rpyc:47
 translate chinese yuri_exclusive2_1_ch22_fd714eb0:
@@ -644,7 +644,7 @@ translate chinese yuri_exclusive2_1_ch22_b7550a3e:
 translate chinese yuri_exclusive2_1_ch22_695b1b6b:
 
     # "I soon understand what Yuri means about reading in company."
-    "我很快就明白优里说的"和别人一起读书"是什么意思了。"
+    "我很快就明白优里说的“和别人一起读书”是什么意思了。"
 
 # script-exclusives2-yuri.rpyc:126
 translate chinese yuri_exclusive2_1_ch22_d2bc4359:
