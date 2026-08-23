@@ -3098,7 +3098,7 @@ translate chinese ch1_n_bad_5b1182db:
 translate chinese ch1_n_bad_9d7973b8:
 
     # mc "If you're still proud of the first poem {i}you{/i} ever wrote, then I'd like to read it."
-    mc "要是你到现在还为你写的第一首诗得意，那我倒想读读看。"
+    mc "要是你到现在还为你写的第一首诗{i}自己{/i}得意，那我倒想读读看。"
 
 # script-poemresponses.rpyc:758
 translate chinese ch1_n_bad_fb415e31:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
