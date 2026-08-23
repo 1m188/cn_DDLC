@@ -1,4 +1,4 @@
-# script-ch0.rpyc:12
+﻿# script-ch0.rpyc:12
 translate chinese ch0_main_41e273ca:
 
     # s "Heeeeeeeyyy!!"
@@ -410,7 +410,7 @@ translate chinese ch0_main_a89001e9:
 translate chinese ch0_main_bf60a48d:
 
     # "Since she was the first one to show interest after the one who proposed the club, she inherited the title \"Vice President\"."
-    "因为她是继社团发起人之后第一个表示加入的人，便顺理成章地继承了\"副部长\"的头衔。"
+    "因为她是继社团发起人之后第一个表示加入的人，便顺理成章地继承了“副部长”的头衔。"
 
 # script-ch0.rpyc:97
 translate chinese ch0_main_dad2209a:
@@ -518,7 +518,7 @@ translate chinese ch0_main_fcd53725:
 translate chinese ch0_main_a17485df:
 
     # mc "I told you, don't call me a 'new member--'"
-    mc "都说了，别叫我「新成员」——"
+    mc "都说了，别叫我“新成员”——"
 
 # script-ch0.rpyc:130
 translate chinese ch0_main_6c94972f:

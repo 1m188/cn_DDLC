@@ -127,7 +127,7 @@ translate chinese ch30_main_a56807f6:
 translate chinese ch30_main_575e9f1f:
 
     # m "That 'you' in the game, whatever you want to call him."
-    m "游戏里的那个\"你\"，随便你怎么称呼他。"
+    m "游戏里的那个“你”，随便你怎么称呼他。"
 
 # script-ch30.rpyc:199
 translate chinese ch30_main_77655935:
@@ -673,7 +673,7 @@ translate chinese ch30_main2_83a8b5bf:
 translate chinese ch30_main2_007ddb7d:
 
     # m "I mean, there's a folder called 'characters' right in the game directory..."
-    m "游戏目录里就明晃晃摆着一个叫'characters'的文件夹……"
+    m "游戏目录里就明晃晃摆着一个叫‘characters’的文件夹……"
 
 # script-ch30.rpyc:317
 translate chinese ch30_main2_912f77b1:
@@ -691,7 +691,7 @@ translate chinese ch30_main2_12b0ad72:
 translate chinese ch30_main2_53c30c49:
 
     # m "To get to the game directory, I had to go into the game's properties and find the 'Browse Local Files' button..."
-    m "要进游戏目录，我得先打开游戏属性页，找到'浏览本地文件'按钮……"
+    m "要进游戏目录，我得先打开游戏属性页，找到‘浏览本地文件’按钮……"
 
 # script-ch30.rpyc:322
 translate chinese ch30_main2_6303e025:
@@ -703,13 +703,13 @@ translate chinese ch30_main2_6303e025:
 translate chinese ch30_main2_1d8a0cd9:
 
     # m "To go into the game directory, you have to right-click the app and click 'Show Package Contents'."
-    m "要进游戏目录，得右键点击应用，选'显示包内容'。"
+    m "要进游戏目录，得右键点击应用，选‘显示包内容’。"
 
 # script-ch30.rpyc:324
 translate chinese ch30_main2_81cf3664:
 
     # m "Then, all the files were in the 'Resources' or 'autorun' folder, and I could just do whatever I wanted..."
-    m "然后文件都在'Resources'或'autorun'文件夹里，我就可以为所欲为了……"
+    m "然后文件都在‘Resources’或‘autorun’文件夹里，我就可以为所欲为了……"
 
 # script-ch30.rpyc:325
 translate chinese ch30_main2_f436eab8:
@@ -1681,19 +1681,19 @@ translate chinese ch30_reload_2_94405a11:
 translate chinese ch30_reload_2_0e02b198:
 
     # m "Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button."
-    m "嗯，你是在Steam上玩的，所以只要打开游戏属性页，找到'浏览本地文件'按钮就行。"
+    m "嗯，你是在Steam上玩的，所以只要打开游戏属性页，找到‘浏览本地文件’按钮就行。"
 
 # script-ch30.rpyc:818
 translate chinese ch30_reload_2_2609a2e9:
 
     # m "Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder."
-    m "因为你用的是Mac，所以要右键点击应用，选'显示包内容'才能找到游戏文件夹。"
+    m "因为你用的是Mac，所以要右键点击应用，选‘显示包内容’才能找到游戏文件夹。"
 
 # script-ch30.rpyc:819
 translate chinese ch30_reload_2_d102bae5:
 
     # m "It's in the 'Resources' folder, or 'autorun' folder, or something..."
-    m "就在'Resources'文件夹，或者'autorun'文件夹，反正就是那里……"
+    m "就在‘Resources’文件夹，或者‘autorun’文件夹，反正就是那里……"
 
 # script-ch30.rpyc:820
 translate chinese ch30_reload_2_059e870a:
@@ -1783,19 +1783,19 @@ translate chinese ch30_reload_4_64bd3fc8:
 translate chinese ch30_reload_4_0e02b198:
 
     # m "Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button."
-    m "嗯，你是在Steam上玩的，所以只要打开游戏属性页，找到'浏览本地文件'按钮就行。"
+    m "嗯，你是在Steam上玩的，所以只要打开游戏属性页，找到‘浏览本地文件’按钮就行。"
 
 # script-ch30.rpyc:841
 translate chinese ch30_reload_4_2609a2e9:
 
     # m "Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder."
-    m "因为你用的是Mac，所以要右键点击应用，选'显示包内容'才能找到游戏文件夹。"
+    m "因为你用的是Mac，所以要右键点击应用，选‘显示包内容’才能找到游戏文件夹。"
 
 # script-ch30.rpyc:842
 translate chinese ch30_reload_4_d102bae5:
 
     # m "It's in the 'Resources' folder, or 'autorun' folder, or something..."
-    m "就在'Resources'文件夹，或者'autorun'文件夹，反正就是那里……"
+    m "就在‘Resources’文件夹，或者‘autorun’文件夹，反正就是那里……"
 
 # script-ch30.rpyc:843
 translate chinese ch30_reload_4_059e870a:
@@ -2005,7 +2005,7 @@ translate chinese ch30_2_a09538f3:
 translate chinese ch30_2_91288692:
 
     # m "I have no idea what it means for the game to quit, or why that stuff happens to me."
-    m "我完全不明白'退出游戏'意味着什么，也不明白为什么那些事会发生在我身上。"
+    m "我完全不明白‘退出游戏’意味着什么，也不明白为什么那些事会发生在我身上。"
 
 # script-ch30.rpyc:929
 translate chinese ch30_2_cd715541:
@@ -2293,7 +2293,7 @@ translate chinese ch30_5_29388e01:
 translate chinese ch30_5_0c54580c:
 
     # m "Come to think of it, it was probably less 'changing her mind' and more just her survival instincts kicking in."
-    m "仔细想想，那与其说是'后悔了'，不如说只是求生本能接管了身体。"
+    m "仔细想想，那与其说是‘后悔了’，不如说只是求生本能接管了身体。"
 
 # script-ch30.rpyc:986
 translate chinese ch30_5_ab4f33eb:
@@ -2311,7 +2311,7 @@ translate chinese ch30_5_2a911cda:
 translate chinese ch30_5_ff366260:
 
     # m "It's not healthy to think about the things you could have done differently."
-    m "老想着'当初要是那样做就好了'，对心理没好处。"
+    m "老想着‘当初要是那样做就好了’，对心理没好处。"
 
 # script-ch30.rpyc:989
 translate chinese ch30_5_1dc0ec6d:
@@ -2425,7 +2425,7 @@ translate chinese ch30_6_fe897198:
 translate chinese ch30_6_3faadfd9:
 
     # m "It feels like everything is just there because it needs to be, and the actual setting is an afterthought."
-    m "感觉所有东西都只是'需要存在所以存在'，真正的舞台设定根本是事后随手一填。"
+    m "感觉所有东西都只是‘需要存在所以存在’，真正的舞台设定根本是事后随手一填。"
 
 # script-ch30.rpyc:1011
 translate chinese ch30_6_fd9b37c9:
@@ -2443,7 +2443,7 @@ translate chinese ch30_6_4842f264:
 translate chinese ch30_6_920fcfd8:
 
     # m "I feel like I'm at home, but have no idea where 'home' is in the first place."
-    m "感觉自己在家里，却压根不知道'家'到底在哪里。"
+    m "感觉自己在家里，却压根不知道‘家’到底在哪里。"
 
 # script-ch30.rpyc:1014
 translate chinese ch30_6_3a333e2c:
@@ -2575,7 +2575,7 @@ translate chinese ch30_7_b4d6ab3c:
 translate chinese ch30_7_9c3e4b2b:
 
     # m "Making plans in advance, letting them borrow something, or even just saying 'See you at school tomorrow'..."
-    m "提前约好下一步做什么、借他们一样东西，或者哪怕一句'明天学校见'……"
+    m "提前约好下一步做什么、借他们一样东西，或者哪怕一句‘明天学校见’……"
 
 # script-ch30.rpyc:1039
 translate chinese ch30_7_abb7a1f2:
@@ -2749,13 +2749,13 @@ translate chinese ch30_8_b8795c6b:
 translate chinese ch30_8_0e0d0f42:
 
     # m "But when people realize the world would benefit more from them killing themselves, they change their whole philosophy!"
-    m "可一旦意识到'我死了对世界更有利'，他们立马就换了一套哲学！"
+    m "可一旦意识到‘我死了对世界更有利’，他们立马就换了一套哲学！"
 
 # script-ch30.rpyc:1071
 translate chinese ch30_8_291573cd:
 
     # m "It's like they have to justify their reason to live by tricking themselves into thinking they're doing good."
-    m "仿佛非得骗自己'我在做好事'，才能给活着找个正当理由。"
+    m "仿佛非得骗自己‘我在做好事’，才能给活着找个正当理由。"
 
 # script-ch30.rpyc:1072
 translate chinese ch30_8_83d73959:
@@ -2767,7 +2767,7 @@ translate chinese ch30_8_83d73959:
 translate chinese ch30_8_b93f872a:
 
     # m "If I ever surpass that point, then I'm a net positive, and I can die happy."
-    m "哪天超出了那个数，我就成了'净贡献者'，死也瞑目。"
+    m "哪天超出了那个数，我就成了‘净贡献者’，死也瞑目。"
 
 # script-ch30.rpyc:1074
 translate chinese ch30_8_c529105b:
@@ -2983,7 +2983,7 @@ translate chinese ch30_12_bc530630:
 translate chinese ch30_12_e42fe7d9:
 
     # m "Well, I guess a lot of people are more concerned about it being inhumane and all that..."
-    m "嗯，大概更多人是在意'不人道'那些吧……"
+    m "嗯，大概更多人是在意‘不人道’那些吧……"
 
 # script-ch30.rpyc:1122
 translate chinese ch30_12_bf679538:
@@ -3127,7 +3127,7 @@ translate chinese ch30_13_a34c75bf:
 translate chinese ch30_13_d169c505:
 
     # m "Even if it takes time to find the right people to share with."
-    m "哪怕找到那个'对的人'需要花些时间。"
+    m "哪怕找到那个‘对的人’需要花些时间。"
 
 # script-ch30.rpyc:1149
 translate chinese ch30_13_f6d63910:
@@ -3265,7 +3265,7 @@ translate chinese ch30_13_23c4fdb9:
 translate chinese ch30_13_d15336f7:
 
     # m "Nothing would make me happier than being the perfect girlfriend for you."
-    m "没有什么比'成为你的完美女友'更让我幸福的了。"
+    m "没有什么比‘成为你的完美女友’更让我幸福的了。"
 
 # script-ch30.rpyc:1175
 translate chinese ch30_14_dd3c3d76:
@@ -3961,7 +3961,7 @@ translate chinese ch30_22_595f0fcb:
 translate chinese ch30_22_71efa1c2:
 
     # m "It's like you're siphoning out all the components of a character that makes them feel human, and leaving just the cute stuff."
-    m "就像把一个角色身上所有'让人觉得真实'的成分抽干，只留下可爱的部分。"
+    m "就像把一个角色身上所有‘让人觉得真实’的成分抽干，只留下可爱的部分。"
 
 # script-ch30.rpyc:1315
 translate chinese ch30_22_17e6fb27:
@@ -4003,7 +4003,7 @@ translate chinese ch30_22_df7b6678:
 translate chinese ch30_22_e521f12d:
 
     # m "You're the perfect combination of human and cuteness."
-    m "你是'真实'与'可爱'的完美结合。"
+    m "你是‘真实’与‘可爱’的完美结合。"
 
 # script-ch30.rpyc:1322
 translate chinese ch30_22_8dd90704:
@@ -4057,7 +4057,7 @@ translate chinese ch30_23_907c2da1:
 translate chinese ch30_23_79f93a02:
 
     # m "...Well, I guess considering the rest of her hobbies, looking sophisticated probably isn't her biggest concern."
-    m "……嗯，不过看她其他那些爱好，'显得高雅'多半不是她最在意的事。"
+    m "……嗯，不过看她其他那些爱好，‘显得高雅’多半不是她最在意的事。"
 
 # script-ch30.rpyc:1334
 translate chinese ch30_23_11442661:
@@ -4267,7 +4267,7 @@ translate chinese ch30_28_0265e105:
 translate chinese ch30_28_52dfd7c0:
 
     # m "And you're sitting there like, 'What am I even anxious about right now?'"
-    m "你坐在那儿想：'我到底在焦虑什么啊？'"
+    m "你坐在那儿想：‘我到底在焦虑什么啊？’"
 
 # script-ch30.rpyc:1381
 translate chinese ch30_28_04a658d7:
@@ -4315,7 +4315,7 @@ translate chinese ch30_29_8d86b526:
 translate chinese ch30_29_2eb3a228:
 
     # m "Well, I guess not the 'making friends' part, but more like meeting new people."
-    m "嗯，倒不是'交朋友'本身，更多是'认识新的人'那一步。"
+    m "嗯，倒不是‘交朋友’本身，更多是‘认识新的人’那一步。"
 
 # script-ch30.rpyc:1392
 translate chinese ch30_29_ba474a05:
@@ -4375,7 +4375,7 @@ translate chinese ch30_29_15da4454:
 translate chinese ch30_29_3790bf8b:
 
     # m "You could be sitting right next to someone compatible enough to be your best friend for life."
-    m "你可能就坐在某个'够格当你一生挚友'的人旁边。"
+    m "你可能就坐在某个‘够格当你一生挚友’的人旁边。"
 
 # script-ch30.rpyc:1402
 translate chinese ch30_29_dc88c25c:
@@ -4459,7 +4459,7 @@ translate chinese ch30_30_642b8e5c:
 translate chinese ch30_30_03f5ca61:
 
     # m "We're at the height of this modern expectation that everyone has to go to college, you know?"
-    m "我们正处在'人人都必须上大学'这种现代预期最盛的时候，懂吗？"
+    m "我们正处在‘人人都必须上大学’这种现代预期最盛的时候，懂吗？"
 
 # script-ch30.rpyc:1419
 translate chinese ch30_30_6601d60a:
@@ -4567,7 +4567,7 @@ translate chinese ch30_30_70401165:
 translate chinese ch30_30_97f0818c:
 
     # m "I just wish high school prepared us a little better with the knowledge we need to make the decision that's right for us."
-    m "我只是希望，高中能多教我们一点做'适合自己的决定'所需要的知识。"
+    m "我只是希望，高中能多教我们一点做‘适合自己的决定’所需要的知识。"
 
 # script-ch30.rpyc:1440
 translate chinese ch30_31_70b8bca7:
@@ -4753,7 +4753,7 @@ translate chinese ch30_33_ba2a3a7d:
 translate chinese ch30_33_930760ba:
 
     # m "In my opinion, there's nothing more creepy than things just being slightly off."
-    m "依我看，最瘆人的莫过于'一切都只是稍微有点不对劲'。"
+    m "依我看，最瘆人的莫过于‘一切都只是稍微有点不对劲’。"
 
 # script-ch30.rpyc:1477
 translate chinese ch30_33_3413cad6:
@@ -4909,7 +4909,7 @@ translate chinese ch30_35_f3c6895e:
 translate chinese ch30_35_bc3dff4e:
 
     # m "She was just like 'Would anybody like some wine?'"
-    m "她就那么问了句：'有人想来点红酒吗？'"
+    m "她就那么问了句：‘有人想来点红酒吗？’"
 
 # script-ch30.rpyc:1509
 translate chinese ch30_35_6701d6d8:
@@ -5119,7 +5119,7 @@ translate chinese ch30_37_ca504f65:
 translate chinese ch30_38_fbd93712:
 
     # m "Hey, have you ever heard of the term 'yandere'?"
-    m "对了，你听说过'病娇'这个词吗？"
+    m "对了，你听说过‘病娇’这个词吗？"
 
 # script-ch30.rpyc:1553
 translate chinese ch30_38_97aab896:
@@ -5149,7 +5149,7 @@ translate chinese ch30_38_154d0df6:
 translate chinese ch30_38_8411ef91:
 
     # m "But anyway, this game happens to have someone who can basically be described as yandere."
-    m "总之呢，这款游戏里恰好就有一个人，基本可以用'病娇'来形容。"
+    m "总之呢，这款游戏里恰好就有一个人，基本可以用‘病娇’来形容。"
 
 # script-ch30.rpyc:1558
 translate chinese ch30_38_82926229:
@@ -5209,7 +5209,7 @@ translate chinese ch30_38_eec4532d:
 translate chinese ch30_38_ed61f888:
 
     # m "I guess they really like the idea of someone being crazy obsessed with them."
-    m "大概他们真的很享受'有人为我痴狂'这种设定吧。"
+    m "大概他们真的很享受‘有人为我痴狂’这种设定吧。"
 
 # script-ch30.rpyc:1568
 translate chinese ch30_38_96469798:
@@ -5221,7 +5221,7 @@ translate chinese ch30_38_96469798:
 translate chinese ch30_38_8a4db0dd:
 
     # m "Also, I might be a little obsessed with you, but I'm far from crazy..."
-    m "另外，我或许也对你有点痴迷，但离'疯'还差得远……"
+    m "另外，我或许也对你有点痴迷，但离‘疯’还差得远……"
 
 # script-ch30.rpyc:1570
 translate chinese ch30_38_60d396ee:
@@ -5317,7 +5317,7 @@ translate chinese ch30_39_75ace231:
 translate chinese ch30_39_91c92d3c:
 
     # m "Sometimes when I talk to people who are impressed by my writing, they say things like 'I could never do that'."
-    m "有时候和欣赏我文笔的人聊天，他们会说'这种事我永远做不到'。"
+    m "有时候和欣赏我文笔的人聊天，他们会说‘这种事我永远做不到’。"
 
 # script-ch30.rpyc:1589
 translate chinese ch30_39_a6a322ba:
@@ -5329,13 +5329,13 @@ translate chinese ch30_39_a6a322ba:
 translate chinese ch30_39_7cf9c6a2:
 
     # m "As someone who loves more than anything else to share the joy of exploring your passions..."
-    m "作为一个最热衷于与人分享'探索热爱之事'这份喜悦的人……"
+    m "作为一个最热衷于与人分享‘探索热爱之事’这份喜悦的人……"
 
 # script-ch30.rpyc:1591
 translate chinese ch30_39_567340bb:
 
     # m "...it pains me when people think that being good just comes naturally."
-    m "……看到大家以为'擅长'是天生的，我心里就不好受。"
+    m "……看到大家以为‘擅长’是天生的，我心里就不好受。"
 
 # script-ch30.rpyc:1592
 translate chinese ch30_39_79562cd9:
@@ -5479,7 +5479,7 @@ translate chinese ch30_39_9b6a6c12:
 translate chinese ch30_39_f2473909:
 
     # m "Just like drawing and painting, it's a skill in itself to learn how to express what you have inside."
-    m "就像绘画一样，'如何表达内心所想'本身就是一门需要学的技艺。"
+    m "就像绘画一样，‘如何表达内心所想’本身就是一门需要学的技艺。"
 
 # script-ch30.rpyc:1616
 translate chinese ch30_39_cf4b2ca4:
@@ -5935,7 +5935,7 @@ translate chinese ch30_46_67a170ee:
 translate chinese ch30_46_9a9d659f:
 
     # m "You could say 'I'm personally not a fan of it' and 'I felt that I'd like it more if it did X and Y'...things like that."
-    m "你可以说'我个人不太喜欢它'，或者说'我觉得如果它这样做那样做，我会更喜欢'……诸如此类。"
+    m "你可以说‘我个人不太喜欢它’，或者说‘我觉得如果它这样做那样做，我会更喜欢’……诸如此类。"
 
 # script-ch30.rpyc:1713
 translate chinese ch30_46_7fdbb335:
@@ -5947,7 +5947,7 @@ translate chinese ch30_46_7fdbb335:
 translate chinese ch30_46_c540e5d0:
 
     # m "If you say 'I read on this website that it works like this'..."
-    m "你可以说'我在某个网站上看到，它是这样运作的'……"
+    m "你可以说‘我在某个网站上看到，它是这样运作的’……"
 
 # script-ch30.rpyc:1715
 translate chinese ch30_46_595eb640:

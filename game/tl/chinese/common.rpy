@@ -1,4 +1,4 @@
-translate chinese strings:
+﻿translate chinese strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
@@ -242,7 +242,7 @@ translate chinese strings:
 
     # 00preferences.rpy:431
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "自动朗读将读出 \"[renpy.display.tts.last]\"。按 Alt+Shift+V 关闭。"
+    new "自动朗读将读出 “[renpy.display.tts.last]”。按 Alt+Shift+V 关闭。"
 
     # 00preferences.rpy:433
     old "Self-voicing enabled. Press 'v' to disable."
@@ -612,7 +612,7 @@ translate chinese strings:
     old "No Gamepads Available"
     new "没有可用的手柄"
 
-    # 00gamepad.rpy:58
+    # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
     new "正在校准 [name]（[i]/[total]）"
 

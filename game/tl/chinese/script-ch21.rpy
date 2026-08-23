@@ -92,7 +92,7 @@ translate chinese ch21_main_28526ae4:
 translate chinese ch21_main_6ff88347:
 
     # "Natsuki finds herself stuck between saying \"Monika\" and \"Manga\"."
-    "夏树卡在了\"莫妮卡\"和\"漫画\"之间，不知该先反驳哪个。"
+    "夏树卡在了“莫妮卡”和“漫画”之间，不知该先反驳哪个。"
 
 # script-ch21.rpyc:34
 translate chinese ch21_main_8e1ee84b:

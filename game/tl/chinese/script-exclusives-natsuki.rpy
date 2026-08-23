@@ -896,7 +896,7 @@ translate chinese natsuki_exclusive_1_50b06aca:
 translate chinese natsuki_exclusive_1_b1ca56d6:
 
     # n "'Eh? You still haven't grown out of that yet?'"
-    n "'诶？你还没戒掉这个啊？'"
+    n "‘诶？你还没戒掉这个啊？’"
 
 # script-exclusives-natsuki.rpyc:172
 translate chinese natsuki_exclusive_1_446342e2:

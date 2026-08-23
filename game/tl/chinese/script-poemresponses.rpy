@@ -2210,7 +2210,7 @@ translate chinese ch1_s_end_659f3f9f:
 translate chinese ch1_s_end_117ad0c7:
 
     # mc "You can't answer 'just a little bit' to a yes or no question..."
-    mc "是或不是的问句，可没法回答「一点点」啊……"
+    mc "是或不是的问句，可没法回答“一点点”啊……"
 
 # script-poemresponses.rpyc:550
 translate chinese ch1_s_end_3ec02b40:
@@ -3344,7 +3344,7 @@ translate chinese ch1_n_good_0bebb6aa:
 translate chinese ch1_n_good_0692f7bf:
 
     # n 1w "You were supposed to show me some dumb poem and make me go 'Hah, well it's not that great but let me show you what real literature looks like!'"
-    n 1w "你本该写首烂诗给我，让我来一句「哈，这不咋地嘛，还是让我给你看看什么叫真正的文学！」"
+    n 1w "你本该写首烂诗给我，让我来一句“哈，这不咋地嘛，还是让我给你看看什么叫真正的文学！”"
 
 # script-poemresponses.rpyc:805
 translate chinese ch1_n_good_b0d75767:
@@ -3758,7 +3758,7 @@ translate chinese ch2_n_med_shared_975e2e25:
 translate chinese ch2_n_med_shared_ea5f67aa:
 
     # mc "Sayori has a 'type' all of a sudden...?"
-    mc "纱世里居然也讲究「类型」了……？"
+    mc "纱世里居然也讲究“类型”了……？"
 
 # script-poemresponses.rpyc:894
 translate chinese ch2_n_med_shared_38b61ed6:
@@ -3836,7 +3836,7 @@ translate chinese ch2_n_med_shared_d91458f0:
 translate chinese ch2_n_med_shared_06c9456d:
 
     # n 2c "Huh? 'Phew' what?"
-    n 2c "嗯？「呼」什么？"
+    n 2c "嗯？“呼”什么？"
 
 # script-poemresponses.rpyc:911
 translate chinese ch2_n_med_shared_f30730dc:
@@ -5276,7 +5276,7 @@ translate chinese ch3_n_good_cc1abee3:
 translate chinese ch3_n_good_ff270aab:
 
     # n "What's the point in sharing my poems if people just laugh and say \"That's so cute, just like you, Natsuki!\""
-    n "要是大家只会笑着说我「真可爱，就像你一样，夏树！」，那我分享诗又有什么意义？"
+    n "要是大家只会笑着说我“真可爱，就像你一样，夏树！”，那我分享诗又有什么意义？"
 
 # script-poemresponses.rpyc:1239
 translate chinese ch3_n_good_39e2ca20:
@@ -11744,7 +11744,7 @@ translate chinese m_yuri_1_8702c778:
 translate chinese m_yuri_1_51d5365e:
 
     # m "I was going 'Ooh' in my head while reading it."
-    m "我读的时候，心里一直在「噢——」。"
+    m "我读的时候，心里一直在“噢——”。"
 
 # script-poemresponses.rpyc:2500
 translate chinese m_yuri_1_68322c07:

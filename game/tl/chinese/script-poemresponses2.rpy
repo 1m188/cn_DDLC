@@ -266,7 +266,7 @@ translate chinese ch22_n_end_8f4d6807:
 translate chinese ch22_n_end_6328f785:
 
     # n 1s "...But it's kind of obvious that you 'respect' Yuri more, so..."
-    n 1s "……不过，你明显更「尊重」优里吧，所以……"
+    n 1s "……不过，你明显更“尊重”优里吧，所以……"
 
 # script-poemresponses2.rpyc:81
 translate chinese ch22_n_end_3f1a63a3:
@@ -590,7 +590,7 @@ translate chinese ch23_m_end_619a4637:
 translate chinese ch23_m_end_45490c24:
 
     # m 1m "Well, I guess I kinda messed up at, uh... 'writing' this poem."
-    m 1m "唔，看来我这首诗的「写作」，算是搞砸了呢。"
+    m 1m "唔，看来我这首诗的“写作”，算是搞砸了呢。"
 
 # script-poemresponses2.rpyc:248
 translate chinese ch23_m_end_d4549a8b:
@@ -848,7 +848,7 @@ translate chinese ch22_n_med_shared_d91458f0:
 translate chinese ch22_n_med_shared_06c9456d:
 
     # n 2c "Huh? 'Phew' what?"
-    n 2c "嗯？「呼」什么？"
+    n 2c "嗯？“呼”什么？"
 
 # script-poemresponses2.rpyc:322
 translate chinese ch22_n_med_shared_f30730dc:
@@ -2300,7 +2300,7 @@ translate chinese m2_yuri_1_8702c778:
 translate chinese m2_yuri_1_51d5365e:
 
     # m "I was going 'Ooh' in my head while reading it."
-    m "我读的时候，心里一直在「噢——」。"
+    m "我读的时候，心里一直在“噢——”。"
 
 # script-poemresponses2.rpyc:680
 translate chinese m2_yuri_1_68322c07:

@@ -1,4 +1,4 @@
-# script-ch1.rpyc:9
+﻿# script-ch1.rpyc:9
 translate chinese ch1_main_0f077782:
 
     # m "Hi again, [player]!"
@@ -98,7 +98,7 @@ translate chinese ch1_main_28526ae4:
 translate chinese ch1_main_6ff88347:
 
     # "Natsuki finds herself stuck between saying \"Monika\" and \"Manga\"."
-    "夏树卡在了\"莫妮卡\"和\"漫画\"之间，不知该先反驳哪个。"
+    "夏树卡在了“莫妮卡”和“漫画”之间，不知该先反驳哪个。"
 
 # script-ch1.rpyc:34
 translate chinese ch1_main_8e1ee84b:
@@ -2108,7 +2108,7 @@ translate chinese ch1_end_yuri_d2525a4d:
 translate chinese ch1_end_yuri_8fcbadf1:
 
     # mc "That's why Natsuki felt threatened when you said her poem was cute."
-    mc "所以当你说她的诗\"可爱\"时，夏树才会觉得自己被轻视了。"
+    mc "所以当你说她的诗“可爱”时，夏树才会觉得自己被轻视了。"
 
 # script-ch1.rpyc:594
 translate chinese ch1_end_yuri_b150645d:
