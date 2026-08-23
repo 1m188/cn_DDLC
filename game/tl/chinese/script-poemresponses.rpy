@@ -2540,499 +2540,499 @@ translate chinese ch2_s_end_71190d58:
 translate chinese ch1_m_end2_f9598f81:
 
     # m 1a "So...what do you think?"
-    m 1a "So...what do you think?"
+    m 1a "那么……你觉得怎么样？"
 
 # script-poemresponses.rpyc:616
 translate chinese ch1_m_end2_8951491e:
 
     # mc "Hmm...it's very...freeform, if that's what you call it."
-    mc "Hmm...it's very...freeform, if that's what you call it."
+    mc "唔……写得很……该怎么说，很有自由发挥的味道。"
 
 # script-poemresponses.rpyc:617
 translate chinese ch1_m_end2_ea07765a:
 
     # mc "Sorry, I'm not really the right person to ask for feedback..."
-    mc "Sorry, I'm not really the right person to ask for feedback..."
+    mc "抱歉，我实在不是能给建议的那块料……"
 
 # script-poemresponses.rpyc:618
 translate chinese ch1_m_end2_7baaab6d:
 
     # m 2e "Ahaha. It's okay."
-    m 2e "Ahaha. It's okay."
+    m 2e "啊哈哈，没关系。"
 
 # script-poemresponses.rpyc:619
 translate chinese ch1_m_end2_fdd0218d:
 
     # m 2b "Yeah, that kind of style has gotten pretty popular nowadays."
-    m 2b "Yeah, that kind of style has gotten pretty popular nowadays."
+    m 2b "嗯，这种风格现在挺流行的。"
 
 # script-poemresponses.rpyc:620
 translate chinese ch1_m_end2_96b28dbc:
 
     # m "That is, a lot of poems have been putting emphasis on the timing between words and lines."
-    m "That is, a lot of poems have been putting emphasis on the timing between words and lines."
+    m "就是说，很多诗都很注重词跟句之间的节奏停顿。"
 
 # script-poemresponses.rpyc:621
 translate chinese ch1_m_end2_159edef2:
 
     # m 2a "When performed out loud, it can be really powerful."
-    m 2a "When performed out loud, it can be really powerful."
+    m 2a "要是大声朗读出来，会很有感染力。"
 
 # script-poemresponses.rpyc:622
 translate chinese ch1_m_end2_d87d0224:
 
     # mc "What was the inspiration behind this one?"
-    mc "What was the inspiration behind this one?"
+    mc "你写这首的灵感从哪来的？"
 
 # script-poemresponses.rpyc:623
 translate chinese ch1_m_end2_f0139694:
 
     # m "Ah..."
-    m "Ah..."
+    m "啊……"
 
 # script-poemresponses.rpyc:624
 translate chinese ch1_m_end2_f414689b:
 
     # m 3d "Well, I'm not sure if I know how to put it..."
-    m 3d "Well, I'm not sure if I know how to put it..."
+    m 3d "嗯，我也不太确定该怎么说……"
 
 # script-poemresponses.rpyc:625
 translate chinese ch1_m_end2_3647305a:
 
     # m 3a "I guess you could say that I had some kind of epiphany recently."
-    m 3a "I guess you could say that I had some kind of epiphany recently."
+    m 3a "姑且算是我最近突然有了一些顿悟吧。"
 
 # script-poemresponses.rpyc:626
 translate chinese ch1_m_end2_77a94eab:
 
     # m "It's been influencing my poems a bit."
-    m "It's been influencing my poems a bit."
+    m "它多多少少影响到了我写的诗。"
 
 # script-poemresponses.rpyc:627
 translate chinese ch1_m_end2_0884f9b2:
 
     # mc "An epiphany?"
-    mc "An epiphany?"
+    mc "顿悟？"
 
 # script-poemresponses.rpyc:628
 translate chinese ch1_m_end2_5a8a1eb2:
 
     # m 1a "Yeah...something like that."
-    m 1a "Yeah...something like that."
+    m 1a "嗯……差不多吧。"
 
 # script-poemresponses.rpyc:629
 translate chinese ch1_m_end2_ef875d46:
 
     # m "I'm kind of nervous to talk about deep stuff like that, because it's kind of coming on strongly..."
-    m "I'm kind of nervous to talk about deep stuff like that, because it's kind of coming on strongly..."
+    m "谈这么深刻的事，我有点紧张，毕竟说来就来确实有点冲……"
 
 # script-poemresponses.rpyc:630
 translate chinese ch1_m_end2_8fddb757:
 
     # m "Maybe after everyone is better friends with each other."
-    m "Maybe after everyone is better friends with each other."
+    m "等大家彼此更熟了再说吧。"
 
 # script-poemresponses.rpyc:631
 translate chinese ch1_m_end2_cba62eca:
 
     # m 1j "Anyway..."
-    m 1j "Anyway..."
+    m 1j "总之……"
 
 # script-poemresponses.rpyc:632
 translate chinese ch1_m_end2_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "Here's Monika's Writing Tip of the Day!"
+    m 3b "那么，这里是莫妮卡的每日写作小贴士！"
 
 # script-poemresponses.rpyc:633
 translate chinese ch1_m_end2_b8a9badc:
 
     # m "Sometimes when you're writing a poem - or a story - your brain gets too fixated on a specific point..."
-    m "Sometimes when you're writing a poem - or a story - your brain gets too fixated on a specific point..."
+    m "有时候你在写诗——或者写故事时，脑子里会过度纠结在某个点上……"
 
 # script-poemresponses.rpyc:634
 translate chinese ch1_m_end2_e2b1796a:
 
     # m "If you try so hard to make it perfect, then you'll never make any progress."
-    m "If you try so hard to make it perfect, then you'll never make any progress."
+    m "如果一心只想写到完美，那你永远也不会取得进展。"
 
 # script-poemresponses.rpyc:635
 translate chinese ch1_m_end2_c2f1ac93:
 
     # m "Just force yourself to get something down on the paper, and tidy it up later!"
-    m "Just force yourself to get something down on the paper, and tidy it up later!"
+    m "先硬着头皮写点什么落到纸上，之后再慢慢修就好了！"
 
 # script-poemresponses.rpyc:636
 translate chinese ch1_m_end2_aab3b6e6:
 
     # m "Another way to think about it is this:"
-    m "Another way to think about it is this:"
+    m "换个角度想是这样："
 
 # script-poemresponses.rpyc:637
 translate chinese ch1_m_end2_a531d1f7:
 
     # m "If you keep your pen in the same spot for too long, you'll just get a big dark puddle of ink."
-    m "If you keep your pen in the same spot for too long, you'll just get a big dark puddle of ink."
+    m "如果你的笔在一个地方停太久，只会积出一大潭黑黑的墨迹。"
 
 # script-poemresponses.rpyc:638
 translate chinese ch1_m_end2_6b20b3a2:
 
     # m "So just move your hand, and go with the flow!"
-    m "So just move your hand, and go with the flow!"
+    m "所以只要动动笔，顺其自然就好了！"
 
 # script-poemresponses.rpyc:639
 translate chinese ch1_m_end2_a33519f4:
 
     # m 3k "...That's my advice for today!"
-    m 3k "...That's my advice for today!"
+    m 3k "……这就是我今天的建议！"
 
 # script-poemresponses.rpyc:640
 translate chinese ch1_m_end2_d33852a1:
 
     # m "Thanks for listening~"
-    m "Thanks for listening~"
+    m "谢谢你能听我说这些~"
 
 # script-poemresponses.rpyc:645
 translate chinese ch2_m_end_a19d2ac7:
 
     # mc "Hm..."
-    mc "Hm..."
+    mc "唔……"
 
 # script-poemresponses.rpyc:646
 translate chinese ch2_m_end_445dfd5f:
 
     # mc "It's even more abstract than your last one, huh?"
-    mc "It's even more abstract than your last one, huh?"
+    mc "比上一首还要抽象呢。"
 
 # script-poemresponses.rpyc:647
 translate chinese ch2_m_end_4e571793:
 
     # m 5 "Ahaha..."
-    m 5 "Ahaha..."
+    m 5 "啊哈哈……"
 
 # script-poemresponses.rpyc:648
 translate chinese ch2_m_end_34d9ca1b:
 
     # m "I guess it's just the way I write..."
-    m "I guess it's just the way I write..."
+    m "我想，这也是我的一种风格吧……"
 
 # script-poemresponses.rpyc:649
 translate chinese ch2_m_end_6badc82a:
 
     # m "I'm sorry if you don't like it."
-    m "I'm sorry if you don't like it."
+    m "要是你不喜欢，真不好意思。"
 
 # script-poemresponses.rpyc:650
 translate chinese ch2_m_end_46982dd0:
 
     # mc "No, I never said that."
-    mc "No, I never said that."
+    mc "不，我可不是那个意思。"
 
 # script-poemresponses.rpyc:651
 translate chinese ch2_m_end_3f6dcb2d:
 
     # mc "It's just a kind of thing I've never really seen before, I guess."
-    mc "It's just a kind of thing I've never really seen before, I guess."
+    mc "只是这种写法，我还真没见过，大概吧。"
 
 # script-poemresponses.rpyc:652
 translate chinese ch2_m_end_25dc232d:
 
     # m 2a "I kind of like playing with my space on the paper..."
-    m 2a "I kind of like playing with my space on the paper..."
+    m 2a "我挺喜欢在纸上玩味空间的……"
 
 # script-poemresponses.rpyc:653
 translate chinese ch2_m_end_046fa6c3:
 
     # m "Choosing where and how to space your words can totally change the mood of the poem."
-    m "Choosing where and how to space your words can totally change the mood of the poem."
+    m "选择在哪儿、怎么留空，能让整首诗的氛围截然不同。"
 
 # script-poemresponses.rpyc:654
 translate chinese ch2_m_end_bef599f6:
 
     # m 2b "It's almost like magic."
-    m 2b "It's almost like magic."
+    m 2b "简直就像魔法一样。"
 
 # script-poemresponses.rpyc:655
 translate chinese ch2_m_end_3726dbfb:
 
     # m "The way I wrote the lines really short makes it feel like they're trying to speak over the noise."
-    m "The way I wrote the lines really short makes it feel like they're trying to speak over the noise."
+    m "我把句子写得特别短，这样读起来，就像它们努力盖过嘈杂声在说话一样。"
 
 # script-poemresponses.rpyc:656
 translate chinese ch2_m_end_a7bcf340:
 
     # mc "I see..."
-    mc "I see..."
+    mc "原来如此……"
 
 # script-poemresponses.rpyc:657
 translate chinese ch2_m_end_96778f53:
 
     # mc "It's still hard for me to tell what it's about, though."
-    mc "It's still hard for me to tell what it's about, though."
+    mc "可我还是很难看出它想表达什么。"
 
 # script-poemresponses.rpyc:658
 translate chinese ch2_m_end_02d21b3c:
 
     # m 2k "Ahaha."
-    m 2k "Ahaha."
+    m 2k "啊哈哈。"
 
 # script-poemresponses.rpyc:659
 translate chinese ch2_m_end_2d129b79:
 
     # m 4a "Sometimes asking what a poem is about isn't the right question."
-    m 4a "Sometimes asking what a poem is about isn't the right question."
+    m 4a "有时候，问一首诗在写什么，并不是什么好的提问。"
 
 # script-poemresponses.rpyc:660
 translate chinese ch2_m_end_634d9df7:
 
     # m "A poem can be as abstract as a physical expression of a feeling."
-    m "A poem can be as abstract as a physical expression of a feeling."
+    m "诗可以抽象到，只是某种感受的具象化表达。"
 
 # script-poemresponses.rpyc:661
 translate chinese ch2_m_end_d784117b:
 
     # m "Or a conversation with the reader."
-    m "Or a conversation with the reader."
+    m "也可以是和读者的一场对话。"
 
 # script-poemresponses.rpyc:662
 translate chinese ch2_m_end_961b7248:
 
     # m "So putting it that way, not every poem is {i}about{/i} something."
-    m "So putting it that way, not every poem is {i}about{/i} something."
+    m "所以从这个角度说，并不是每一首诗都在{i}诉说{/i}某件事。"
 
 # script-poemresponses.rpyc:663
 translate chinese ch2_m_end_c9062bfa:
 
     # m "Anyway..."
-    m "Anyway..."
+    m "总之……"
 
 # script-poemresponses.rpyc:664
 translate chinese ch2_m_end_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "Here's Monika's Writing Tip of the Day!"
+    m 3b "那么，这里是莫妮卡的每日写作小贴士！"
 
 # script-poemresponses.rpyc:665
 translate chinese ch2_m_end_6417a080:
 
     # m "Sometimes you'll find yourself facing a difficult decision..."
-    m "Sometimes you'll find yourself facing a difficult decision..."
+    m "有时候，你会遇到一个两难的抉择……"
 
 # script-poemresponses.rpyc:666
 translate chinese ch2_m_end_a151287c:
 
     # m "When that happens, don't forget to save your game!"
-    m "When that happens, don't forget to save your game!"
+    m "遇到这种情况时，别忘了先存个档！"
 
 # script-poemresponses.rpyc:667
 translate chinese ch2_m_end_3727408b:
 
     # m "You never know when you might change your mind..."
-    m "You never know when you might change your mind..."
+    m "你永远不知道会不会改变主意……"
 
 # script-poemresponses.rpyc:668
 translate chinese ch2_m_end_303c0b3c:
 
     # m "...or when something unexpected may happen!"
-    m "...or when something unexpected may happen!"
+    m "……或者会不会突然出什么意想不到的状况！"
 
 # script-poemresponses.rpyc:669
 translate chinese ch2_m_end_9f5e28af:
 
     # m 3d "Wait...is this tip even about writing?"
-    m 3d "Wait...is this tip even about writing?"
+    m 3d "等等……这条贴士跟写作有关系吗？"
 
 # script-poemresponses.rpyc:670
 translate chinese ch2_m_end_abb6063d:
 
     # m 3k "What am I even talking about?"
-    m 3k "What am I even talking about?"
+    m 3k "我到底在说什么啊？"
 
 # script-poemresponses.rpyc:671
 translate chinese ch2_m_end_30727938:
 
     # m "Ahaha!"
-    m "Ahaha!"
+    m "啊哈哈！"
 
 # script-poemresponses.rpyc:672
 translate chinese ch2_m_end_fb668315:
 
     # m 3b "...That's my advice for today!"
-    m 3b "...That's my advice for today!"
+    m 3b "……这就是我今天的建议！"
 
 # script-poemresponses.rpyc:673
 translate chinese ch2_m_end_d33852a1:
 
     # m "Thanks for listening~"
-    m "Thanks for listening~"
+    m "谢谢你能听我说这些~"
 
 # script-poemresponses.rpyc:677
 translate chinese ch3_m_end_0d2947fd:
 
     # m 1a "You know..."
-    m 1a "You know..."
+    m 1a "你知道吗……"
 
 # script-poemresponses.rpyc:678
 translate chinese ch3_m_end_736ddbc7:
 
     # m "I feel like learning and looking for answers are the sorts of things that give life meaning."
-    m "I feel like learning and looking for answers are the sorts of things that give life meaning."
+    m "我觉得学习和探寻答案，正是让生命有意义的事情。"
 
 # script-poemresponses.rpyc:679
 translate chinese ch3_m_end_aeaf0049:
 
     # m 1e "Not to get too philosophical or anything..."
-    m 1e "Not to get too philosophical or anything..."
+    m 1e "我不是想说得太玄乎什么的……"
 
 # script-poemresponses.rpyc:680
 translate chinese ch3_m_end_70059a5b:
 
     # m 1a "But it was kind of on my mind, so that's what I wrote about."
-    m 1a "But it was kind of on my mind, so that's what I wrote about."
+    m 1a "不过这些念头一直在我脑子里转，所以我就写下来了。"
 
 # script-poemresponses.rpyc:681
 translate chinese ch3_m_end_a7bcf340:
 
     # mc "I see..."
-    mc "I see..."
+    mc "原来如此……"
 
 # script-poemresponses.rpyc:682
 translate chinese ch3_m_end_5698057b:
 
     # mc "I never really put much thought into it."
-    mc "I never really put much thought into it."
+    mc "这种事我还真没怎么想过。"
 
 # script-poemresponses.rpyc:683
 translate chinese ch3_m_end_4a5c14cb:
 
     # m 1d "In a way, it's almost paradoxical."
-    m 1d "In a way, it's almost paradoxical."
+    m 1d "从某个角度说，这几乎有点自相矛盾。"
 
 # script-poemresponses.rpyc:684
 translate chinese ch3_m_end_c09e1fe0:
 
     # m "Because if we had all the answers, wouldn't the world start to lose its meaning?"
-    m "Because if we had all the answers, wouldn't the world start to lose its meaning?"
+    m "因为要是我们知道了所有的答案，世界是不是反而会失去意义？"
 
 # script-poemresponses.rpyc:685
 translate chinese ch3_m_end_d7a970c0:
 
     # mc "You know, there's one thing I noticed..."
-    mc "You know, there's one thing I noticed..."
+    mc "你知道吗，我注意到一件事……"
 
 # script-poemresponses.rpyc:686
 translate chinese ch3_m_end_4b3c68a6:
 
     # mc "It seems like everyone in the club prefers writing about things that are more sad than happy."
-    mc "It seems like everyone in the club prefers writing about things that are more sad than happy."
+    mc "似乎文学部里每个人，都更偏爱写悲伤而不是快乐的东西。"
 
 # script-poemresponses.rpyc:687
 translate chinese ch3_m_end_55f7b244:
 
     # m 1k "Ahaha. Are you surprised?"
-    m 1k "Ahaha. Are you surprised?"
+    m 1k "啊哈哈，你很意外吗？"
 
 # script-poemresponses.rpyc:688
 translate chinese ch3_m_end_22eeeab7:
 
     # m 1a "I mean, if everything was okay..."
-    m 1a "I mean, if everything was okay..."
+    m 1a "我是说，要是一切都好好的……"
 
 # script-poemresponses.rpyc:689
 translate chinese ch3_m_end_bd63c742:
 
     # m "We wouldn't really have anything to write about, would we?"
-    m "We wouldn't really have anything to write about, would we?"
+    m "我们反而没什么好写的了，不是吗？"
 
 # script-poemresponses.rpyc:690
 translate chinese ch3_m_end_3145f5df:
 
     # m "Humans aren't two-dimensional creatures."
-    m "Humans aren't two-dimensional creatures."
+    m "人可不是二维的生物。"
 
 # script-poemresponses.rpyc:691
 translate chinese ch3_m_end_e1fd08ed:
 
     # m "I think you'd know that better than anyone."
-    m "I think you'd know that better than anyone."
+    m "我想，没人比你更清楚这一点了。"
 
 # script-poemresponses.rpyc:692
 translate chinese ch3_m_end_171be076:
 
     # mc "You mean one-dimensional...?"
-    mc "You mean one-dimensional...?"
+    mc "你是说……一维？"
 
 # script-poemresponses.rpyc:693
 translate chinese ch3_m_end_7174b56f:
 
     # m 1l "Ah...yeah, that!"
-    m 1l "Ah...yeah, that!"
+    m 1l "啊……对，就是这个！"
 
 # script-poemresponses.rpyc:694
 translate chinese ch3_m_end_35ec09b1:
 
     # m 1a "Anyway..."
-    m 1a "Anyway..."
+    m 1a "总之……"
 
 # script-poemresponses.rpyc:695
 translate chinese ch3_m_end_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "Here's Monika's Writing Tip of the Day!"
+    m 3b "那么，这里是莫妮卡的每日写作小贴士！"
 
 # script-poemresponses.rpyc:696
 translate chinese ch3_m_end_9fc6f159:
 
     # m "Are you ever too shy to share your writing because you're afraid it's not that good?"
-    m "Are you ever too shy to share your writing because you're afraid it's not that good?"
+    m "你有没有因为担心自己写的不好，而不好意思跟人分享？"
 
 # script-poemresponses.rpyc:697
 translate chinese ch3_m_end_82281340:
 
     # m "It can be really disheartening to get a lukewarm response to something you put so much into."
-    m "It can be really disheartening to get a lukewarm response to something you put so much into."
+    m "明明倾注了那么多心血，却只得到不冷不热的回应，确实很叫人灰心。"
 
 # script-poemresponses.rpyc:698
 translate chinese ch3_m_end_789075aa:
 
     # m "But if you find other people who enjoy writing, then sharing becomes a lot easier!"
-    m "But if you find other people who enjoy writing, then sharing becomes a lot easier!"
+    m "可如果你能遇到其他同样喜欢写作的人，分享起来就容易多了！"
 
 # script-poemresponses.rpyc:699
 translate chinese ch3_m_end_4726e288:
 
     # m "Because instead of just telling you that your writing is good, or okay, or bad..."
-    m "Because instead of just telling you that your writing is good, or okay, or bad..."
+    m "因为他们不会只丢下一句写得好、还行、或者写得烂……"
 
 # script-poemresponses.rpyc:700
 translate chinese ch3_m_end_b702b7f6:
 
     # m "They'll want to focus more on everything that went into it, and the things you can work on."
-    m "They'll want to focus more on everything that went into it, and the things you can work on."
+    m "而是更愿意去关注你花了多少心思，以及有哪些可以改进的地方。"
 
 # script-poemresponses.rpyc:701
 translate chinese ch3_m_end_a38a6554:
 
     # m "It's much more encouraging that way, and it will make you want to continue improving."
-    m "It's much more encouraging that way, and it will make you want to continue improving."
+    m "这样一来反而更鼓舞人，也会让人更有继续前进的劲头。"
 
 # script-poemresponses.rpyc:702
 translate chinese ch3_m_end_2496c031:
 
     # m "It's almost like having your own little Literature Club, don't you think?"
-    m "It's almost like having your own little Literature Club, don't you think?"
+    m "这就跟你拥有一个属于自己的小小的文学部一样，不是吗？"
 
 # script-poemresponses.rpyc:703
 translate chinese ch3_m_end_a33519f4:
 
     # m 3k "...That's my advice for today!"
-    m 3k "...That's my advice for today!"
+    m 3k "……这就是我今天的建议！"
 
 # script-poemresponses.rpyc:704
 translate chinese ch3_m_end_d33852a1:
 
     # m "Thanks for listening~"
-    m "Thanks for listening~"
+    m "谢谢你能听我说这些~"
 
 # script-poemresponses.rpyc:709
 translate chinese ch1_n_bad_bb2cf764:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
