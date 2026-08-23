@@ -10946,253 +10946,253 @@ translate chinese ch3_y_good_shared_ae7f22e8:
 translate chinese ch1_m_start_b00bb3c8:
 
     # m 1b "Hi, [player]!"
-    m 1b "Hi, [player]!"
+    m 1b "嗨，[player]！"
 
 # script-poemresponses.rpyc:2331
 translate chinese ch1_m_start_1bd46f58:
 
     # m "Having a good time so far?"
-    m "Having a good time so far?"
+    m "玩得还开心吗？"
 
 # script-poemresponses.rpyc:2332
 translate chinese ch1_m_start_21d5c9ec:
 
     # mc "Ah...yeah."
-    mc "Ah...yeah."
+    mc "啊……嗯。"
 
 # script-poemresponses.rpyc:2333
 translate chinese ch1_m_start_666605e3:
 
     # m 1k "Good! Glad to hear it!"
-    m 1k "Good! Glad to hear it!"
+    m 1k "那就好！听你这么说我就放心了！"
 
 # script-poemresponses.rpyc:2334
 translate chinese ch1_m_start_93e2ca00:
 
     # m 4a "By the way, since you're new and everything..."
-    m 4a "By the way, since you're new and everything..."
+    m 4a "对了，既然你是新来的什么的……"
 
 # script-poemresponses.rpyc:2335
 translate chinese ch1_m_start_2c3797ba:
 
     # m "If you ever have any suggestions for the club, like new activities, or things we can do better..."
-    m "If you ever have any suggestions for the club, like new activities, or things we can do better..."
+    m "要是你对社团有什么建议，比如新的活动，或者哪方面能做得更好……"
 
 # script-poemresponses.rpyc:2336
 translate chinese ch1_m_start_c62ec065:
 
     # m 4b "I'm always listening!"
-    m 4b "I'm always listening!"
+    m 4b "我随时都愿意听！"
 
 # script-poemresponses.rpyc:2337
 translate chinese ch1_m_start_34df4ece:
 
     # m "Don't be afraid to bring things up, okay?"
-    m "Don't be afraid to bring things up, okay?"
+    m "别怕开口，好吗？"
 
 # script-poemresponses.rpyc:2339
 translate chinese ch1_m_start_5c96db76:
 
     # mc "Alright...I'll keep that in mind."
-    mc "Alright...I'll keep that in mind."
+    mc "好……我会记着的。"
 
 # script-poemresponses.rpyc:2340
 translate chinese ch1_m_start_5cef0dd8:
 
     # "Of course I'll be afraid to bring things up."
-    "Of course I'll be afraid to bring things up."
+    "我当然会怕开口了。"
 
 # script-poemresponses.rpyc:2341
 translate chinese ch1_m_start_9a72c3bb:
 
     # "I'm much better off just going with the flow until I'm more settled in."
-    "I'm much better off just going with the flow until I'm more settled in."
+    "在还没完全适应之前，我还是随波逐流比较稳妥。"
 
 # script-poemresponses.rpyc:2342
 translate chinese ch1_m_start_35ec09b1:
 
     # m 1a "Anyway..."
-    m 1a "Anyway..."
+    m 1a "总之……"
 
 # script-poemresponses.rpyc:2343
 translate chinese ch1_m_start_cfa8c28b:
 
     # m "Want to share your poem with me?"
-    m "Want to share your poem with me?"
+    m "要不要把你的诗给我看看？"
 
 # script-poemresponses.rpyc:2344
 translate chinese ch1_m_start_81b8811a:
 
     # mc "It's kind of embarrassing, but I guess I have to."
-    mc "It's kind of embarrassing, but I guess I have to."
+    mc "有点难为情，不过看来也躲不掉了。"
 
 # script-poemresponses.rpyc:2345
 translate chinese ch1_m_start_8b55ecf2:
 
     # m 5a "Ahahaha!"
-    m 5a "Ahahaha!"
+    m 5a "啊哈哈哈！"
 
 # script-poemresponses.rpyc:2346
 translate chinese ch1_m_start_5af81672:
 
     # m "Don't worry, [player]!"
-    m "Don't worry, [player]!"
+    m "别担心，[player]！"
 
 # script-poemresponses.rpyc:2347
 translate chinese ch1_m_start_b174058f:
 
     # m "We're all a little embarrassed today, you know?"
-    m "We're all a little embarrassed today, you know?"
+    m "今天大家都有点难为情呢。"
 
 # script-poemresponses.rpyc:2348
 translate chinese ch1_m_start_5fd498a1:
 
     # m "But it's that sort of barrier that we'll all learn to get past soon."
-    m "But it's that sort of barrier that we'll all learn to get past soon."
+    m "不过这种隔阂，我们很快就能学着打破的。"
 
 # script-poemresponses.rpyc:2349
 translate chinese ch1_m_start_5cc82dfc:
 
     # mc "Yeah, that's true."
-    mc "Yeah, that's true."
+    mc "嗯，说的也是。"
 
 # script-poemresponses.rpyc:2350
 translate chinese ch1_m_start_18b074dd:
 
     # "I hand Monika my poem."
-    "I hand Monika my poem."
+    "我把自己的诗递给了莫妮卡。"
 
 # script-poemresponses.rpyc:2351
 translate chinese ch1_m_start_e918c8cd:
 
     # m 2a "...Mhm!"
-    m 2a "...Mhm!"
+    m 2a "……嗯哼！"
 
 # script-poemresponses.rpyc:2355
 translate chinese ch1_m_start_d52a0336:
 
     # mc "I'm sure I'll end up trying different things a lot."
-    mc "I'm sure I'll end up trying different things a lot."
+    mc "我以后大概会常常尝试各种不同的写法。"
 
 # script-poemresponses.rpyc:2356
 translate chinese ch1_m_start_39fb2380:
 
     # mc "It could take a while before I feel comfortable doing this."
-    mc "It could take a while before I feel comfortable doing this."
+    mc "要让我真正放得开，恐怕还得花上一阵子。"
 
 # script-poemresponses.rpyc:2357
 translate chinese ch1_m_start_d86c07aa:
 
     # m 1k "That's okay!"
-    m 1k "That's okay!"
+    m 1k "没关系！"
 
 # script-poemresponses.rpyc:2358
 translate chinese ch1_m_start_b46dbd55:
 
     # m 1b "I'd love to see you try new things."
-    m 1b "I'd love to see you try new things."
+    m 1b "我很乐意看到你尝试新东西。"
 
 # script-poemresponses.rpyc:2359
 translate chinese ch1_m_start_37541404:
 
     # m "That's the best way to find the kind of style that suits you."
-    m "That's the best way to find the kind of style that suits you."
+    m "这才是找到适合自己的写作风格最好的方式。"
 
 # script-poemresponses.rpyc:2360
 translate chinese ch1_m_start_ca502e1b:
 
     # m 3e "Everyone else might be a little bit biased toward their own kinds of styles..."
-    m 3e "Everyone else might be a little bit biased toward their own kinds of styles..."
+    m 3e "其他人，多多少少都会偏爱自己的风格……"
 
 # script-poemresponses.rpyc:2361
 translate chinese ch1_m_start_e6431513:
 
     # m 3a "But I'll always help you find what suits you the most!"
-    m 3a "But I'll always help you find what suits you the most!"
+    m 3a "不过，我会一直帮你找到最适合你的那种！"
 
 # script-poemresponses.rpyc:2362
 translate chinese ch1_m_start_7cffffc8:
 
     # m "So don't force yourself to write the way everyone else wants you to write."
-    m "So don't force yourself to write the way everyone else wants you to write."
+    m "所以，别勉强自己，去按别人的想法来写。"
 
 # script-poemresponses.rpyc:2363
 translate chinese ch1_m_start_ae46059a:
 
     # m "It's not like you have to worry about impressing them or anything."
-    m "It's not like you have to worry about impressing them or anything."
+    m "你也不用担心会不会讨好到他们什么的。"
 
 # script-poemresponses.rpyc:2364
 translate chinese ch1_m_start_fd6a9371:
 
     # m 5 "Ahaha!"
-    m 5 "Ahaha!"
+    m 5 "啊哈哈！"
 
 # script-poemresponses.rpyc:2365
 translate chinese ch1_m_start_7a59b594:
 
     # mc "Ahaha..."
-    mc "Ahaha..."
+    mc "啊哈哈……"
 
 # script-poemresponses.rpyc:2366
 translate chinese ch1_m_start_9d47e097:
 
     # m 1a "Anyway, do you want to read my poem now?"
-    m 1a "Anyway, do you want to read my poem now?"
+    m 1a "那么，现在你想读读我的诗吗？"
 
 # script-poemresponses.rpyc:2367
 translate chinese ch1_m_start_59efb257:
 
     # m 1e "Don't worry, I'm not very good..."
-    m 1e "Don't worry, I'm not very good..."
+    m 1e "别担心，我写得并不好……"
 
 # script-poemresponses.rpyc:2368
 translate chinese ch1_m_start_1c27ea40:
 
     # mc "You sound pretty confident for someone who claims to not be very good."
-    mc "You sound pretty confident for someone who claims to not be very good."
+    mc "一个自称写得不好的人，口气倒很自信嘛。"
 
 # script-poemresponses.rpyc:2369
 translate chinese ch1_m_start_e7765480:
 
     # m 1j "Well...that's 'cause I have to sound confident."
-    m 1j "Well...that's 'cause I have to sound confident."
+    m 1j "嗯……那是因为，我必须表现得自信才行。"
 
 # script-poemresponses.rpyc:2370
 translate chinese ch1_m_start_5f9f46a2:
 
     # m 1b "That doesn't mean I always feel that way, you know?"
-    m 1b "That doesn't mean I always feel that way, you know?"
+    m 1b "可这不代表我心里总是这么有底哦。"
 
 # script-poemresponses.rpyc:2372
 translate chinese ch1_m_start_a7bcf340:
 
     # mc "I see..."
-    mc "I see..."
+    mc "原来如此……"
 
 # script-poemresponses.rpyc:2373
 translate chinese ch1_m_start_32258afa:
 
     # mc "Well, let's read it, then."
-    mc "Well, let's read it, then."
+    mc "那好，咱们就看看吧。"
 
 # script-poemresponses.rpyc:2377
 translate chinese ch2_m_start_88abc401:
 
     # m 1b "Hi again, [player]!"
-    m 1b "Hi again, [player]!"
+    m 1b "又见面了，[player]！"
 
 # script-poemresponses.rpyc:2380
 translate chinese ch2_m_start_b0c674af:
 
     # m "That was kind of silly with Natsuki earlier, wasn't it?"
-    m "That was kind of silly with Natsuki earlier, wasn't it?"
+    m "刚才跟夏树那出，挺好笑的吧？"
 
 # script-poemresponses.rpyc:2381
 translate chinese ch2_m_start_b6b9632c:
 
     # m 1j "I'm glad the two of you have been getting along so well."
-    m 1j "I'm glad the two of you have been getting along so well."
+    m 1j "看到你们俩相处得这么好，我很高兴。"
 
 # script-poemresponses.rpyc:2382
 translate chinese ch2_m_start_2b35b6fe:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
