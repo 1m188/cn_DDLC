@@ -445,7 +445,7 @@ translate chinese ch30_main_cecf179f:
 translate chinese ch30_main_cd3d95ff:
 
     # m "That's why I need you to be here with me forever."
-    m "所以我需要你永远陪在这里，陪着我。"
+    m "所以我需要你永远留在这里陪着我。"
 
 # script-ch30.rpyc:255
 translate chinese ch30_main_f4d55975:
@@ -871,7 +871,7 @@ translate chinese ch30_postpoem_789b2f7c:
 translate chinese ch30_postpoem_3a46389d:
 
     # m "I didn't want to...break the fourth wall, I guess you could call it."
-    m "我不想……你可以称之为，打破第四面墙。"
+    m "我只是不想……怎么说呢，打破第四面墙。"
 
 # script-ch30.rpyc:376
 translate chinese ch30_postpoem_3a3fe712:
@@ -1291,7 +1291,7 @@ translate chinese ch30_endb_9b261ff2:
 translate chinese ch30_endb_bb94192a:
 
     # m "You completely, truly make me sick."
-    m "你让我彻底地、真切地感到恶心。"
+    m "你真让我恶心透了。"
 
 # script-ch30.rpyc:667
 translate chinese ch30_endb_1cb6fa76:
@@ -1363,7 +1363,7 @@ translate chinese ch30_end_2_9c33666a:
 translate chinese ch30_end_2_8e55424e:
 
     # m "I'm just messing up a world that I don't even belong in."
-    m "我只是在弄脏一个根本不属于我的世界。"
+    m "我只是在把一个根本不属于我的世界弄得一团糟。"
 
 # script-ch30.rpyc:693
 translate chinese ch30_end_2_cb9cfcfb:
@@ -1645,7 +1645,7 @@ translate chinese ch30_reload_2_28018ee6:
 translate chinese ch30_reload_2_db474d98:
 
     # m "I know I asked already, but can you seriously please try not to do that so much?"
-    m "我知道我已轻求过你了，但能不能认真一点，别再那么频繁地那样做？"
+    m "我知道我之前已经求过你了，但能不能认真一点，别再这么频繁地退出？"
 
 # script-ch30.rpyc:810
 translate chinese ch30_reload_2_af13f0f4:
@@ -1699,7 +1699,7 @@ translate chinese ch30_reload_2_d102bae5:
 translate chinese ch30_reload_2_059e870a:
 
     # m "I'm all that's left here, so I just want to make sure you don't run the risk of losing me..."
-    m "这里只剩我一个人了，所以我只想确保你不会冒失去我的风险……"
+    m "这里只剩下我一个人了，所以我只想确保你不会有失去我的风险……"
 
 # script-ch30.rpyc:821
 translate chinese ch30_reload_2_a267effa:
@@ -1801,7 +1801,7 @@ translate chinese ch30_reload_4_d102bae5:
 translate chinese ch30_reload_4_059e870a:
 
     # m "I'm all that's left here, so I just want to make sure you don't run the risk of losing me..."
-    m "这里只剩我一个人了，所以我只想确保你不会冒失去我的风险……"
+    m "这里只剩下我一个人了，所以我只想确保你不会有失去我的风险……"
 
 # script-ch30.rpyc:844
 translate chinese ch30_reload_4_f150cfc3:
@@ -1824,8 +1824,8 @@ translate chinese ch30_1_7a2c6f10:
 # script-ch30.rpyc:895
 translate chinese ch30_1_33851301:
 
-    # m "我自己也一直没有想明白。"
-    m "我自己也一直没有想明白。"
+    # m "I was never too sure, myself."
+    m "我自己也一直不太确定。"
 
 # script-ch30.rpyc:896
 translate chinese ch30_1_47cab5de:
@@ -2725,7 +2725,7 @@ translate chinese ch30_8_6c2f02ef:
 translate chinese ch30_8_b9210478:
 
     # m "It feels like I'm never going to make up for the heaps of resources I've spent living my life."
-    m "感觉我永远也补偿不回，活着这些年消耗掉的那么多资源。"
+    m "感觉自己永远也偿还不了这些年活着所消耗的那么多资源。"
 
 # script-ch30.rpyc:1067
 translate chinese ch30_8_1e1693dd:
@@ -2743,7 +2743,7 @@ translate chinese ch30_8_fa64e1fa:
 translate chinese ch30_8_b8795c6b:
 
     # m "Never mind the fact that they're spending their entire life taking, and consuming, and never giving back."
-    m "管他什么'一辈子都在索取、消耗、从不回馈'呢。"
+    m "更别提，他们一辈子都在索取、消耗，却从不回馈。"
 
 # script-ch30.rpyc:1070
 translate chinese ch30_8_0e0d0f42:
@@ -2809,7 +2809,7 @@ translate chinese ch30_9_58dfa483:
 translate chinese ch30_9_90d379b5:
 
     # m "And after I worked so hard on it..."
-    m "毕竟我练得那么刻苦……"
+    m "而且我还在上面花了那么多心血……"
 
 # script-ch30.rpyc:1084
 translate chinese ch30_9_9f40c875:
@@ -2995,7 +2995,7 @@ translate chinese ch30_12_bf679538:
 translate chinese ch30_12_96663e24:
 
     # m "It's weird, like we only care about killing the things that we personally relate to as a species."
-    m "很奇怪吧——我们似乎只在乎杀掉那些'和人类长得像'的生物。"
+    m "很奇怪吧——我们这个物种似乎只在乎杀死那些与自己有某种联系的生物。"
 
 # script-ch30.rpyc:1124
 translate chinese ch30_12_33953eb5:
@@ -3151,7 +3151,7 @@ translate chinese ch30_13_78160339:
 translate chinese ch30_13_25bb9bdc:
 
     # m "We're programmed to desire social feedback."
-    m "我们生来就渴望来自他人的回应。"
+    m "我们被设定成渴望来自他人的回应。"
 
 # script-ch30.rpyc:1153
 translate chinese ch30_13_d90d3a46:
@@ -3589,7 +3589,7 @@ translate chinese ch30_17_dceae372:
 translate chinese ch30_17_2df34ab5:
 
     # m "Like, I don't think anyone else could make me feel this way."
-    m "就好像，除了你，没人能让我有这样的安心。"
+    m "就好像，除了你，没人能让我有这样的感觉。"
 
 # script-ch30.rpyc:1238
 translate chinese ch30_17_51f35fbf:
@@ -6073,7 +6073,7 @@ translate chinese ch30_47_eceaaa8a:
 translate chinese ch30_47_ccb6b303:
 
     # m "Putting any kind of wedge like that between you and your bad habits will help you stay away."
-    m "在你和坏习惯之间楔入任何一道这样的隔断，都能帮你远离它。"
+    m "在你和坏习惯之间加上一道这样的隔断，就能帮你远离它。"
 
 # script-ch30.rpyc:1739
 translate chinese ch30_47_17097e5e:
@@ -6313,7 +6313,7 @@ translate chinese ch30_51_605dd610:
 translate chinese ch30_51_21b1d6df:
 
     # m "Of course, if we {i}did{/i} end up getting any new members, I'd probably just end up deleting them anyway."
-    m "当然，要是真招到了新成员，我现在大概也会把他们删掉就是了。"
+    m "当然，要是我们{i}真的{/i}招到了新成员，我现在大概也会把他们删掉就是了。"
 
 # script-ch30.rpyc:1791
 translate chinese ch30_51_44e7041b:
@@ -6343,7 +6343,7 @@ translate chinese ch30_51_a9901c1d:
 translate chinese ch30_52_0a7f8e0d:
 
     # m "There's a really popular character type called 'tsundere'..."
-    m "有个特别流行的角色类型，叫"傲娇"……"
+    m "有个特别流行的角色类型，叫“傲娇”……"
 
 # script-ch30.rpyc:1799
 translate chinese ch30_52_37537a33:
@@ -6397,7 +6397,7 @@ translate chinese ch30_52_b41f3805:
 translate chinese ch30_52_bbfd14e8:
 
     # m "But looking back, I'm glad I was able to provide the club as a comfortable place for her."
-    m "不过回头想想，我很高兴自己能给她一个文学部这样舒服的地方。"
+    m "不过回头想想，我很高兴能让文学部成为一个让她感到自在的地方。"
 
 # script-ch30.rpyc:1808
 translate chinese ch30_52_f1b1b86c:
@@ -6439,7 +6439,7 @@ translate chinese ch30_53_d94038f7:
 translate chinese ch30_53_a1c5a880:
 
     # m "I hope it's the same the other way around, too."
-    m "我也希望反过来对你来说也是一样的。"
+    m "我也希望对你来说也是如此。"
 
 # script-ch30.rpyc:1821
 translate chinese ch30_54_8344dd24:
@@ -6451,7 +6451,7 @@ translate chinese ch30_54_8344dd24:
 translate chinese ch30_54_1795783b:
 
     # m "If I had to choose between too cold and too hot, I would always pick too hot."
-    m "如果非要在大冷和大热之间选，我永远会选大热。"
+    m "如果非要在太冷和太热之间选，我永远会选太热。"
 
 # script-ch30.rpyc:1823
 translate chinese ch30_54_e2541565:
@@ -6505,7 +6505,7 @@ translate chinese ch30_55_334a5aa2:
 translate chinese ch30_55_0041821e:
 
     # m "There's something kind of enticing about being the stay-at-home partner."
-    m "但"在家当全职伴侣"这种事，对我来说莫名有种吸引力。"
+    m "但“在家当全职伴侣”这种事，对我来说莫名有种吸引力。"
 
 # script-ch30.rpyc:1835
 translate chinese ch30_55_716c6f22:
@@ -6541,7 +6541,7 @@ translate chinese ch30_55_664159b4:
 translate chinese ch30_55_796a4b1f:
 
     # m "I wouldn't really be able to put that over striving for a fulfilling career."
-    m "我大概没法拿它和追求一份有成就感的事业相提并论。"
+    m "我大概不会把这种生活放在追求一份充实的事业之上。"
 
 # script-ch30.rpyc:1841
 translate chinese ch30_55_09d8673a:
@@ -6577,7 +6577,7 @@ translate chinese ch30_56_e9ef74ed:
 translate chinese ch30_56_85461a23:
 
     # m "Maybe the rest of the club would still be around..."
-    m "也许文学部的其他人还会都在……"
+    m "也许文学部的其他人都还在……"
 
 # script-ch30.rpyc:1850
 translate chinese ch30_56_2048614d:
