@@ -152,7 +152,7 @@ translate chinese ch40_main_f870d325:
 translate chinese ch40_main_6fc63fca:
 
     # "As we draw near, the streets become increasingly speckled with other students making their daily commute."
-    "越靠近学校，街道上通勤的学生就越多，星罗棋布。"
+    "越靠近学校，赶着去上学的学生就星星点点地多了起来。"
 
 # script-ch40.rpyc:67
 translate chinese ch40_main_3142c5a4:
