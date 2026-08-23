@@ -38,7 +38,7 @@ python tools/extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature C
 ```
 cn_DDLC/
 ├── game/                      # 补丁产物（玩家要复制的就是这个目录的内容）
-│   ├── fonts/                 # 中文字体（思源黑体 Noto Sans SC + OFL 许可）
+│   ├── fonts/                 # 中文字体（思源黑体 + 霞鹜文楷，含 OFL 许可证）
 │   ├── tl/chinese/            # 翻译文件（对白 + 字符串）
 │   └── zz_cn_config.rpy       # 语言与字体配置（手工维护）
 ├── tools/extract.py           # 提取工具（低频使用）
@@ -73,6 +73,6 @@ cn_DDLC/
   存档交互逻辑——DDLC 的 meta 玩法依赖这些
 - 诗词小游戏词汇表（`poemwords.txt`）与 glitch 文本需要单独处理
 - 文本中的 Ren'Py 标签（`{w}`、`[var]` 等）与引号转义必须保持原样
-- 四名角色的诗歌使用手写体字体（m1/n1/s1/y1-3，仅含英文字形），
-  已在 `zz_cn_config.rpy` 全局映射为思源黑体保证中文可读；若追求手写观感，
-  可引入开源中文字体（如霞鹜文楷）单独映射这几个字体
+- 四名角色的诗歌使用手写体字体（m1/n1/s1/y1-3，仅含英文字形），已在
+  `zz_cn_config.rpy` 映射为霞鹜文楷（LXGW WenKai，SIL OFL 1.1）以保留手写
+  观感；界面/正文则映射为思源黑体（Noto Sans SC）
