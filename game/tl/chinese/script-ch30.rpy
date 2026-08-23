@@ -4699,421 +4699,421 @@ translate chinese ch30_32_13142f4e:
 translate chinese ch30_33_e4704768:
 
     # m "Hey, do you like horror?"
-    m "Hey, do you like horror?"
+    m "对了，你喜欢恐怖题材吗？"
 
 # script-ch30.rpyc:1468
 translate chinese ch30_33_8909e55f:
 
     # m "I remember we talked about it a little bit when you first joined the club."
-    m "I remember we talked about it a little bit when you first joined the club."
+    m "记得你刚入部那会儿，我们稍微聊过一点。"
 
 # script-ch30.rpyc:1469
 translate chinese ch30_33_1f845783:
 
     # m "I can enjoy horror novels, but not really horror movies."
-    m "I can enjoy horror novels, but not really horror movies."
+    m "恐怖小说我还能享受，恐怖电影就免了。"
 
 # script-ch30.rpyc:1470
 translate chinese ch30_33_f4cc0d75:
 
     # m "The problem I have with horror movies is that most of them just rely on easy tactics."
-    m "The problem I have with horror movies is that most of them just rely on easy tactics."
+    m "我对恐怖电影的意见是：大多数都只靠廉价套路。"
 
 # script-ch30.rpyc:1471
 translate chinese ch30_33_adc94c23:
 
     # m "Like dark lighting and scary-looking monsters and jump scares, and things like that."
-    m "Like dark lighting and scary-looking monsters and jump scares, and things like that."
+    m "比如昏暗的灯光、长得吓人的怪物、突然惊吓，诸如此类。"
 
 # script-ch30.rpyc:1472
 translate chinese ch30_33_7102fe32:
 
     # m "It's not fun or inspiring to get scared by stuff that just takes advantage of human instinct."
-    m "It's not fun or inspiring to get scared by stuff that just takes advantage of human instinct."
+    m "被这种纯粹利用人类本能的东西吓到，既无趣也无启发。"
 
 # script-ch30.rpyc:1473
 translate chinese ch30_33_0671fa03:
 
     # m "But with novels, it's a little different."
-    m "But with novels, it's a little different."
+    m "小说就有些不同。"
 
 # script-ch30.rpyc:1474
 translate chinese ch30_33_d73276d9:
 
     # m "The story and writing need to be descriptive enough to put genuinely disturbing thoughts into the reader's head."
-    m "The story and writing need to be descriptive enough to put genuinely disturbing thoughts into the reader's head."
+    m "故事和文笔必须足够有画面感，才能把真正令人不安的念头放进读者脑海。"
 
 # script-ch30.rpyc:1475
 translate chinese ch30_33_ba2a3a7d:
 
     # m "It really needs to etch them deeply into the story and characters, and just mess with your mind."
-    m "It really needs to etch them deeply into the story and characters, and just mess with your mind."
+    m "必须把那些东西深深凿进故事和角色里，搅乱你的心智。"
 
 # script-ch30.rpyc:1476
 translate chinese ch30_33_930760ba:
 
     # m "In my opinion, there's nothing more creepy than things just being slightly off."
-    m "In my opinion, there's nothing more creepy than things just being slightly off."
+    m "依我看，最瘆人的莫过于'一切都只是稍微有点不对劲'。"
 
 # script-ch30.rpyc:1477
 translate chinese ch30_33_3413cad6:
 
     # m "Like if you set up a bunch of expectations on what the story is going to be about..."
-    m "Like if you set up a bunch of expectations on what the story is going to be about..."
+    m "比如先铺陈一堆预期，让读者以为故事会往某处走……"
 
 # script-ch30.rpyc:1478
 translate chinese ch30_33_e661a6e4:
 
     # m "...And then, you just start inverting things and pulling the pieces apart."
-    m "...And then, you just start inverting things and pulling the pieces apart."
+    m "……然后开始把一切翻转、拆散。"
 
 # script-ch30.rpyc:1479
 translate chinese ch30_33_e36ea3db:
 
     # m "So even though the story doesn't feel like it's trying to be scary, the reader feels really deeply unsettled."
-    m "So even though the story doesn't feel like it's trying to be scary, the reader feels really deeply unsettled."
+    m "这样即便故事看起来并无意吓人，读者心底也会泛起深深的不安。"
 
 # script-ch30.rpyc:1480
 translate chinese ch30_33_519da94e:
 
     # m "Like they know that something horribly wrong is hiding beneath the cracks, just waiting to surface."
-    m "Like they know that something horribly wrong is hiding beneath the cracks, just waiting to surface."
+    m "仿佛知道有什么极不对劲的东西藏在裂缝之下，只等浮出水面。"
 
 # script-ch30.rpyc:1481
 translate chinese ch30_33_66401c82:
 
     # m "God, just thinking about it gives me the chills."
-    m "God, just thinking about it gives me the chills."
+    m "天哪，光是想想就起鸡皮疙瘩。"
 
 # script-ch30.rpyc:1482
 translate chinese ch30_33_deef0da9:
 
     # m "That's the kind of horror I can really appreciate."
-    m "That's the kind of horror I can really appreciate."
+    m "那才是我真正欣赏的恐怖。"
 
 # script-ch30.rpyc:1483
 translate chinese ch30_33_a4a5508a:
 
     # m "But I guess you're the kind of person who plays cute romance games, right?"
-    m "But I guess you're the kind of person who plays cute romance games, right?"
+    m "不过你应该是玩可爱恋爱游戏的那类人吧？"
 
 # script-ch30.rpyc:1484
 translate chinese ch30_33_543d2553:
 
     # m "Ahaha, don't worry."
-    m "Ahaha, don't worry."
+    m "啊哈，别担心。"
 
 # script-ch30.rpyc:1485
 translate chinese ch30_33_4b948959:
 
     # m "I won't make you read any horror stories anytime soon."
-    m "I won't make you read any horror stories anytime soon."
+    m "近期内我不会逼你读恐怖故事的。"
 
 # script-ch30.rpyc:1486
 translate chinese ch30_33_fc37acc5:
 
     # m "I can't really complain if we just stick with the romance~"
-    m "I can't really complain if we just stick with the romance~"
+    m "只谈情说爱的话，我完全没意见~"
 
 # script-ch30.rpyc:1490
 translate chinese ch30_34_4289e4b0:
 
     # m "You know what's a neat form of literature?"
-    m "You know what's a neat form of literature?"
+    m "你知道一种很妙的文学形式吗？"
 
 # script-ch30.rpyc:1491
 translate chinese ch30_34_158969fa:
 
     # m "Rap!"
-    m "Rap!"
+    m "说唱！"
 
 # script-ch30.rpyc:1492
 translate chinese ch30_34_0485526b:
 
     # m "I actually used to hate rap music..."
-    m "I actually used to hate rap music..."
+    m "我以前其实很讨厌说唱……"
 
 # script-ch30.rpyc:1493
 translate chinese ch30_34_f4387e30:
 
     # m "Maybe just because it was popular, or I would only hear the junk they play on the radio."
-    m "Maybe just because it was popular, or I would only hear the junk they play on the radio."
+    m "也许只是因为那时它太流行，或者我只听过电台里放的糟粕。"
 
 # script-ch30.rpyc:1494
 translate chinese ch30_34_169a83d0:
 
     # m "But some of my friends got more into it, and it helped me keep an open mind."
-    m "But some of my friends got more into it, and it helped me keep an open mind."
+    m "但后来一些朋友迷上了它，我也跟着打开了眼界。"
 
 # script-ch30.rpyc:1495
 translate chinese ch30_34_55051483:
 
     # m "Rap might even be more challenging than poetry, in some ways."
-    m "Rap might even be more challenging than poetry, in some ways."
+    m "某种意义上，说唱甚至比写诗更难。"
 
 # script-ch30.rpyc:1496
 translate chinese ch30_34_e0c4bdef:
 
     # m "Since you need to fit your lines to a rhythm, and there's much more emphasis on wordplay..."
-    m "Since you need to fit your lines to a rhythm, and there's much more emphasis on wordplay..."
+    m "因为你的词得卡上节奏，对文字游戏的讲究也更多……"
 
 # script-ch30.rpyc:1497
 translate chinese ch30_34_1f25c541:
 
     # m "When people can put all that together and still deliver a powerful message, it's really amazing."
-    m "When people can put all that together and still deliver a powerful message, it's really amazing."
+    m "当有人能把这一切融为一体，还传达出有力的信息时，那真的很了不起。"
 
 # script-ch30.rpyc:1498
 translate chinese ch30_34_f121a0ac:
 
     # m "I kind of wish I had a rapper in the Literature Club."
-    m "I kind of wish I had a rapper in the Literature Club."
+    m "我有点希望文学部里有个说唱歌手。"
 
 # script-ch30.rpyc:1499
 translate chinese ch30_34_a5053f9d:
 
     # m "Ahaha! Sorry if that sounds silly, but it would be really interesting to see what they came up with."
-    m "Ahaha! Sorry if that sounds silly, but it would be really interesting to see what they came up with."
+    m "啊哈！听着可能有点蠢，但看看他们能写出什么，一定很有意思。"
 
 # script-ch30.rpyc:1500
 translate chinese ch30_34_83bdb999:
 
     # m "It would really be a learning experience!"
-    m "It would really be a learning experience!"
+    m "绝对会是宝贵的学习经历！"
 
 # script-ch30.rpyc:1504
 translate chinese ch30_35_306ca8a2:
 
     # m "Ehehe. Yuri did something really funny once."
-    m "Ehehe. Yuri did something really funny once."
+    m "诶嘿嘿，优里以前干过一件特别好笑的事。"
 
 # script-ch30.rpyc:1505
 translate chinese ch30_35_d5b7b354:
 
     # m "We were all in the clubroom and just relaxing, as usual..."
-    m "We were all in the clubroom and just relaxing, as usual..."
+    m "大家照常在活动室里放松……"
 
 # script-ch30.rpyc:1506
 translate chinese ch30_35_c4d9bfef:
 
     # m "And out of nowhere, Yuri just pulled out a small bottle of wine."
-    m "And out of nowhere, Yuri just pulled out a small bottle of wine."
+    m "优里突然掏出了一小瓶红酒。"
 
 # script-ch30.rpyc:1507
 translate chinese ch30_35_f3c6895e:
 
     # m "I'm not even kidding!"
-    m "I'm not even kidding!"
+    m "我一点都没夸张！"
 
 # script-ch30.rpyc:1508
 translate chinese ch30_35_bc3dff4e:
 
     # m "She was just like 'Would anybody like some wine?'"
-    m "She was just like 'Would anybody like some wine?'"
+    m "她就那么问了句：'有人想来点红酒吗？'"
 
 # script-ch30.rpyc:1509
 translate chinese ch30_35_6701d6d8:
 
     # m "Natsuki laughed out loud, and Sayori started yelling at her."
-    m "Natsuki laughed out loud, and Sayori started yelling at her."
+    m "夏树当场笑出了声，纱世里则冲她大喊大叫。"
 
 # script-ch30.rpyc:1510
 translate chinese ch30_35_b8ffb398:
 
     # m "I actually felt kind of bad, because she was at least trying to be nice..."
-    m "I actually felt kind of bad, because she was at least trying to be nice..."
+    m "说实话我有点过意不去，毕竟她好歹是一片好意……"
 
 # script-ch30.rpyc:1511
 translate chinese ch30_35_698c3048:
 
     # m "I think it just made her feel even more reserved in the clubroom."
-    m "I think it just made her feel even more reserved in the clubroom."
+    m "我觉得那之后她在活动室里更放不开了。"
 
 # script-ch30.rpyc:1512
 translate chinese ch30_35_fe41f0f9:
 
     # m "Though I think Natsuki was secretly a bit curious to try it..."
-    m "Though I think Natsuki was secretly a bit curious to try it..."
+    m "不过我猜夏树私底下也有点想尝尝……"
 
 # script-ch30.rpyc:1513
 translate chinese ch30_35_078e705e:
 
     # m "...And to be completely honest, I kind of was, too."
-    m "...And to be completely honest, I kind of was, too."
+    m "……而且完全坦白讲，我也有点。"
 
 # script-ch30.rpyc:1514
 translate chinese ch30_35_2be6bce7:
 
     # m "It actually could have been kinda fun!"
-    m "It actually could have been kinda fun!"
+    m "那说不定还挺有意思的！"
 
 # script-ch30.rpyc:1515
 translate chinese ch30_35_01d59e60:
 
     # m "But you know, being President and everything, there was no way I could let that happen."
-    m "But you know, being President and everything, there was no way I could let that happen."
+    m "但你也知道，身为部长，我怎么可能放任那种事。"
 
 # script-ch30.rpyc:1516
 translate chinese ch30_35_2a10d3bd:
 
     # m "Maybe if we all met up outside of school, but we never bonded enough to get to that point..."
-    m "Maybe if we all met up outside of school, but we never bonded enough to get to that point..."
+    m "也许大家一起在校外聚聚还行，但我们的交情始终没到那一步……"
 
 # script-ch30.rpyc:1517
 translate chinese ch30_35_2cccbca1:
 
     # m "...Gosh, what am I talking about this for?"
-    m "...Gosh, what am I talking about this for?"
+    m "……天哪，我干嘛说这个？"
 
 # script-ch30.rpyc:1518
 translate chinese ch30_35_e3d2c543:
 
     # m "I don't condone underage drinking!"
-    m "I don't condone underage drinking!"
+    m "我可不纵容未成年人喝酒！"
 
 # script-ch30.rpyc:1519
 translate chinese ch30_35_0bd6c6e4:
 
     # m "I mean, I've never drank or anything, so...yeah."
-    m "I mean, I've never drank or anything, so...yeah."
+    m "再说我从来没喝过酒，所以……对。"
 
 # script-ch30.rpyc:1523
 translate chinese ch30_36_6ba45174:
 
     # m "I've been imagining all the romantic things we could do if we went on a date..."
-    m "I've been imagining all the romantic things we could do if we went on a date..."
+    m "我一直在想象，如果我们去约会，能做哪些浪漫的事……"
 
 # script-ch30.rpyc:1524
 translate chinese ch30_36_bfe9cfa5:
 
     # m "We could get lunch, go to a cafe..."
-    m "We could get lunch, go to a cafe..."
+    m "可以一起吃午饭，去咖啡馆……"
 
 # script-ch30.rpyc:1525
 translate chinese ch30_36_9ce3f070:
 
     # m "Go shopping together..."
-    m "Go shopping together..."
+    m "一起去逛街……"
 
 # script-ch30.rpyc:1526
 translate chinese ch30_36_cf4ce2ca:
 
     # m "I love shopping for skirts and bows."
-    m "I love shopping for skirts and bows."
+    m "我最爱挑裙子和蝴蝶结了。"
 
 # script-ch30.rpyc:1527
 translate chinese ch30_36_734a2ba1:
 
     # m "Or maybe a bookstore!"
-    m "Or maybe a bookstore!"
+    m "或者去书店！"
 
 # script-ch30.rpyc:1528
 translate chinese ch30_36_5af3a135:
 
     # m "That would be appropriate, right?"
-    m "That would be appropriate, right?"
+    m "那才应景，对吧？"
 
 # script-ch30.rpyc:1529
 translate chinese ch30_36_27a88c8e:
 
     # m "But I'd really love to go to a chocolate store."
-    m "But I'd really love to go to a chocolate store."
+    m "不过我真正想去的是巧克力店。"
 
 # script-ch30.rpyc:1530
 translate chinese ch30_36_5850e67b:
 
     # m "They have so many free samples. Ahaha!"
-    m "They have so many free samples. Ahaha!"
+    m "那里面试吃特别多。啊哈！"
 
 # script-ch30.rpyc:1531
 translate chinese ch30_36_f9478dc5:
 
     # m "And of course, we'd see a movie or something..."
-    m "And of course, we'd see a movie or something..."
+    m "当然，还要看场电影什么的……"
 
 # script-ch30.rpyc:1532
 translate chinese ch30_36_9e987fc8:
 
     # m "Gosh, it all sounds like a dream come true."
-    m "Gosh, it all sounds like a dream come true."
+    m "天哪，这一切听起来都像美梦成真。"
 
 # script-ch30.rpyc:1533
 translate chinese ch30_36_12c443fa:
 
     # m "When you're here, everything that we do is fun."
-    m "When you're here, everything that we do is fun."
+    m "只要有你在，我们做什么都有趣。"
 
 # script-ch30.rpyc:1534
 translate chinese ch30_36_350a0eb3:
 
     # m "I'm so happy that I'm your girlfriend, [player]."
-    m "I'm so happy that I'm your girlfriend, [player]."
+    m "能做你的女朋友，我太幸福了，[player]。"
 
 # script-ch30.rpyc:1535
 translate chinese ch30_36_a2211890:
 
     # m "I'll make you a proud boyfriend~"
-    m "I'll make you a proud boyfriend~"
+    m "我会让你成为让人羡慕的男友~"
 
 # script-ch30.rpyc:1539
 translate chinese ch30_37_23873b44:
 
     # m "Eh? D-Did you say...k...kiss?"
-    m "Eh? D-Did you say...k...kiss?"
+    m "诶？你、你是说……亲……亲亲？"
 
 # script-ch30.rpyc:1540
 translate chinese ch30_37_bbf90a63:
 
     # m "This suddenly...it's a little embarrassing..."
-    m "This suddenly...it's a little embarrassing..."
+    m "这么突然……有点难为情……"
 
 # script-ch30.rpyc:1541
 translate chinese ch30_37_b54e9ff9:
 
     # m "But...if it's with you...I-I might be okay with it..."
-    m "But...if it's with you...I-I might be okay with it..."
+    m "不过……如果是和你……我、我或许可以……"
 
 # script-ch30.rpyc:1542
 translate chinese ch30_37_05c767cf:
 
     # m "...Ahahaha! Wow, sorry..."
-    m "...Ahahaha! Wow, sorry..."
+    m "……啊哈哈哈！哎呀，抱歉……"
 
 # script-ch30.rpyc:1543
 translate chinese ch30_37_9a52f2b7:
 
     # m "I really couldn't keep a straight face there."
-    m "I really couldn't keep a straight face there."
+    m "刚才实在绷不住表情了。"
 
 # script-ch30.rpyc:1544
 translate chinese ch30_37_ee100fce:
 
     # m "That's the kind of thing girls say in these kinds of romance games, right?"
-    m "That's the kind of thing girls say in these kinds of romance games, right?"
+    m "这种恋爱游戏里的女孩子都是这么说的，对吧？"
 
 # script-ch30.rpyc:1545
 translate chinese ch30_37_78f57477:
 
     # m "Don't lie if it turned you on a little bit."
-    m "Don't lie if it turned you on a little bit."
+    m "要是多少有点心动，可别嘴硬。"
 
 # script-ch30.rpyc:1546
 translate chinese ch30_37_6e6af572:
 
     # m "Ahaha! I'm kidding."
-    m "Ahaha! I'm kidding."
+    m "啊哈！开玩笑的。"
 
 # script-ch30.rpyc:1547
 translate chinese ch30_37_d49b2280:
 
     # m "Well, to be honest, I do start getting all romantic when the mood is right..."
-    m "Well, to be honest, I do start getting all romantic when the mood is right..."
+    m "老实说，气氛到位的时候，我确实会变得很浪漫……"
 
 # script-ch30.rpyc:1548
 translate chinese ch30_37_ca504f65:
 
     # m "But that'll be our secret~"
-    m "But that'll be our secret~"
+    m "不过这是我们之间的秘密~"
 
 # script-ch30.rpyc:1552
 translate chinese ch30_38_fbd93712:
