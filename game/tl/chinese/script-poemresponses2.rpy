@@ -1358,487 +1358,487 @@ translate chinese ch23_n_ygave_a79131e4:
 translate chinese ch22_y_med_94ddb391:
 
     # y 2b "I've been waiting for this..."
-    y 2b "I've been waiting for this..."
+    y 2b "我等这一刻很久了……"
 
 # script-poemresponses2.rpyc:459
 translate chinese ch22_y_med_e1432eef:
 
     # y "Let's see what you've written for today."
-    y "Let's see what you've written for today."
+    y "让我看看你今天写了什么。"
 
 # script-poemresponses2.rpyc:460
 translate chinese ch22_y_med_2c087461:
 
     # y 3m "..."
-    y 3m "..."
+    y 3m "……"
 
 # script-poemresponses2.rpyc:461
 translate chinese ch22_y_med_b995a929:
 
     # "Yuri smiles and takes a deep breath."
-    "Yuri smiles and takes a deep breath."
+    "优里露出微笑，深深吸了一口气。"
 
 # script-poemresponses2.rpyc:462
 translate chinese ch22_y_med_0aa09258:
 
     # y "I like just holding it."
-    y "I like just holding it."
+    y "光是拿着它，我就很喜欢。"
 
 # script-poemresponses2.rpyc:463
 translate chinese ch22_y_med_652650d3:
 
     # mc "...?"
-    mc "...?"
+    mc "……？"
 
 # script-poemresponses2.rpyc:464
 translate chinese ch22_y_med_e2d6fa5d:
 
     # y 3p "Ah, I mean--"
-    y 3p "Ah, I mean--"
+    y 3p "啊，我是说——"
 
 # script-poemresponses2.rpyc:465
 translate chinese ch22_y_med_5fa73bc5:
 
     # y "The poem turned out good!"
-    y "The poem turned out good!"
+    y "这首诗写得很好！"
 
 # script-poemresponses2.rpyc:466
 translate chinese ch22_y_med_8cf5af87:
 
     # y 3o "It's, ah..."
-    y 3o "It's, ah..."
+    y 3o "就是，嗯……"
 
 # script-poemresponses2.rpyc:467
 translate chinese ch22_y_med_bdd39969:
 
     # y 2q "...Well, there are some things that you could work on..."
-    y 2q "...Well, there are some things that you could work on..."
+    y 2q "……唔，虽然还有些可以精进的地方……"
 
 # script-poemresponses2.rpyc:468
 translate chinese ch22_y_med_d85fefff:
 
     # y "But that doesn't really matter."
-    y "But that doesn't really matter."
+    y "不过那都不重要。"
 
 # script-poemresponses2.rpyc:469
 translate chinese ch22_y_med_89dc40f0:
 
     # y 2s "It feels like anything written by you is a treasure."
-    y 2s "It feels like anything written by you is a treasure."
+    y 2s "只要是出自你手的文字，感觉都像是珍宝。"
 
 # script-poemresponses2.rpyc:470
 translate chinese ch22_y_med_f876926a:
 
     # y 2d "Ahaha..."
-    y 2d "Ahaha..."
+    y 2d "啊哈哈……"
 
 # script-poemresponses2.rpyc:471
 translate chinese ch22_y_med_1ffa3f36:
 
     # y 2o "That came out a little awkward..."
-    y 2o "That came out a little awkward..."
+    y 2o "这话说出来有点怪……"
 
 # script-poemresponses2.rpyc:472
 translate chinese ch22_y_med_9b5f3b10:
 
     # y "L-Let's move on..."
-    y "L-Let's move on..."
+    y "我、我们换个话题吧……"
 
 # script-poemresponses2.rpyc:473
 translate chinese ch22_y_med_138402ae:
 
     # y 2t "Here's the poem I wrote."
-    y 2t "Here's the poem I wrote."
+    y 2t "这是我写的诗。"
 
 # script-poemresponses2.rpyc:474
 translate chinese ch22_y_med_2aa6177c:
 
     # y "You don't have to like it or anything..."
-    y "You don't have to like it or anything..."
+    y "你不一定非要喜欢它什么的……"
 
 # script-poemresponses2.rpyc:481
 translate chinese ch22_y_good_94ddb391:
 
     # y 2b "I've been waiting for this..."
-    y 2b "I've been waiting for this..."
+    y 2b "我等这一刻很久了……"
 
 # script-poemresponses2.rpyc:482
 translate chinese ch22_y_good_e1432eef:
 
     # y "Let's see what you've written for today."
-    y "Let's see what you've written for today."
+    y "让我看看你今天写了什么。"
 
 # script-poemresponses2.rpyc:483
 translate chinese ch22_y_good_b56cb4ee:
 
     # y 2e "..."
-    y 2e "..."
+    y 2e "……"
 
 # script-poemresponses2.rpyc:484
 translate chinese ch22_y_good_57e586ab:
 
     # y "......"
-    y "......"
+    y "……"
 
 # script-poemresponses2.rpyc:485
 translate chinese ch22_y_good_60fd42a2:
 
     # "Yuri stares at the poem with a surprised expression on her face."
-    "Yuri stares at the poem with a surprised expression on her face."
+    "优里带着惊讶的神情，盯着那首诗。"
 
 # script-poemresponses2.rpyc:486
 translate chinese ch22_y_good_a4fb38a3:
 
     # mc "Do you...like it?"
-    mc "Do you...like it?"
+    mc "你……喜欢它吗？"
 
 # script-poemresponses2.rpyc:487
 translate chinese ch22_y_good_c60c5441:
 
     # y "[player]..."
-    y "[player]..."
+    y "[player]……"
 
 # script-poemresponses2.rpyc:488
 translate chinese ch22_y_good_9c78e0ce:
 
     # y "...How did you pick up on this so quickly?"
-    y "...How did you pick up on this so quickly?"
+    y "……你怎么这么快就学会了？"
 
 # script-poemresponses2.rpyc:490
 translate chinese ch22_y_good_shared_9b7b3447:
 
     # y 2v "Just yesterday, I was telling you the kind of techniques worth practicing..."
-    y 2v "Just yesterday, I was telling you the kind of techniques worth practicing..."
+    y 2v "就在昨天，我才刚跟你提起值得练习的技巧……"
 
 # script-poemresponses2.rpyc:491
 translate chinese ch22_y_good_shared_73030027:
 
     # mc "Maybe that's why..."
-    mc "Maybe that's why..."
+    mc "也许正是因为这个吧……"
 
 # script-poemresponses2.rpyc:492
 translate chinese ch22_y_good_shared_f8777275:
 
     # mc "You did a good job explaining."
-    mc "You did a good job explaining."
+    mc "你解释得很清楚。"
 
 # script-poemresponses2.rpyc:493
 translate chinese ch22_y_good_shared_4ff08e3f:
 
     # mc "I really wanted to try giving it more imagery."
-    mc "I really wanted to try giving it more imagery."
+    mc "我真的很想试试加入更多的意象。"
 
 # script-poemresponses2.rpyc:495
 translate chinese ch22_y_good_shared_4ba84665:
 
     # "Yuri visibly swallows."
-    "Yuri visibly swallows."
+    "优里明显地咽了口唾沫。"
 
 # script-poemresponses2.rpyc:496
 translate chinese ch22_y_good_shared_886256e6:
 
     # "Even her hands appear sweaty."
-    "Even her hands appear sweaty."
+    "连她的手心都渗出了汗。"
 
 # script-poemresponses2.rpyc:497
 translate chinese ch22_y_good_shared_ebaf0814:
 
     # y 4e "A-Ah..."
-    y 4e "A-Ah..."
+    y 4e "啊、啊……"
 
 # script-poemresponses2.rpyc:498
 translate chinese ch22_y_good_shared_29f23c37:
 
     # y "That makes me so happy..."
-    y "That makes me so happy..."
+    y "这让我好开心……"
 
 # script-poemresponses2.rpyc:499
 translate chinese ch22_y_good_shared_d6f2c61c:
 
     # y 3y5 "It's so amazing to feel like I'm valued, [player]!"
-    y 3y5 "It's so amazing to feel like I'm valued, [player]!"
+    y 3y5 "能感觉到自己被人看重，真是太美妙了，[player]！"
 
 # script-poemresponses2.rpyc:500
 translate chinese ch22_y_good_shared_eb2eaa92:
 
     # y "Everything that you write is a treasure to me."
-    y "Everything that you write is a treasure to me."
+    y "你写的每一字每一句，对我来说都是珍宝。"
 
 # script-poemresponses2.rpyc:501
 translate chinese ch22_y_good_shared_fc7fc684:
 
     # y 3m "My heart pounds just holding it..."
-    y 3m "My heart pounds just holding it..."
+    y 3m "光是拿着它，我的心就怦怦直跳……"
 
 # script-poemresponses2.rpyc:502
 translate chinese ch22_y_good_shared_ad35b5dc:
 
     # y 3q "Ahaha..."
-    y 3q "Ahaha..."
+    y 3q "啊哈哈……"
 
 # script-poemresponses2.rpyc:503
 translate chinese ch22_y_good_shared_38f69c70:
 
     # y "I want to write a poem about this feeling..."
-    y "I want to write a poem about this feeling..."
+    y "我想为这份心情写一首诗……"
 
 # script-poemresponses2.rpyc:504
 translate chinese ch22_y_good_shared_e4024fb3:
 
     # y 3y6 "Is that bad, [player]?"
-    y 3y6 "Is that bad, [player]?"
+    y 3y6 "这样……会不会很奇怪，[player]？"
 
 # script-poemresponses2.rpyc:505
 translate chinese ch22_y_good_shared_b36688ad:
 
     # y "I'm not being weird, right?"
-    y "I'm not being weird, right?"
+    y "我这样，不算很奇怪吧？"
 
 # script-poemresponses2.rpyc:506
 translate chinese ch22_y_good_shared_f69503df:
 
     # y 3s "I-I'm having a harder time than usual at concealing my emotions..."
-    y 3s "I-I'm having a harder time than usual at concealing my emotions..."
+    y 3s "我、我比平时更藏不住自己的情绪了……"
 
 # script-poemresponses2.rpyc:507
 translate chinese ch22_y_good_shared_a1ec5430:
 
     # y 3m "I'm kind of embarrassed."
-    y 3m "I'm kind of embarrassed."
+    y 3m "有点难为情。"
 
 # script-poemresponses2.rpyc:508
 translate chinese ch22_y_good_shared_f5e7ea05:
 
     # y 3y6 "But right now, I just want you to read my poem, too."
-    y 3y6 "But right now, I just want you to read my poem, too."
+    y 3y6 "不过现在，我也只想让你读读我的诗。"
 
 # script-poemresponses2.rpyc:509
 translate chinese ch22_y_good_shared_660d079b:
 
     # y 3y5 "Okay?"
-    y 3y5 "Okay?"
+    y 3y5 "好吗？"
 
 # script-poemresponses2.rpyc:513
 translate chinese ch22_y_good_shared_94ddb391:
 
     # y 2b "I've been waiting for this..."
-    y 2b "I've been waiting for this..."
+    y 2b "我等这一刻很久了……"
 
 # script-poemresponses2.rpyc:514
 translate chinese ch22_y_good_shared_e1432eef:
 
     # y "Let's see what you've written for today."
-    y "Let's see what you've written for today."
+    y "让我看看你今天写了什么。"
 
 # script-poemresponses2.rpyc:515
 translate chinese ch22_y_good_shared_b56cb4ee:
 
     # y 2e "..."
-    y 2e "..."
+    y 2e "……"
 
 # script-poemresponses2.rpyc:516
 translate chinese ch22_y_good_shared_57e586ab:
 
     # y "......"
-    y "......"
+    y "……"
 
 # script-poemresponses2.rpyc:517
 translate chinese ch22_y_good_shared_60fd42a2:
 
     # "Yuri stares at the poem with a surprised expression on her face."
-    "Yuri stares at the poem with a surprised expression on her face."
+    "优里带着惊讶的神情，盯着那首诗。"
 
 # script-poemresponses2.rpyc:518
 translate chinese ch22_y_good_shared_a4fb38a3:
 
     # mc "Do you...like it?"
-    mc "Do you...like it?"
+    mc "你……喜欢它吗？"
 
 # script-poemresponses2.rpyc:519
 translate chinese ch22_y_good_shared_c60c5441:
 
     # y "[player]..."
-    y "[player]..."
+    y "[player]……"
 
 # script-poemresponses2.rpyc:520
 translate chinese ch22_y_good_shared_4e94ed3b:
 
     # y 2t "This one might even be better than yesterday's..."
-    y 2t "This one might even be better than yesterday's..."
+    y 2t "这首，说不定比昨天那首还要好……"
 
 # script-poemresponses2.rpyc:521
 translate chinese ch22_y_good_shared_0b22d8b2:
 
     # y "...How did you even pick up on this so quickly?"
-    y "...How did you even pick up on this so quickly?"
+    y "……你怎么会进步得这么快？"
 
 # script-poemresponses2.rpyc:531
 translate chinese ch23_y_good_475d4e53:
 
     # y 1d "Finally..."
-    y 1d "Finally..."
+    y 1d "终于……"
 
 # script-poemresponses2.rpyc:532
 translate chinese ch23_y_good_e36a0b82:
 
     # y 3y5 "Ahaha..."
-    y 3y5 "Ahaha..."
+    y 3y5 "啊哈哈……"
 
 # script-poemresponses2.rpyc:534
 translate chinese ch23_y_good_78b28c03:
 
     # "Yuri holds my poem to her face and takes a deep breath."
-    "Yuri holds my poem to her face and takes a deep breath."
+    "优里把我的诗贴到脸上，深深吸了一口气。"
 
 # script-poemresponses2.rpyc:535
 translate chinese ch23_y_good_bfae9e5d:
 
     # y 3y6 "I love it."
-    y 3y6 "I love it."
+    y 3y6 "我好喜欢。"
 
 # script-poemresponses2.rpyc:536
 translate chinese ch23_y_good_ce50b5a1:
 
     # y "I love everything about it."
-    y "I love everything about it."
+    y "它的每一处，我都喜欢。"
 
 # script-poemresponses2.rpyc:537
 translate chinese ch23_y_good_5298a60d:
 
     # y 3y5 "[player], I want to take this home."
-    y 3y5 "[player], I want to take this home."
+    y 3y5 "[player]，我想把这个带回家。"
 
 # script-poemresponses2.rpyc:538
 translate chinese ch23_y_good_88fa4771:
 
     # y "Will you let me keep it?"
-    y "Will you let me keep it?"
+    y "你愿意让我留着它吗？"
 
 # script-poemresponses2.rpyc:539
 translate chinese ch23_y_good_48d5d224:
 
     # y "Please?"
-    y "Please?"
+    y "拜托了？"
 
 # script-poemresponses2.rpyc:540
 translate chinese ch23_y_good_ee493e7e:
 
     # mc "Sure, I don't care..."
-    mc "Sure, I don't care..."
+    mc "好啊，我没意见……"
 
 # script-poemresponses2.rpyc:541
 translate chinese ch23_y_good_cbbbf3af:
 
     # y 2y5 "Ahaha."
-    y 2y5 "Ahaha."
+    y 2y5 "啊哈哈。"
 
 # script-poemresponses2.rpyc:542
 translate chinese ch23_y_good_1c6d0d01:
 
     # y "You're too nice to me, [player]..."
-    y "You're too nice to me, [player]..."
+    y "你对我太好了，[player]……"
 
 # script-poemresponses2.rpyc:543
 translate chinese ch23_y_good_7cb6c628:
 
     # y "I've never met anyone as nice as you."
-    y "I've never met anyone as nice as you."
+    y "我从没见过像你这么好的人。"
 
 # script-poemresponses2.rpyc:544
 translate chinese ch23_y_good_0aafbbbd:
 
     # y 2y6 "I could die..."
-    y 2y6 "I could die..."
+    y 2y6 "我都快幸福死了……"
 
 # script-poemresponses2.rpyc:545
 translate chinese ch23_y_good_1e648267:
 
     # y 3y5 "N-Not really, but--!"
-    y 3y5 "N-Not really, but--!"
+    y 3y5 "不、不是真的死，不过——！"
 
 # script-poemresponses2.rpyc:546
 translate chinese ch23_y_good_bf2696a9:
 
     # y "I just don't know how to describe it."
-    y "I just don't know how to describe it."
+    y "我只是不知道该怎么形容这种感觉。"
 
 # script-poemresponses2.rpyc:547
 translate chinese ch23_y_good_823f0cb2:
 
     # y "It's okay to be feeling this way, right?"
-    y "It's okay to be feeling this way, right?"
+    y "心里有这样的感觉，是没问题的吧？"
 
 # script-poemresponses2.rpyc:552
 translate chinese ch23_y_good_481230d3:
 
     # y "It's not bad, right?"
-    y "It's not bad, right?"
+    y "这不是什么坏事吧？"
 
 # script-poemresponses2.rpyc:553
 translate chinese ch23_y_good_405a3d1c:
 
     # "Yuri holds my poem to her chest."
-    "Yuri holds my poem to her chest."
+    "优里把我的诗抱在了胸前。"
 
 # script-poemresponses2.rpyc:554
 translate chinese ch23_y_good_e4a26211:
 
     # y 3m "I'm going to take this home with me and keep it in my room."
-    y 3m "I'm going to take this home with me and keep it in my room."
+    y 3m "我要把它带回家里，收在我房间里。"
 
 # script-poemresponses2.rpyc:555
 translate chinese ch23_y_good_3972122a:
 
     # y "I hope that it makes you feel good when you think about me having it."
-    y "I hope that it makes you feel good when you think about me having it."
+    y "我希望，你一想到它在我这里，心里就会高兴。"
 
 # script-poemresponses2.rpyc:557
 translate chinese ch23_y_good_7f73ff61:
 
     # y 3y5 "I'll take good care of it!"
-    y 3y5 "I'll take good care of it!"
+    y 3y5 "我会好好珍惜它的！"
 
 # script-poemresponses2.rpyc:559
 translate chinese ch23_y_good_4a87e057:
 
     # y 3y6 "I'll even touch myself while reading it over and over."
-    y 3y6 "I'll even touch myself while reading it over and over."
+    y 3y6 "我会一遍又一遍地读它，读得自己都忘神。"
 
 # script-poemresponses2.rpyc:561
 translate chinese ch23_y_good_ac37d617:
 
     # y "I'll give myself paper cuts so your skin oil enters my bloodstream."
-    y "I'll give myself paper cuts so your skin oil enters my bloodstream."
+    y "我会让纸割破手指，好让你的气息渗进我的血里。"
 
 # script-poemresponses2.rpyc:563
 translate chinese ch23_y_good_ed03b3f9:
 
     # y 3y1 "Ahahahahaha."
-    y 3y1 "Ahahahahaha."
+    y 3y1 "哈哈哈哈哈哈。"
 
 # script-poemresponses2.rpyc:566
 translate chinese ch23_y_good_d0844b38:
 
     # y 2s "You can have my poem too."
-    y 2s "You can have my poem too."
+    y 2s "我的诗，也给你吧。"
 
 # script-poemresponses2.rpyc:567
 translate chinese ch23_y_good_89d84e66:
 
     # y "Besides, after you read it, I know you're really going to want to keep it."
-    y "Besides, after you read it, I know you're really going to want to keep it."
+    y "而且，等你读完，我知道你一定会想留着它的。"
 
 # script-poemresponses2.rpyc:568
 translate chinese ch23_y_good_1685da47:
 
     # y 2y6 "Here, take it. I can't wait any longer."
-    y 2y6 "Here, take it. I can't wait any longer."
+    y 2y6 "来，拿着。我再也等不下去了。"
 
 # script-poemresponses2.rpyc:569
 translate chinese ch23_y_good_ccb863d9:
 
     # y 2y5 "Hurry! Read it!"
-    y 2y5 "Hurry! Read it!"
+    y 2y5 "快！快读！"
 
 # script-poemresponses2.rpyc:575
 translate chinese ch21_m_start_b00bb3c8:
@@ -2607,6 +2607,7 @@ translate chinese strings:
     # script-poemresponses2.rpy:179
     old "Just Monika."
     new "Just Monika."
+
 
 
 
