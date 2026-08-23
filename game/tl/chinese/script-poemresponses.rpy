@@ -8966,361 +8966,361 @@ translate chinese ch2_y_bad_c03f336e:
 translate chinese ch2_y_shared_f1a72134:
 
     # y 2h "You don't need to be afraid to be a little more daring..."
-    y 2h "You don't need to be afraid to be a little more daring..."
+    y 2h "你不必害怕稍微大胆一些……"
 
 # script-poemresponses.rpyc:1943
 translate chinese ch2_y_shared_7f01fce7:
 
     # y "Metaphors can go a long way."
-    y "Metaphors can go a long way."
+    y "隐喻能派上很大的用场。"
 
 # script-poemresponses.rpyc:1944
 translate chinese ch2_y_shared_4b5ff4b6:
 
     # y "Don't feel like you need to work your brain like turning a bunch of gears."
-    y "Don't feel like you need to work your brain like turning a bunch of gears."
+    y "别觉得写作就得像转动齿轮那样，让脑子一刻不停地运转。"
 
 # script-poemresponses.rpyc:1945
 translate chinese ch2_y_shared_8bfd21ff:
 
     # y 1m "Try letting your mind wander through your feelings..."
-    y 1m "Try letting your mind wander through your feelings..."
+    y 1m "试着让思绪在感受里徜徉……"
 
 # script-poemresponses.rpyc:1946
 translate chinese ch2_y_shared_2aa04967:
 
     # y "And write down the things you see and hear."
-    y "And write down the things you see and hear."
+    y "然后把见到的、听到的写下来。"
 
 # script-poemresponses.rpyc:1947
 translate chinese ch2_y_shared_6634f898:
 
     # y "That's one way to truly enable your reader to see into your mind."
-    y "That's one way to truly enable your reader to see into your mind."
+    y "这才是真正能让读者窥见你内心的方式之一。"
 
 # script-poemresponses.rpyc:1948
 translate chinese ch2_y_shared_8b8a28d2:
 
     # y 2u "It's a very intimate exercise..."
-    y 2u "It's a very intimate exercise..."
+    y 2u "这是一种很私密的练习……"
 
 # script-poemresponses.rpyc:1949
 translate chinese ch2_y_shared_054c5ee0:
 
     # mc "I see."
-    mc "I see."
+    mc "原来如此。"
 
 # script-poemresponses.rpyc:1950
 translate chinese ch2_y_shared_882a966d:
 
     # mc "That's a certainly interesting technique."
-    mc "That's a certainly interesting technique."
+    mc "这的确是个很有意思的技巧。"
 
 # script-poemresponses.rpyc:1951
 translate chinese ch2_y_shared_aa50b32a:
 
     # mc "Thanks for sharing."
-    mc "Thanks for sharing."
+    mc "谢谢你分享给我。"
 
 # script-poemresponses.rpyc:1952
 translate chinese ch2_y_shared_5ef13d0d:
 
     # y 2v "I have, um..."
-    y 2v "I have, um..."
+    y 2v "其实我……"
 
 # script-poemresponses.rpyc:1953
 translate chinese ch2_y_shared_7203aec2:
 
     # y "...Well, an example of that, if you'd like to read it..."
-    y "...Well, an example of that, if you'd like to read it..."
+    y "……嗯，正好有个例子，你想看看吗……"
 
 # script-poemresponses.rpyc:1954
 translate chinese ch2_y_shared_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # script-poemresponses.rpyc:1955
 translate chinese ch2_y_shared_76dc218a:
 
     # mc "Is this the poem you wrote for today?"
-    mc "Is this the poem you wrote for today?"
+    mc "这就是你今天写的诗吗？"
 
 # script-poemresponses.rpyc:1956
 translate chinese ch2_y_shared_a4c69661:
 
     # "Yuri nods, and timidly hands me her poem."
-    "Yuri nods, and timidly hands me her poem."
+    "优里点了点头，腼腆地把诗递到我面前。"
 
 # script-poemresponses.rpyc:1962
 translate chinese ch2_y_med_595439f7:
 
     # y 1a "Let's see what you've written for today."
-    y 1a "Let's see what you've written for today."
+    y 1a "让我看看你今天写了什么。"
 
 # script-poemresponses.rpyc:1963
 translate chinese ch2_y_med_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses.rpyc:1964
 translate chinese ch2_y_med_6cef37bf:
 
     # y "Mm..."
-    y "Mm..."
+    y "唔……"
 
 # script-poemresponses.rpyc:1965
 translate chinese ch2_y_med_49a42ec0:
 
     # y 1c "Well done, [player]."
-    y 1c "Well done, [player]."
+    y 1c "写得不错，[player]。"
 
 # script-poemresponses.rpyc:1966
 translate chinese ch2_y_med_1e180b13:
 
     # y "Your skills are already improving."
-    y "Your skills are already improving."
+    y "你的技巧已经在进步了。"
 
 # script-poemresponses.rpyc:1967
 translate chinese ch2_y_med_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # script-poemresponses.rpyc:1968
 translate chinese ch2_y_med_0fb9fde4:
 
     # mc "Thanks, Yuri."
-    mc "Thanks, Yuri."
+    mc "谢谢你，优里。"
 
 # script-poemresponses.rpyc:1969
 translate chinese ch2_y_med_aaf816b0:
 
     # mc "Coming from you, that means a lot."
-    mc "Coming from you, that means a lot."
+    mc "能得到你的肯定，对我意义非凡。"
 
 # script-poemresponses.rpyc:1970
 translate chinese ch2_y_med_6dde5b86:
 
     # y 3f "Eh?"
-    y 3f "Eh?"
+    y 3f "诶？"
 
 # script-poemresponses.rpyc:1971
 translate chinese ch2_y_med_ea00163a:
 
     # y 3v "I-It's nothing!"
-    y 3v "I-It's nothing!"
+    y 3v "哪、哪里哪里！"
 
 # script-poemresponses.rpyc:1972
 translate chinese ch2_y_med_e307176a:
 
     # y "I'm just happy to help inspire fellow writers..."
-    y "I'm just happy to help inspire fellow writers..."
+    y "我只是很高兴能启发同好写作者……"
 
 # script-poemresponses.rpyc:1973
 translate chinese ch2_y_med_79d95be2:
 
     # y "I know you're new to this, so don't worry so much if it seems like you can't get your poem to feel perfect."
-    y "I know you're new to this, so don't worry so much if it seems like you can't get your poem to feel perfect."
+    y "我知道你刚起步，就算一时觉得写不出理想的效果，也别太在意。"
 
 # script-poemresponses.rpyc:1978
 translate chinese ch2_y_med_595439f7_1:
 
     # y 1a "Let's see what you've written for today."
-    y 1a "Let's see what you've written for today."
+    y 1a "让我看看你今天写了什么。"
 
 # script-poemresponses.rpyc:1979
 translate chinese ch2_y_med_71a86863_1:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses.rpyc:1980
 translate chinese ch2_y_med_6cef37bf_1:
 
     # y "Mm..."
-    y "Mm..."
+    y "唔……"
 
 # script-poemresponses.rpyc:1981
 translate chinese ch2_y_med_38f760a5:
 
     # y "This is pretty good, [player]."
-    y "This is pretty good, [player]."
+    y "这首写得挺好的，[player]。"
 
 # script-poemresponses.rpyc:1982
 translate chinese ch2_y_med_801babe4:
 
     # y "Were you influenced by seeing everyone's writing styles yesterday?"
-    y "Were you influenced by seeing everyone's writing styles yesterday?"
+    y "你是受了昨天大家写作风格的影响吗？"
 
 # script-poemresponses.rpyc:1983
 translate chinese ch2_y_med_8640be65:
 
     # mc "I guess you could say that..."
-    mc "I guess you could say that..."
+    mc "也可以这么说吧……"
 
 # script-poemresponses.rpyc:1984
 translate chinese ch2_y_med_ca256f9f:
 
     # y 1m "I was also a bit surprised by how differently everyone writes."
-    y 1m "I was also a bit surprised by how differently everyone writes."
+    y 1m "我也挺惊讶，每个人写作风格竟如此不同。"
 
 # script-poemresponses.rpyc:1985
 translate chinese ch2_y_med_ef4e562e:
 
     # y "So I respect you for trying new things."
-    y "So I respect you for trying new things."
+    y "所以，我很欣赏你愿意尝试新东西。"
 
 # script-poemresponses.rpyc:1991
 translate chinese ch2_y_good_595439f7:
 
     # y 1a "Let's see what you've written for today."
-    y 1a "Let's see what you've written for today."
+    y 1a "让我看看你今天写了什么。"
 
 # script-poemresponses.rpyc:1992
 translate chinese ch2_y_good_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses.rpyc:1993
 translate chinese ch2_y_good_653f3d05:
 
     # y 2e "......"
-    y 2e "......"
+    y 2e "……"
 
 # script-poemresponses.rpyc:1994
 translate chinese ch2_y_good_60fd42a2:
 
     # "Yuri stares at the poem with a surprised expression on her face."
-    "Yuri stares at the poem with a surprised expression on her face."
+    "优里带着惊讶的神情，盯着那首诗。"
 
 # script-poemresponses.rpyc:1995
 translate chinese ch2_y_good_a4fb38a3:
 
     # mc "Do you...like it?"
-    mc "Do you...like it?"
+    mc "你……喜欢它吗？"
 
 # script-poemresponses.rpyc:1996
 translate chinese ch2_y_good_c60c5441:
 
     # y "[player]..."
-    y "[player]..."
+    y "[player]……"
 
 # script-poemresponses.rpyc:1997
 translate chinese ch2_y_good_9c78e0ce:
 
     # y "...How did you pick up on this so quickly?"
-    y "...How did you pick up on this so quickly?"
+    y "……你怎么这么快就学会了？"
 
 # script-poemresponses.rpyc:1999
 translate chinese ch2_y_good_shared_9b7b3447:
 
     # y 2v "Just yesterday, I was telling you the kind of techniques worth practicing..."
-    y 2v "Just yesterday, I was telling you the kind of techniques worth practicing..."
+    y 2v "就在昨天，我才刚跟你提起值得练习的技巧……"
 
 # script-poemresponses.rpyc:2000
 translate chinese ch2_y_good_shared_73030027:
 
     # mc "Maybe that's why..."
-    mc "Maybe that's why..."
+    mc "也许正是因为这个吧……"
 
 # script-poemresponses.rpyc:2001
 translate chinese ch2_y_good_shared_f8777275:
 
     # mc "You did a good job explaining."
-    mc "You did a good job explaining."
+    mc "你解释得很清楚。"
 
 # script-poemresponses.rpyc:2002
 translate chinese ch2_y_good_shared_4ff08e3f:
 
     # mc "I really wanted to try giving it more imagery."
-    mc "I really wanted to try giving it more imagery."
+    mc "我真的很想试试加入更多的意象。"
 
 # script-poemresponses.rpyc:2004
 translate chinese ch2_y_good_shared_4ba84665:
 
     # "Yuri visibly swallows."
-    "Yuri visibly swallows."
+    "优里明显地咽了口唾沫。"
 
 # script-poemresponses.rpyc:2005
 translate chinese ch2_y_good_shared_886256e6:
 
     # "Even her hands appear sweaty."
-    "Even her hands appear sweaty."
+    "连她的手心都渗出了汗。"
 
 # script-poemresponses.rpyc:2006
 translate chinese ch2_y_good_shared_b0152027:
 
     # y "I'm not...used to this..."
-    y "I'm not...used to this..."
+    y "我……不太习惯这样……"
 
 # script-poemresponses.rpyc:2007
 translate chinese ch2_y_good_shared_4f3efe52:
 
     # mc "Used to what?"
-    mc "Used to what?"
+    mc "不习惯什么？"
 
 # script-poemresponses.rpyc:2008
 translate chinese ch2_y_good_shared_a4567583:
 
     # y 3o "I don't know...!"
-    y 3o "I don't know...!"
+    y 3o "我不知道……！"
 
 # script-poemresponses.rpyc:2009
 translate chinese ch2_y_good_shared_b8557127:
 
     # mc "It's fine, take your time..."
-    mc "It's fine, take your time..."
+    mc "没关系，慢慢来……"
 
 # script-poemresponses.rpyc:2011
 translate chinese ch2_y_good_shared_0bf00bc2:
 
     # "Yuri breathes and collects her thoughts."
-    "Yuri breathes and collects her thoughts."
+    "优里深呼吸，整理了一下思绪。"
 
 # script-poemresponses.rpyc:2012
 translate chinese ch2_y_good_shared_1ac6f898:
 
     # "I know that Yuri likes to think before she speaks, so I offer that patience to her."
-    "I know that Yuri likes to think before she speaks, so I offer that patience to her."
+    "我知道优里习惯先想清楚再开口，所以愿意给她这份耐心。"
 
 # script-poemresponses.rpyc:2013
 translate chinese ch2_y_good_shared_efa77fe0:
 
     # y 4a "Yeah..."
-    y 4a "Yeah..."
+    y 4a "嗯……"
 
 # script-poemresponses.rpyc:2014
 translate chinese ch2_y_good_shared_a932fb2a:
 
     # y "Just...being appreciated like this...I guess."
-    y "Just...being appreciated like this...I guess."
+    y "只是……被人这样赏识的感觉……大概吧。"
 
 # script-poemresponses.rpyc:2015
 translate chinese ch2_y_good_shared_06f847e6:
 
     # y "It probably sounds really stupid..."
-    y "It probably sounds really stupid..."
+    y "听起来可能很傻……"
 
 # script-poemresponses.rpyc:2016
 translate chinese ch2_y_good_shared_7996203f:
 
     # y "But seeing someone motivated by my writing..."
-    y "But seeing someone motivated by my writing..."
+    y "可看到有人因为我的文字而受到鼓舞……"
 
 # script-poemresponses.rpyc:2017
 translate chinese ch2_y_good_shared_459f3416:
 
     # y "It just makes me..."
-    y "It just makes me..."
+    y "就会让我……"
 
 # script-poemresponses.rpyc:2018
 translate chinese ch2_y_good_shared_43a35ba2:
 
     # y "Really happy..."
-    y "Really happy..."
+    y "非常开心……"
 
 # script-poemresponses.rpyc:2019
 translate chinese ch2_y_good_shared_a92cdcaf:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
