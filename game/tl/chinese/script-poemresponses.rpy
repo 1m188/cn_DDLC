@@ -6176,301 +6176,301 @@ translate chinese ch1_s_good_cc3db8cd:
 translate chinese ch2_s_bad_e1554201:
 
     # s "..."
-    s "..."
+    s "……"
 
 # script-poemresponses.rpyc:1415
 translate chinese ch2_s_bad_240aea9f:
 
     # s 1q "Ehehe, I love reading your poems~"
-    s 1q "Ehehe, I love reading your poems~"
+    s 1q "诶嘿嘿，我可喜欢读你的诗了~"
 
 # script-poemresponses.rpyc:1416
 translate chinese ch2_s_bad_c0d0bf21:
 
     # s "It's like I never know what I'm going to get!"
-    s "It's like I never know what I'm going to get!"
+    s "每次都不知道会看到什么样的呢！"
 
 # script-poemresponses.rpyc:1417
 translate chinese ch2_s_bad_10497bf0:
 
     # mc "So basically you're saying it sucks."
-    mc "So basically you're saying it sucks."
+    mc "所以你就是说它写得很烂咯。"
 
 # script-poemresponses.rpyc:1418
 translate chinese ch2_s_bad_0582fae9:
 
     # s 4c "No! Not at all!"
-    s 4c "No! Not at all!"
+    s 4c "不是！才不是呢！"
 
 # script-poemresponses.rpyc:1419
 translate chinese ch2_s_bad_75b9f8e4:
 
     # s 4l "...Maybe!"
-    s 4l "...Maybe!"
+    s 4l "……大概吧！"
 
 # script-poemresponses.rpyc:1420
 translate chinese ch2_s_bad_6c3e3a85:
 
     # s 5a "Just a little?"
-    s 5a "Just a little?"
+    s 5a "就一点点？"
 
 # script-poemresponses.rpyc:1421
 translate chinese ch2_s_bad_b7651ced:
 
     # s "Yuri must have spoiled me a little bit with her poems..."
-    s "Yuri must have spoiled me a little bit with her poems..."
+    s "优里的诗大概是把我给惯坏了一点吧……"
 
 # script-poemresponses.rpyc:1422
 translate chinese ch2_s_bad_cc3db8cd:
 
     # s "Ehehe..."
-    s "Ehehe..."
+    s "诶嘿嘿……"
 
 # script-poemresponses.rpyc:1423
 translate chinese ch2_s_bad_4255537f:
 
     # mc "It's fine, it's fine."
-    mc "It's fine, it's fine."
+    mc "没关系，没关系。"
 
 # script-poemresponses.rpyc:1424
 translate chinese ch2_s_bad_096388fc:
 
     # mc "After all, I still have no idea what kinds of writing you even like."
-    mc "After all, I still have no idea what kinds of writing you even like."
+    mc "反正，我到现在也弄不清你到底喜欢什么样的文字。"
 
 # script-poemresponses.rpyc:1426
 translate chinese ch2_s_shared_2fadc9c6:
 
     # s 1q "Yeah!"
-    s 1q "Yeah!"
+    s 1q "是啊！"
 
 # script-poemresponses.rpyc:1427
 translate chinese ch2_s_shared_ad466055:
 
     # s "Me neither!"
-    s "Me neither!"
+    s "我自己也不知道！"
 
 # script-poemresponses.rpyc:1428
 translate chinese ch2_s_shared_6434dfd2:
 
     # mc "Ugh..."
-    mc "Ugh..."
+    mc "唔……"
 
 # script-poemresponses.rpyc:1429
 translate chinese ch2_s_shared_8b50c0c5:
 
     # mc "Why don't you at least try giving it some thought?"
-    mc "Why don't you at least try giving it some thought?"
+    mc "你至少也该稍微想一想吧？"
 
 # script-poemresponses.rpyc:1430
 translate chinese ch2_s_shared_9b20fbf9:
 
     # s 2d "Aww, you want to write something for me?"
-    s 2d "Aww, you want to write something for me?"
+    s 2d "哎呀，你是想专门为我写一首吗？"
 
 # script-poemresponses.rpyc:1431
 translate chinese ch2_s_shared_bba17cf3:
 
     # s "That's so sweet~"
-    s "That's so sweet~"
+    s "你人真好~"
 
 # script-poemresponses.rpyc:1432
 translate chinese ch2_s_shared_3fe7fe09:
 
     # mc "Yeah, right."
-    mc "Yeah, right."
+    mc "是啊，才好呢。"
 
 # script-poemresponses.rpyc:1433
 translate chinese ch2_s_shared_4dbac3b2:
 
     # mc "But you're always thinking about other people."
-    mc "But you're always thinking about other people."
+    mc "可你总是替别人着想。"
 
 # script-poemresponses.rpyc:1434
 translate chinese ch2_s_shared_3afa292d:
 
     # mc "You need to think about yourself once in a while."
-    mc "You need to think about yourself once in a while."
+    mc "偶尔也得想想自己啊。"
 
 # script-poemresponses.rpyc:1435
 translate chinese ch2_s_shared_49697d01:
 
     # mc "If you don't, you might end up getting hurt at some point."
-    mc "If you don't, you might end up getting hurt at some point."
+    mc "要是总这样，说不定哪天你会受伤的。"
 
 # script-poemresponses.rpyc:1436
 translate chinese ch2_s_shared_29a2407f:
 
     # s 1n "Ehh?"
-    s 1n "Ehh?"
+    s 1n "诶？"
 
 # script-poemresponses.rpyc:1437
 translate chinese ch2_s_shared_93f8ec4b:
 
     # s "Well..."
-    s "Well..."
+    s "嗯……"
 
 # script-poemresponses.rpyc:1438
 translate chinese ch2_s_shared_36de8e51:
 
     # s 1o "I don't really know what you mean, but I'll try to keep it in mind!"
-    s 1o "I don't really know what you mean, but I'll try to keep it in mind!"
+    s 1o "我不太懂你的意思，不过我会记着的！"
 
 # script-poemresponses.rpyc:1439
 translate chinese ch2_s_shared_eed9b3b6:
 
     # mc "Well, whatever..."
-    mc "Well, whatever..."
+    mc "好了好了……"
 
 # script-poemresponses.rpyc:1440
 translate chinese ch2_s_shared_f807de49:
 
     # s 1b "Anyway, let's see..."
-    s 1b "Anyway, let's see..."
+    s 1b "总之，让我想想……"
 
 # script-poemresponses.rpyc:1441
 translate chinese ch2_s_shared_b3b9c0e8:
 
     # s "Hmm..."
-    s "Hmm..."
+    s "嗯……"
 
 # script-poemresponses.rpyc:1442
 translate chinese ch2_s_shared_2de73854:
 
     # s 4q "I guess I like...happy poems~"
-    s 4q "I guess I like...happy poems~"
+    s 4q "我想我喜欢……开心的诗~"
 
 # script-poemresponses.rpyc:1443
 translate chinese ch2_s_shared_eaa5bf49:
 
     # s 4i "Wait, sometimes I like sad poems too..."
-    s 4i "Wait, sometimes I like sad poems too..."
+    s 4i "等等，有时我也喜欢悲伤一点的……"
 
 # script-poemresponses.rpyc:1444
 translate chinese ch2_s_shared_f3e56294:
 
     # s 1i "Sometimes a little bit of both..."
-    s 1i "Sometimes a little bit of both..."
+    s 1i "有时候，两种掺在一起也好……"
 
 # script-poemresponses.rpyc:1445
 translate chinese ch2_s_shared_ac87057c:
 
     # s "There's a word for that, right...?"
-    s "There's a word for that, right...?"
+    s "那个该怎么说来着……？"
 
 # script-poemresponses.rpyc:1446
 translate chinese ch2_s_shared_f261931a:
 
     # s "What's the word I'm looking for..."
-    s "What's the word I'm looking for..."
+    s "我想找的那个词是什么来着……"
 
 # script-poemresponses.rpyc:1447
 translate chinese ch2_s_shared_49cef6d9:
 
     # s 4r "...Bittersweet!"
-    s 4r "...Bittersweet!"
+    s 4r "……苦中带甜！"
 
 # script-poemresponses.rpyc:1448
 translate chinese ch2_s_shared_a03b41d0:
 
     # s "Yeah!"
-    s "Yeah!"
+    s "对！"
 
 # script-poemresponses.rpyc:1449
 translate chinese ch2_s_shared_c19cb1c4:
 
     # s 1x "I like things that are happy and things that are sad."
-    s 1x "I like things that are happy and things that are sad."
+    s 1x "我喜欢开心的东西，也喜欢悲伤的东西。"
 
 # script-poemresponses.rpyc:1450
 translate chinese ch2_s_shared_0af776dc:
 
     # mc "Happy and sad?"
-    mc "Happy and sad?"
+    mc "开心和悲伤？"
 
 # script-poemresponses.rpyc:1451
 translate chinese ch2_s_shared_b04e82f1:
 
     # mc "I can't see you liking something sad, Sayori..."
-    mc "I can't see you liking something sad, Sayori..."
+    mc "纱世里，我还真想象不出你会喜欢悲伤的东西啊……"
 
 # script-poemresponses.rpyc:1452
 translate chinese ch2_s_shared_9ff618f7:
 
     # s 1c "Well..."
-    s 1c "Well..."
+    s 1c "嗯……"
 
 # script-poemresponses.rpyc:1453
 translate chinese ch2_s_shared_8dd0a50f:
 
     # s "I like happy the most!"
-    s "I like happy the most!"
+    s "不过我最喜欢的还是开心的！"
 
 # script-poemresponses.rpyc:1454
 translate chinese ch2_s_shared_582d4951:
 
     # s 1d "But sometimes when you have a little raincloud in your head..."
-    s 1d "But sometimes when you have a little raincloud in your head..."
+    s 1d "可有时候，当你脑子里飘着一朵乌云的时候……"
 
 # script-poemresponses.rpyc:1455
 translate chinese ch2_s_shared_5505f518:
 
     # s "A sad poem can help give the raincloud a little hug..."
-    s "A sad poem can help give the raincloud a little hug..."
+    s "一首悲伤的诗，就像能给那朵乌云一个大大的拥抱……"
 
 # script-poemresponses.rpyc:1456
 translate chinese ch2_s_shared_7759f6e3:
 
     # s 4q "...And make a nice happy rainbow!"
-    s 4q "...And make a nice happy rainbow!"
+    s 4q "……然后变出一道漂亮的彩虹！"
 
 # script-poemresponses.rpyc:1457
 translate chinese ch2_s_shared_66ef0676:
 
     # mc "...Sayori, that's unexpectedly poetic."
-    mc "...Sayori, that's unexpectedly poetic."
+    mc "……纱世里，你说得还挺有诗意呢。"
 
 # script-poemresponses.rpyc:1458
 translate chinese ch2_s_shared_88719d22:
 
     # s 4n "Eh? It is?"
-    s 4n "Eh? It is?"
+    s 4n "诶？有吗？"
 
 # script-poemresponses.rpyc:1459
 translate chinese ch2_s_shared_9dc9b008:
 
     # s "Maybe I'm getting better at expressing my feelings after all!"
-    s "Maybe I'm getting better at expressing my feelings after all!"
+    s "说不定我表达感情的本事也在慢慢变好呢！"
 
 # script-poemresponses.rpyc:1460
 translate chinese ch2_s_shared_075e3de4:
 
     # s 2q "Thanks, [player]!"
-    s 2q "Thanks, [player]!"
+    s 2q "谢谢你，[player]！"
 
 # script-poemresponses.rpyc:1461
 translate chinese ch2_s_shared_4092f3a4:
 
     # s "I should go write that down, then~"
-    s "I should go write that down, then~"
+    s "那我得赶紧把它写下来才行~"
 
 # script-poemresponses.rpyc:1462
 translate chinese ch2_s_shared_9703786d:
 
     # s 2a "You can read my poem now, okay?"
-    s 2a "You can read my poem now, okay?"
+    s 2a "现在你可以读我的诗了哦。"
 
 # script-poemresponses.rpyc:1468
 translate chinese ch2_s_med_e1554201:
 
     # s "..."
-    s "..."
+    s "……"
 
 # script-poemresponses.rpyc:1469
 translate chinese ch2_s_med_e96ec44d:
 
     # s 4x "Ooh!"
-    s 4x "Ooh!"
+    s 4x "噢噢！"
 
 # script-poemresponses.rpyc:1470
 translate chinese ch2_s_med_d6de3bd3:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
