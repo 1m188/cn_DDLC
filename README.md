@@ -3,7 +3,7 @@
 《Doki Doki Literature Club》（Ren'Py 6.99.12.4 / Steam 版）的简体中文汉化补丁。
 
 **原则：只新增文件、不修改游戏本体。** 补丁内容全部位于 `game/` 下的新增文件
-（`tl/` 翻译、字体等），不触碰任何原有文件，因此：
+（`tl/` 翻译、`fonts/` 字体、`zz_cn_config.rpy` 配置），不触碰任何原有文件，因此：
 
 - Steam「验证文件完整性」不会报差异
 - 云存档、成就、Steam 覆盖层等不受影响
@@ -11,24 +11,25 @@
 
 ## 工具链
 
-依赖：Python 3.8+，Windows，本地安装的 Steam 版 DDLC。
+依赖：Python 3.8+（conda / uv / 官方安装均可），Windows，本地安装的 Steam 版 DDLC。
 
 | 脚本 | 作用 |
 |---|---|
-| `tools/S1_extract.py` | 从游戏目录提取翻译骨架到 `game/tl/chinese/`，结束后游戏目录自动还原 |
-| `tools/S2_deploy.py` | （待实现）部署补丁到游戏目录实测 |
-| `tools/S3_package.py` | （待实现）打包发布 zip |
+| `tools/extract.py` | 从游戏目录提取翻译骨架到 `game/tl/chinese/`，结束后游戏目录自动还原 |
 
-所有本地路径只通过命令行参数传入，不写入项目文件，不会进入 git 记录。
+提取是低频操作——仅初次搭建、游戏本体更新、或需要补齐提取缺口时使用。
+日常翻译工作直接编辑翻译文件，不依赖任何脚本。
 
-### S1 提取
+所有涉及本地路径的参数只通过命令行传入，项目文件内不含任何机器相关路径。
+
+### 提取
 
 ```bash
-python tools/S1_extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature Club"
+python tools/extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature Club"
 ```
 
 - 从 `scripts.rpa` 内的 `.rpyc` 提取全部对白与字符串，生成 Ren'Py 官方格式翻译骨架
-- 产物注释中的本地绝对路径自动脱敏为 `文件名:行号`，适合开源
+- 产物注释中的本地绝对路径自动脱敏为 `文件名:行号`，行尾统一 LF，适合开源
 - 项目内已有翻译会先自动备份到 `backups/`（已 gitignore）
 - 游戏本体更新后追加新文本：`--merge`；清理中断残留：`--force`
 
@@ -36,20 +37,35 @@ python tools/S1_extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literatur
 
 ```
 cn_DDLC/
-├── game/                  # 补丁产物（最终复制到游戏目录的内容）
-│   └── tl/chinese/        # 翻译文件（对白 + 字符串）
-├── tools/                 # 开发工具链（S1/S2/S3...）
-├── backups/               # 自动备份（gitignore）
+├── game/                      # 补丁产物（玩家要复制的就是这个目录的内容）
+│   ├── fonts/                 # 中文字体（思源黑体 Noto Sans SC + OFL 许可）
+│   ├── tl/chinese/            # 翻译文件（对白 + 字符串）
+│   └── zz_cn_config.rpy       # 语言与字体配置（手工维护）
+├── tools/extract.py           # 提取工具（低频使用）
+├── backups/                   # 自动备份（gitignore）
 └── README.md
 ```
 
 ## 开发流程
 
-1. **S1 提取**：生成/更新 `game/tl/chinese/` 翻译骨架
-2. **翻译**：编辑 `game/tl/chinese/*.rpy`，将每块 `old`/原文对应的译文填入
-   （对白块直接替换语句文本；字符串块填写 `new` 行）
-3. **S2 实测**：部署到游戏目录，运行游戏逐章校对
-4. **S3 打包**：产出发布 zip
+1. **提取**（一次性）：`tools/extract.py` 生成 `game/tl/chinese/` 翻译骨架
+2. **翻译**（主体工作）：直接编辑 `game/tl/chinese/*.rpy` —— 对白块替换语句
+   文本，字符串块填写 `new` 行
+3. **测试**：把 `game/` 目录内容复制到游戏目录实测（同下述安装方式）
+4. **发布**：`game/` 目录即最终产物，无需打包
+
+### 更换字体
+
+字体与映射配置 `game/zz_cn_config.rpy` 为手工维护：把新字体文件放入
+`game/fonts/`，按文件内注释修改替换表即可。
+
+## 安装说明（给玩家）
+
+1. 把本项目 `game/` 目录内的**全部内容**复制到 DDLC 游戏根目录下的 `game/`
+   目录中（合并，不覆盖任何原有文件）
+2. 通过 Steam 正常启动游戏，界面与对白即为中文
+3. 卸载：删除复制进去的 `tl/`、`fonts/`、`zz_cn_config.rpy` 及编译产生的
+   `.rpyc` 即可完全还原
 
 ## 翻译注意事项（DDLC 特有）
 
@@ -57,3 +73,6 @@ cn_DDLC/
   存档交互逻辑——DDLC 的 meta 玩法依赖这些
 - 诗词小游戏词汇表（`poemwords.txt`）与 glitch 文本需要单独处理
 - 文本中的 Ren'Py 标签（`{w}`、`[var]` 等）与引号转义必须保持原样
+- 四名角色的诗歌使用手写体字体（m1/n1/s1/y1-3，仅含英文字形），
+  已在 `zz_cn_config.rpy` 全局映射为思源黑体保证中文可读；若追求手写观感，
+  可引入开源中文字体（如霞鹜文楷）单独映射这几个字体

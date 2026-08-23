@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""DDLC 汉化补丁 · S1 翻译文本提取工具
+"""DDLC 汉化补丁 · 翻译文本提取工具
 
 从本地 Steam 版《Doki Doki Literature Club》游戏目录提取全部可翻译文本，
 生成 Ren'Py 官方翻译骨架（tl/<语言>/*.rpy）并移动到本项目的 game/tl/ 下，
 随后清除游戏目录中的全部临时痕迹（游戏目录恢复原状，不影响 Steam 完整性校验）。
 
 用法:
-    python tools/S1_extract.py <游戏目录> [选项]
+    python tools/extract.py <游戏目录> [选项]
 
 示例:
-    python tools/S1_extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature Club"
+    python tools/extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature Club"
 
 选项:
     --lang LANG     翻译语言目录名（默认: chinese）
@@ -47,7 +47,7 @@ DIAG_NAME = "zz_cn_extract_diag.txt"
 HELPER_RPY = '''\
 # cn_DDLC development-only helper: extends the `translate` command so it can
 # extract translations from scripts packed inside .rpa archives (.rpyc only).
-# This file is written and removed automatically by tools/S1_extract.py.
+# This file is written and removed automatically by tools/extract.py.
 
 init -50 python:
     if renpy.game.args and renpy.game.args.command == "translate":
