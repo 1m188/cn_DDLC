@@ -1214,7 +1214,7 @@ translate chinese ch23_n_shared_d97c576a:
 translate chinese ch23_n_shared_256f5427:
 
     # n 1h "I know I'm not President or Vice President or anything..."
-    n 1h "我知道我不是社长也不是副社长什么的……"
+    n 1h "我知道我不是部长也不是副部长什么的……"
 
 # script-poemresponses2.rpyc:412
 translate chinese ch23_n_shared_c114d92a:

@@ -1964,7 +1964,7 @@ translate chinese ch1_end_natsuki_48b2a88f:
 translate chinese ch1_end_natsuki_e27c2b2d:
 
     # m 2a "Well, I guess that's why you're the Vice President, Sayori."
-    m 2a "看来，这就是你能当上部长的理由呢，纱世里。"
+    m 2a "看来，这就是你能当上副部长的理由呢，纱世里。"
 
 # script-ch1.rpyc:552
 translate chinese ch1_end_natsuki_5b525ad4:

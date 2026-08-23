@@ -1142,7 +1142,7 @@ translate chinese ch40_main_8d1c118d:
 translate chinese ch40_main_3ed60310:
 
     # n "You're right as usual, President."
-    n "社长说得一如既往地对。"
+    n "部长说得一如既往地对。"
 
 # script-ch40.rpyc:325
 translate chinese ch40_main_4fe8273d_1:
@@ -1544,7 +1544,7 @@ translate chinese ch40_clearnormal_885c1c89:
 translate chinese ch40_clearnormal_002a8efc:
 
     # s 1x "Maybe it's because I'm the President now."
-    s 1x "也许是因为我现在是社长了。"
+    s 1x "也许是因为我现在是部长了。"
 
 # script-ch40.rpyc:462
 translate chinese ch40_clearnormal_e6699bdd:
@@ -1718,7 +1718,7 @@ translate chinese ch40_clearall_adf7d51d:
 translate chinese ch40_clearall_a4c5c5af:
 
     # s "Because I'm President now, I understand everything."
-    s "因为我现在是社长了，所以我什么都明白。"
+    s "因为我现在是部长了，所以我什么都明白。"
 
 # script-ch40.rpyc:558
 translate chinese ch40_clearall_060b13c5:

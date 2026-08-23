@@ -74,7 +74,7 @@ translate chinese sayori_exclusive_1_8920eea6:
 translate chinese sayori_exclusive_1_ebb868c8:
 
     # m 2d "The problem is that the idea of a literature club sounds too dense and intellectual..."
-    m 2d "问题是，文学社听起来太沉闷、太学术了……"
+    m 2d "问题是，文学部听起来太沉闷、太学术了……"
 
 # script-exclusives-sayori.rpyc:21
 translate chinese sayori_exclusive_1_9bd0888b:

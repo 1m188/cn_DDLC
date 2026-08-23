@@ -8396,7 +8396,7 @@ translate chinese ch1_y_shared_54073218:
 translate chinese ch1_y_shared_e114fd69:
 
     # "...After all, isn't this supposed to be a literature club?"
-    "……毕竟，这里不是文学社吗？"
+    "……毕竟，这里不是文学部吗？"
 
 # script-poemresponses.rpyc:1836
 translate chinese ch1_y_good_ed5682e0:
