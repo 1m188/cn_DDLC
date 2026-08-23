@@ -8060,547 +8060,547 @@ translate chinese ch3_s_good_5d66f349:
 translate chinese ch1_y_bad_345ff396:
 
     # y 1g "..."
-    y 1g "..."
+    y 1g "……"
 
 # script-poemresponses.rpyc:1773
 translate chinese ch1_y_bad_6cef37bf:
 
     # y "Mm..."
-    y "Mm..."
+    y "唔……"
 
 # script-poemresponses.rpyc:1774
 translate chinese ch1_y_bad_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses.rpyc:1775
 translate chinese ch1_y_bad_629c16c3:
 
     # "Yuri stares at the poem."
-    "Yuri stares at the poem."
+    "优里盯着那首诗看。"
 
 # script-poemresponses.rpyc:1776
 translate chinese ch1_y_bad_7803dd5b:
 
     # "A minute passes, more than enough time for her to finish reading."
-    "A minute passes, more than enough time for her to finish reading."
+    "一分钟过去了，这时间足够她读完好几遍了。"
 
 # script-poemresponses.rpyc:1777
 translate chinese ch1_y_bad_6b0ed824:
 
     # mc "Um..."
-    mc "Um..."
+    mc "那个……"
 
 # script-poemresponses.rpyc:1778
 translate chinese ch1_y_bad_2b30c5bc:
 
     # y "Oh!"
-    y "Oh!"
+    y "啊！"
 
 # script-poemresponses.rpyc:1779
 translate chinese ch1_y_bad_2ec78d55:
 
     # y 3n "S-Sorry...!"
-    y 3n "S-Sorry...!"
+    y 3n "抱、抱歉……！"
 
 # script-poemresponses.rpyc:1780
 translate chinese ch1_y_bad_9b9fe018:
 
     # y "I forgot to start speaking..."
-    y "I forgot to start speaking..."
+    y "我忘记开口了……"
 
 # script-poemresponses.rpyc:1781
 translate chinese ch1_y_bad_d782d4e1:
 
     # y "U-Um!"
-    y "U-Um!"
+    y "那、那个……！"
 
 # script-poemresponses.rpyc:1782
 translate chinese ch1_y_bad_b813612c:
 
     # mc "It's fine, don't force yourself."
-    mc "It's fine, don't force yourself."
+    mc "没关系，不用勉强自己。"
 
 # script-poemresponses.rpyc:1783
 translate chinese ch1_y_bad_d96a1c53:
 
     # y 2v "I'm not..."
-    y 2v "I'm not..."
+    y 2v "我没有勉强……"
 
 # script-poemresponses.rpyc:1784
 translate chinese ch1_y_bad_6ac96bae:
 
     # y "I just need to put my thoughts into words."
-    y "I just need to put my thoughts into words."
+    y "我只是需要把想法整理成语言。"
 
 # script-poemresponses.rpyc:1785
 translate chinese ch1_y_bad_17b5b652:
 
     # y "Hold on..."
-    y "Hold on..."
+    y "你稍等……"
 
 # script-poemresponses.rpyc:1786
 translate chinese ch1_y_bad_4581b981:
 
     # y "...Okay."
-    y "...Okay."
+    y "……好了。"
 
 # script-poemresponses.rpyc:1787
 translate chinese ch1_y_bad_bfcd5846:
 
     # y 1f "This is your first time writing a poem, right?"
-    y 1f "This is your first time writing a poem, right?"
+    y 1f "这是你第一次写诗，对吧？"
 
 # script-poemresponses.rpyc:1788
 translate chinese ch1_y_bad_424bb874:
 
     # mc "Er, yeah..."
-    mc "Er, yeah..."
+    mc "呃，是的……"
 
 # script-poemresponses.rpyc:1789
 translate chinese ch1_y_bad_fccb9547:
 
     # mc "Why do you ask?"
-    mc "Why do you ask?"
+    mc "你问这个干嘛？"
 
 # script-poemresponses.rpyc:1790
 translate chinese ch1_y_bad_37aaa19b:
 
     # y "I'm just making sure."
-    y "I'm just making sure."
+    y "我只是确认一下。"
 
 # script-poemresponses.rpyc:1791
 translate chinese ch1_y_bad_d418a8e8:
 
     # y "I guessed that it might be after reading through it."
-    y "I guessed that it might be after reading through it."
+    y "看完之后，我就猜到可能如此了。"
 
 # script-poemresponses.rpyc:1792
 translate chinese ch1_y_bad_118be887:
 
     # mc "Ah, so it's that bad."
-    mc "Ah, so it's that bad."
+    mc "啊，看来写得有那么糟。"
 
 # script-poemresponses.rpyc:1793
 translate chinese ch1_y_bad_9e6f3036:
 
     # y 2p "No!!"
-    y 2p "No!!"
+    y 2p "不是！！"
 
 # script-poemresponses.rpyc:1794
 translate chinese ch1_y_bad_900da743:
 
     # y 2o "...Did I just raise my voice...?"
-    y 2o "...Did I just raise my voice...?"
+    y 2o "……我是不是刚才提高嗓门了……？"
 
 # script-poemresponses.rpyc:1795
 translate chinese ch1_y_bad_b592d04c:
 
     # y 4c "Uu, I'm so sorry..."
-    y 4c "Uu, I'm so sorry..."
+    y 4c "呜，真是对不起……"
 
 # script-poemresponses.rpyc:1796
 translate chinese ch1_y_bad_51b19f77:
 
     # "Yuri buries her face in her hands."
-    "Yuri buries her face in her hands."
+    "优里把脸埋进了双手里。"
 
 # script-poemresponses.rpyc:1797
 translate chinese ch1_y_bad_ad0dee08:
 
     # "I couldn't help but notice that it's been several minutes and we really haven't gotten anywhere."
-    "I couldn't help but notice that it's been several minutes and we really haven't gotten anywhere."
+    "我忍不住注意到，都过了好几分钟了，我们却一点进展都没有。"
 
 # script-poemresponses.rpyc:1798
 translate chinese ch1_y_bad_55519dbe:
 
     # "It might take Yuri a while to get used to new people..."
-    "It might take Yuri a while to get used to new people..."
+    "要让优里习惯新面孔，恐怕还得花上一阵子……"
 
 # script-poemresponses.rpyc:1799
 translate chinese ch1_y_bad_53c85a47:
 
     # mc "It's fine, I really didn't notice."
-    mc "It's fine, I really didn't notice."
+    mc "没关系，我真的没注意到。"
 
 # script-poemresponses.rpyc:1800
 translate chinese ch1_y_bad_75c873de:
 
     # mc "What were you saying?"
-    mc "What were you saying?"
+    mc "你刚才想说什么？"
 
 # script-poemresponses.rpyc:1801
 translate chinese ch1_y_bad_15fe30f1:
 
     # y 2u "Right...um..."
-    y 2u "Right...um..."
+    y 2u "对了……那个……"
 
 # script-poemresponses.rpyc:1803
 translate chinese ch1_y_shared_7c507061:
 
     # y 1a "It's just that there are specific writing habits that are usually typical of new writers."
-    y 1a "It's just that there are specific writing habits that are usually typical of new writers."
+    y 1a "只是，有一些特定的写作习惯，通常能看出是新手。"
 
 # script-poemresponses.rpyc:1804
 translate chinese ch1_y_shared_d0549eec:
 
     # y "And having been through that myself, I kind of learned to pick up on them."
-    y "And having been through that myself, I kind of learned to pick up on them."
+    y "而我自己也经历过那个阶段，所以多少能分辨出来。"
 
 # script-poemresponses.rpyc:1805
 translate chinese ch1_y_shared_b82469fb:
 
     # y 1i "I think the most noticeable thing I recognize in new writers is that they try to make their style very deliberate."
-    y 1i "I think the most noticeable thing I recognize in new writers is that they try to make their style very deliberate."
+    y 1i "我觉得新手最明显的特点，就是刻意去营造自己的风格。"
 
 # script-poemresponses.rpyc:1806
 translate chinese ch1_y_shared_de867a0a:
 
     # y "In other words, they tend to pick a writing style separate from the topic matter, and they form-fit the two together."
-    y "In other words, they tend to pick a writing style separate from the topic matter, and they form-fit the two together."
+    y "也就是说，他们会挑一个与主题无关的写作风格，然后硬把两者拼凑到一起。"
 
 # script-poemresponses.rpyc:1807
 translate chinese ch1_y_shared_7aa556cf:
 
     # y 1a "The end result is that both the style and the expressiveness are weakened."
-    y 1a "The end result is that both the style and the expressiveness are weakened."
+    y 1a "其结果是，风格和表现力都被削弱了。"
 
 # script-poemresponses.rpyc:1808
 translate chinese ch1_y_shared_fde92c86:
 
     # "Once Yuri finds her train of thought, it's as if her demeanor totally changes."
-    "Once Yuri finds her train of thought, it's as if her demeanor totally changes."
+    "一旦优里进入状态，她的神态就像彻底变了个人。"
 
 # script-poemresponses.rpyc:1809
 translate chinese ch1_y_shared_b63ac72e:
 
     # "Her stammering is completely gone, and she sounds like an expert."
-    "Her stammering is completely gone, and she sounds like an expert."
+    "结结巴巴全都不见了，说起话来就像个老手。"
 
 # script-poemresponses.rpyc:1810
 translate chinese ch1_y_shared_24743e8b:
 
     # y 1k "Of course, that's not something you can be blamed for."
-    y 1k "Of course, that's not something you can be blamed for."
+    y 1k "当然，这也怪不得你。"
 
 # script-poemresponses.rpyc:1811
 translate chinese ch1_y_shared_cdb2ff35:
 
     # y "There are so many different skills and techniques that go into writing even a simple poem."
-    y "There are so many different skills and techniques that go into writing even a simple poem."
+    y "就算写一首简单的诗，也需要掌握许多不同的技巧。"
 
 # script-poemresponses.rpyc:1812
 translate chinese ch1_y_shared_0e73ed18:
 
     # y 1a "Not just finding them and building them, but getting them to work together is probably the most challenging part."
-    y 1a "Not just finding them and building them, but getting them to work together is probably the most challenging part."
+    y 1a "不止要找到它们、建立它们，让这些技巧彼此配合，恐怕才是最难的。"
 
 # script-poemresponses.rpyc:1813
 translate chinese ch1_y_shared_92e06664:
 
     # y "It might take you some time, but it all comes with practice, and learning by example, and trying new things."
-    y "It might take you some time, but it all comes with practice, and learning by example, and trying new things."
+    y "你也许要花上一些时间，但只要勤加练习、多看范例、多作尝试，自然会熟能生巧。"
 
 # script-poemresponses.rpyc:1814
 translate chinese ch1_y_shared_59e9071e:
 
     # y "I also hope that everyone else in the club gives you valuable feedback."
-    y "I also hope that everyone else in the club gives you valuable feedback."
+    y "我希望社团里的其他人，也能给你宝贵的意见。"
 
 # script-poemresponses.rpyc:1815
 translate chinese ch1_y_shared_2208d43b:
 
     # y 1l "Natsuki can be a little bit biased, though..."
-    y 1l "Natsuki can be a little bit biased, though..."
+    y 1l "不过，夏树可能会有点偏心就是了……"
 
 # script-poemresponses.rpyc:1816
 translate chinese ch1_y_shared_f14b44ed:
 
     # mc "Biased? How?"
-    mc "Biased? How?"
+    mc "偏心？怎么偏心？"
 
 # script-poemresponses.rpyc:1817
 translate chinese ch1_y_shared_10588528:
 
     # y 2j "U-Um..."
-    y 2j "U-Um..."
+    y 2j "那、那个……"
 
 # script-poemresponses.rpyc:1818
 translate chinese ch1_y_shared_ae7f22e8:
 
     # y "Well..."
-    y "Well..."
+    y "嗯……"
 
 # script-poemresponses.rpyc:1819
 translate chinese ch1_y_shared_0b1a4f2b:
 
     # y "Never mind..."
-    y "Never mind..."
+    y "算了，没事……"
 
 # script-poemresponses.rpyc:1820
 translate chinese ch1_y_shared_48f7b580:
 
     # y "I shouldn't be talking about people like that..."
-    y "I shouldn't be talking about people like that..."
+    y "我不该在背后这样议论别人……"
 
 # script-poemresponses.rpyc:1821
 translate chinese ch1_y_shared_485fb852:
 
     # y "Sorry..."
-    y "Sorry..."
+    y "抱歉……"
 
 # script-poemresponses.rpyc:1822
 translate chinese ch1_y_shared_a75a132d:
 
     # mc "It's fine."
-    mc "It's fine."
+    mc "没关系。"
 
 # script-poemresponses.rpyc:1823
 translate chinese ch1_y_shared_98dd47bb:
 
     # "I'm not sure if Yuri is apologizing to herself, to me, or to Natsuki."
-    "I'm not sure if Yuri is apologizing to herself, to me, or to Natsuki."
+    "我也闹不清优里是在向谁道歉——是她自己、我，还是夏树。"
 
 # script-poemresponses.rpyc:1824
 translate chinese ch1_y_shared_95f8117c:
 
     # mc "Do you mind if I read your poem now?"
-    mc "Do you mind if I read your poem now?"
+    mc "你现在方便让我读读你的诗吗？"
 
 # script-poemresponses.rpyc:1825
 translate chinese ch1_y_shared_a6d1cfca:
 
     # y 3c "Please do!"
-    y 3c "Please do!"
+    y 3c "请、请读吧！"
 
 # script-poemresponses.rpyc:1826
 translate chinese ch1_y_shared_f59e1313:
 
     # y "I'd love to share my thought process behind it..."
-    y "I'd love to share my thought process behind it..."
+    y "我很乐意跟你聊聊我写这首诗的想法……"
 
 # script-poemresponses.rpyc:1827
 translate chinese ch1_y_shared_3e61fb73:
 
     # "Yuri smiles dreamily, as if that's a rare opportunity for her."
-    "Yuri smiles dreamily, as if that's a rare opportunity for her."
+    "优里露出了梦幻般的微笑，仿佛这是她难得的机会。"
 
 # script-poemresponses.rpyc:1828
 translate chinese ch1_y_shared_54073218:
 
     # "Which itself is kind of funny..."
-    "Which itself is kind of funny..."
+    "这一点本身，倒是有点好笑……"
 
 # script-poemresponses.rpyc:1829
 translate chinese ch1_y_shared_e114fd69:
 
     # "...After all, isn't this supposed to be a literature club?"
-    "...After all, isn't this supposed to be a literature club?"
+    "……毕竟，这里不是文学社吗？"
 
 # script-poemresponses.rpyc:1836
 translate chinese ch1_y_good_ed5682e0:
 
     # y 1e "..."
-    y 1e "..."
+    y 1e "……"
 
 # script-poemresponses.rpyc:1837
 translate chinese ch1_y_good_0e085f24:
 
     # "As Yuri reads the poem, I notice her eyes lighten."
-    "As Yuri reads the poem, I notice her eyes lighten."
+    "优里读着诗，我注意到她的眼睛亮了起来。"
 
 # script-poemresponses.rpyc:1838
 translate chinese ch1_y_good_2faf097b:
 
     # y 2f "...Exceptional."
-    y 2f "...Exceptional."
+    y 2f "……精彩绝伦。"
 
 # script-poemresponses.rpyc:1839
 translate chinese ch1_y_good_dfdd7fc8:
 
     # mc "Eh? What was that?"
-    mc "Eh? What was that?"
+    mc "诶？你说什么？"
 
 # script-poemresponses.rpyc:1840
 translate chinese ch1_y_good_1ce9c404:
 
     # y "...?"
-    y "...?"
+    y "……？"
 
 # script-poemresponses.rpyc:1841
 translate chinese ch1_y_good_976d4012:
 
     # y 2n "D-Did I say that out loud...?"
-    y 2n "D-Did I say that out loud...?"
+    y 2n "我、我说出来了吗……？"
 
 # script-poemresponses.rpyc:1842
 translate chinese ch1_y_good_bf362c99:
 
     # "Yuri first covers her mouth, but then ends up covering her whole face."
-    "Yuri first covers her mouth, but then ends up covering her whole face."
+    "优里先是捂住了嘴，最后干脆捂住了整张脸。"
 
 # script-poemresponses.rpyc:1843
 translate chinese ch1_y_good_1fe24cdc:
 
     # y 4c "I...!"
-    y 4c "I...!"
+    y 4c "我……！"
 
 # script-poemresponses.rpyc:1844
 translate chinese ch1_y_good_6559e79e:
 
     # y "Uu..."
-    y "Uu..."
+    y "呜……"
 
 # script-poemresponses.rpyc:1845
 translate chinese ch1_y_good_c7f94487:
 
     # y "{i}(He's going to hate me...){/i}"
-    y "{i}(He's going to hate me...){/i}"
+    y "{i}（他一定会讨厌我的……）{/i}"
 
 # script-poemresponses.rpyc:1846
 translate chinese ch1_y_good_6b0ed824:
 
     # mc "Um..."
-    mc "Um..."
+    mc "那个……"
 
 # script-poemresponses.rpyc:1847
 translate chinese ch1_y_good_b5b5009c:
 
     # mc "You really didn't do anything wrong, Yuri..."
-    mc "You really didn't do anything wrong, Yuri..."
+    mc "优里，你真的没做错什么……"
 
 # script-poemresponses.rpyc:1848
 translate chinese ch1_y_good_f535a4f0:
 
     # y 4a "Eh...?"
-    y 4a "Eh...?"
+    y 4a "诶……？"
 
 # script-poemresponses.rpyc:1849
 translate chinese ch1_y_good_717cb0f3:
 
     # y "That's..."
-    y "That's..."
+    y "那……"
 
 # script-poemresponses.rpyc:1850
 translate chinese ch1_y_good_095e579f:
 
     # y 2q "I-I guess you're right..."
-    y 2q "I-I guess you're right..."
+    y 2q "我、我想你说得对……"
 
 # script-poemresponses.rpyc:1851
 translate chinese ch1_y_good_c2afc78a:
 
     # y "What am I getting so nervous for?"
-    y "What am I getting so nervous for?"
+    y "我到底在紧张个什么劲啊？"
 
 # script-poemresponses.rpyc:1852
 translate chinese ch1_y_good_a2ff911b:
 
     # y "A-Ahaha..."
-    y "A-Ahaha..."
+    y "啊、啊哈哈……"
 
 # script-poemresponses.rpyc:1854
 translate chinese ch1_y_good_58917022:
 
     # "Yuri takes a breath."
-    "Yuri takes a breath."
+    "优里深吸了一口气。"
 
 # script-poemresponses.rpyc:1855
 translate chinese ch1_y_good_87f9f194:
 
     # y "So..."
-    y "So..."
+    y "那么……"
 
 # script-poemresponses.rpyc:1856
 translate chinese ch1_y_good_3d222e4c:
 
     # y 1a "What kind of writing experience do you have?"
-    y 1a "What kind of writing experience do you have?"
+    y 1a "你以前有过什么样的写作经历呢？"
 
 # script-poemresponses.rpyc:1857
 translate chinese ch1_y_good_cfb79c7c:
 
     # y "Your use of imagery and metaphors indicates you've written a lot of poetry before."
-    y "Your use of imagery and metaphors indicates you've written a lot of poetry before."
+    y "从你用到的意象和隐喻来看，你应该写过不少诗才对。"
 
 # script-poemresponses.rpyc:1858
 translate chinese ch1_y_good_72610a7c:
 
     # mc "Really...?"
-    mc "Really...?"
+    mc "真的……？"
 
 # script-poemresponses.rpyc:1859
 translate chinese ch1_y_good_79eb53c0:
 
     # mc "Wow, that's a huge compliment coming from you."
-    mc "Wow, that's a huge compliment coming from you."
+    mc "哇，能得到你这句评价，可真让我受宠若惊。"
 
 # script-poemresponses.rpyc:1860
 translate chinese ch1_y_good_6e3de235:
 
     # mc "This is actually my first time, really."
-    mc "This is actually my first time, really."
+    mc "其实，说真的，这是我第一次。"
 
 # script-poemresponses.rpyc:1861
 translate chinese ch1_y_good_d670fa93:
 
     # y 1e "Huh...?"
-    y 1e "Huh...?"
+    y 1e "咦……？"
 
 # script-poemresponses.rpyc:1862
 translate chinese ch1_y_good_18154cf1:
 
     # "Yuri stares at me blankly, then looks at my poem again."
-    "Yuri stares at me blankly, then looks at my poem again."
+    "优里茫然地看着我，然后又看了看我的诗。"
 
 # script-poemresponses.rpyc:1863
 translate chinese ch1_y_good_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses.rpyc:1864
 translate chinese ch1_y_good_f9742e44:
 
     # y 2h "...Well, I know that!"
-    y 2h "...Well, I know that!"
+    y 2h "……唔，这我当然知道！"
 
 # script-poemresponses.rpyc:1865
 translate chinese ch1_y_good_e3f2d640:
 
     # y "I just meant...u-um..."
-    y "I just meant...u-um..."
+    y "我只是想说……那、那个……"
 
 # script-poemresponses.rpyc:1866
 translate chinese ch1_y_good_44388ab3:
 
     # "Yuri trails off, unable to find an excuse."
-    "Yuri trails off, unable to find an excuse."
+    "优里说到一半就说不下去了，找不到合适的借口。"
 
 # script-poemresponses.rpyc:1867
 translate chinese ch1_y_good_83c56976:
 
     # "She traces her finger along the words in the poem, as if breaking it down more thoroughly."
-    "She traces her finger along the words in the poem, as if breaking it down more thoroughly."
+    "她的手指顺着诗里的文字滑过，像是在更仔细地解构它。"
 
 # script-poemresponses.rpyc:1868
 translate chinese ch1_y_good_12c616eb:
 
     # y 2l "...Yeah."
-    y 2l "...Yeah."
+    y 2l "……是啊。"
 
 # script-poemresponses.rpyc:1869
 translate chinese ch1_y_good_0b77dadf:
 
     # y "Okay."
-    y "Okay."
+    y "好吧。"
 
 # script-poemresponses.rpyc:1870
 translate chinese ch1_y_good_e1b568f9:
 
     # y "This is the reason I was able to tell."
-    y "This is the reason I was able to tell."
+    y "正因如此，我才能看得出来。"
 
 # script-poemresponses.rpyc:1877
 translate chinese ch2_y_bad_71a86863:
@@ -12867,6 +12867,7 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "Yuri"
+
 
 
 
