@@ -1,4 +1,4 @@
-# script-ch4.rpyc:8
+﻿# script-ch4.rpyc:8
 translate chinese ch4_main_7f03563e:
 
     # "It's already Sunday."
@@ -134,7 +134,7 @@ translate chinese ch4_main_29ce83ba:
 translate chinese ch4_main_f5e89c18:
 
     # "Rather than asking, I simply tell her \"I'm coming over\", much like we've done in the past."
-    "我没有询问，只是像从前那样，直接告诉她\"我过去了\"。"
+    "我没有询问，只是像从前那样，直接告诉她“我过去了”。"
 
 # script-ch4.rpyc:37
 translate chinese ch4_main_b6b01504:
@@ -2894,7 +2894,7 @@ translate chinese ch4_exclusive_natsuki_3970918a:
 translate chinese ch4_exclusive_natsuki_1685282e:
 
     # n "Like, 'happy birthday!' or whatever."
-    n "比如'生日快乐！'之类的。"
+    n "比如‘生日快乐！’之类的。"
 
 # script-ch4.rpyc:544
 translate chinese ch4_exclusive_natsuki_c2722d72:
@@ -4682,7 +4682,7 @@ translate chinese ch4_exclusive_yuri_13cf2b15:
 translate chinese ch4_exclusive_yuri_515d3ad5:
 
     # mc "Yeah... It's kind of intense. Ahaha."
-    mc "嗯……毕竟挺'较真'的。哈哈。"
+    mc "嗯……毕竟挺‘较真’的。哈哈。"
 
 # script-ch4.rpyc:877
 translate chinese ch4_exclusive_yuri_d53d688b:
@@ -5690,6 +5690,7 @@ translate chinese ch4_exclusive_yuri_1a60c448:
 translate chinese ch4_exclusive_yuri_4bbe5891:
 
     # mc "Sorry..."
+    mc "抱歉……"
 
 # script-ch4.rpyc:1061
 translate chinese ch4_exclusive_yuri_251373d4:
@@ -7183,7 +7184,7 @@ translate chinese ch4_end_yes_287aec75:
 translate chinese ch4_end_yes_86c2ab05:
 
     # s "It felt like a bunch of thorns when you told me you love me..."
-    s "你对我说'我爱你'的时候，心里却像扎进了一丛荆棘……"
+    s "你对我说‘我爱你’的时候，心里却像扎进了一丛荆棘……"
 
 # script-ch4.rpyc:1369
 translate chinese ch4_end_yes_fe6c5884:
@@ -7252,31 +7253,31 @@ translate chinese ch4_end_yes_b95f6d49:
     "我知道，在一切回到从前之前，这些念头会一直折磨着我。"
 
 # script-ch4.rpyc:1382
-translate chinese ch4_end_yes_2293b91e:
+translate chinese ch4_end_yes_9483036d:
 
     # "Is that what Sayori meant by not wanting anything to change?"
-    "这或许就是纱世里说的，'不想有任何改变'的意思？"
+    "这或许就是纱世里说的，‘不想有任何改变’的意思？"
 
 # script-ch4.rpyc:1383
-translate chinese ch4_end_yes_86de2ac6:
+translate chinese ch4_end_yes_2293b91e:
 
     # "I don't know."
     "我不知道。"
 
 # script-ch4.rpyc:1384
-translate chinese ch4_end_yes_f49a39d3:
+translate chinese ch4_end_yes_86de2ac6:
 
     # "But I know that I'll give it everything I've got."
     "但我知道，我会拼上全力。"
 
 # script-ch4.rpyc:1385
-translate chinese ch4_end_yes_ddcb853c:
+translate chinese ch4_end_yes_f49a39d3:
 
     # "Sayori is the most important person to me."
     "纱世里是我最重要的人。"
 
 # script-ch4.rpyc:1386
-translate chinese ch4_end_yes_465abfd3:
+translate chinese ch4_end_yes_ddcb853c:
 
     # "And I'll do whatever it takes to have a happy future with her."
     "为了和她共度幸福的未来，我什么都愿意做。"

@@ -1,4 +1,4 @@
-# script-ch2.rpyc:7
+﻿# script-ch2.rpyc:7
 translate chinese ch2_main_6ae8eabb:
 
     # "Another day passes, and it's time for the club meeting already."
@@ -428,13 +428,13 @@ translate chinese ch2_main_8fb10173:
 translate chinese ch2_main_173236dc:
 
     # s "I did something bad and now I have to accept the revolution."
-    s "我做了坏事，现在必须接受\"革命\"。"
+    s "我做了坏事，现在必须接受“革命”。"
 
 # script-ch2.rpyc:97
 translate chinese ch2_main_22616fe3:
 
     # y 3h "Retribution..."
-    y 3h "是\"报应\"……"
+    y 3h "是“报应”……"
 
 # script-ch2.rpyc:100
 translate chinese ch2_main_faf91463:
@@ -572,13 +572,13 @@ translate chinese ch2_main_7cbfaae7:
 translate chinese ch2_main_101c99c7:
 
     # s "It's because I paid my restitution!"
-    s "一定是我付出\"赔偿\"的回报！"
+    s "一定是我付出“赔偿”的回报！"
 
 # script-ch2.rpyc:138
 translate chinese ch2_main_416ef8d0:
 
     # mc "Retribution..."
-    mc "是\"报应\"……"
+    mc "是“报应”……"
 
 # script-ch2.rpyc:141
 translate chinese ch2_main_72186408:
@@ -2069,7 +2069,7 @@ translate chinese ch2_end_4214e775:
     s "你行的，优里……"
 
 # script-ch2.rpyc:582
-translate chinese ch2_end_d5229e10:
+translate chinese ch2_end_d5227e10:
 
     # y "It...It's called...{i}Afterimage of a Crimson Eye{/i}."
     y "题、题目是……{i}《赤红之眼的残像》{/i}。"
@@ -3455,10 +3455,4 @@ translate chinese strings:
     # script-ch2.rpy:858
     old "I would still walk home with Sayori."
     new "我还是会和纱世里一起回家。"
-
-# script-ch2.rpyc:582
-translate chinese ch2_end_d5227e10:
-
-    # y "It...It's called...{i}Afterimage of a Crimson Eye{/i}."
-    y "It...It's called...{i}Afterimage of a Crimson Eye{/i}."
 
