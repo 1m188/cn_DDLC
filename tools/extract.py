@@ -131,6 +131,22 @@ RE_BLOCK = re.compile(rb"^translate \S+ (?!strings)")
 RE_OLD = re.compile(rb"^\s+old ")
 
 
+CJK_RE = re.compile("".join(chr(c) for c in range(0x4E00, 0xA000)))
+
+
+def count_translated(path):
+    """统计目录内 .rpy 文件中已翻译（含中文）的行数，用于操作前后校验。"""
+    n = 0
+    for f in Path(path).glob("*.rpy"):
+        try:
+            for ln in f.read_bytes().split(b"\n"):
+                if ln.startswith(b"    ") and not ln.startswith(b"     #") and CJK_RE.search(ln.decode("utf-8", "ignore")):
+                    n += 1
+        except OSError:
+            pass
+    return n
+
+
 def die(msg):
     print("错误: " + msg, file=sys.stderr)
     sys.exit(1)
@@ -294,6 +310,12 @@ def main(argv=None):
     if n > 0:
         die("检测到 %d 个 DDLC.exe 进程正在运行（游戏未关闭或上次提取残留），请结束进程后重试" % n)
 
+    # merge 前置校验：现有译文量。结束后必须 ≥ 此值，否则中止（防止任何环节吞掉已翻译内容）
+    pre_translated = count_translated(proj_tl_lang) if proj_tl_lang.is_dir() else 0
+    if args.merge and pre_translated == 0:
+        die("--merge 的项目目录 %s 中没有任何已翻译内容。若你确定要从头提取，请去掉 --merge；"
+            "若这不是预期（译文丢失），请先从 backups/ 或 git 恢复再运行" % proj_tl_lang)
+
     before_files, before_dirs = snapshot(game_dir)
 
     ok = False
@@ -328,13 +350,31 @@ def main(argv=None):
             die("提取失败：游戏目录未生成 game/tl/%s/*.rpy" % args.lang)
         print("* 提取到 %d 个翻译文件" % len(rpy_files))
 
+        # 追加性校验：merge 模式下，提取产物中的已翻译行必须不少于操作前项目内的数量。
+        # 引擎的增量机制只追加缺失块、不动已有翻译；若少于，说明部署到游戏目录的译文
+        # 在提取前就已不完整（如上次运行中途崩溃），此时直接换回项目会把译文覆盖成骨架。
+        got_translated = count_translated(tl_lang_src)
+        if args.merge and got_translated < pre_translated:
+            die("提取产物仅含 %d 行已翻译内容，少于操作前的 %d 行——追加机制未生效，"
+                "项目译文可能已处于损坏状态。已中止（项目目录未改动）。"
+                "请先从 backups/ 或 git 恢复项目译文，再重新运行" % (got_translated, pre_translated))
+        if args.merge:
+            print("* 追加校验通过: %d 行已翻译内容完整保留" % got_translated)
+
         # 移动产物到项目目录；项目内已有翻译先备份
         if proj_tl_lang.exists():
+            # 备份采用复制而非移动：即便后续步骤因目录占用（Windows 锁）崩溃，
+            # 项目译文也原样在原地，不会出现"备份成功但源被清空"的中间态
             backups = PROJECT_DIR / "backups"
             backups.mkdir(exist_ok=True)
             bak = backups / ("%s-%s" % (args.lang, time.strftime("%Y%m%d-%H%M%S")))
             print("* 备份项目内现有翻译 -> %s" % bak.relative_to(PROJECT_DIR))
-            shutil.move(str(proj_tl_lang), str(bak))
+            shutil.copytree(str(proj_tl_lang), str(bak))
+            # 校验备份完整后再删除源目录
+            if count_translated(bak) < pre_translated:
+                die("备份不完整（%d < %d 行译文），已中止，项目目录未改动"
+                    % (count_translated(bak), pre_translated))
+            shutil.rmtree(str(proj_tl_lang))
         proj_tl_lang.parent.mkdir(parents=True, exist_ok=True)
         shutil.move(str(tl_lang_src), str(proj_tl_lang))
 
