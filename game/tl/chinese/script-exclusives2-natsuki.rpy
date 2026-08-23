@@ -278,7 +278,7 @@ translate chinese natsuki_exclusive2_1_e3a67a99:
 translate chinese natsuki_exclusive2_1_d546682a:
 
     # "It's...exceedingly \"moe\"."
-    "It's...exceedingly \"moe\"这……也太"萌"了吧。"
+    "这……也太“萌”了吧。"
 
 # script-exclusives2-natsuki.rpyc:131
 translate chinese natsuki_exclusive2_1_2530be57:
