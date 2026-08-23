@@ -1,0 +1,12 @@
+# 本地环境（含本地路径，禁止提交）
+local.config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Ren'Py 编译产物（游戏运行时由 .rpy 生成）
+*.rpyc
+
+# 提取/开发过程的自动备份
+backups/
