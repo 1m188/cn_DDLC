@@ -272,7 +272,7 @@ translate chinese natsuki_exclusive_1_e3a67a99:
 translate chinese natsuki_exclusive_1_d546682a:
 
     # "It's...exceedingly \"moe\"."
-    "It's...exceedingly \"moe\"这……也太"萌"了吧。"
+    "这……也太“萌”了吧。"
 
 # script-exclusives-natsuki.rpyc:54
 translate chinese natsuki_exclusive_1_2530be57:
@@ -2108,7 +2108,7 @@ translate chinese natsuki_exclusive_2_ch3_00caffc3:
 translate chinese natsuki_exclusive_2_ch3_182a4ce7:
 
     # n "What do you mean 'stand up'?"
-    n "什么叫"站起来"？"
+    n "什么叫“站起来”？"
 
 # script-exclusives-natsuki.rpyc:431
 translate chinese natsuki_exclusive_2_ch3_3ed33abc:
@@ -2942,7 +2942,7 @@ translate chinese natsuki_exclusive_2_ch3_28001d17:
 translate chinese natsuki_exclusive_2_ch3_033c6a89:
 
     # n "The thing about cheering me up."
-    n "就是那句"让我开心起来"。"
+    n "就是那句“让我开心起来”。"
 
 # script-exclusives-natsuki.rpyc:618
 translate chinese natsuki_exclusive_2_ch3_2ad33ed6:
