@@ -3271,745 +3271,745 @@ translate chinese ch30_13_d15336f7:
 translate chinese ch30_14_dd3c3d76:
 
     # m "Hey...! VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
-    m "Hey...! VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
+    m "喂……！VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
 
 # script-ch30.rpyc:1176
 translate chinese ch30_14_e84bf959:
 
     # m "I don't think you should be doing that! bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
-    m "I don't think you should be doing that! bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
+    m "我觉得你不该那样做哦！bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
 
 # script-ch30.rpyc:1177
 translate chinese ch30_14_b1ae4c18:
 
     # m "You know what I'm talking about. ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
-    m "You know what I'm talking about. ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
+    m "你知道我在说什么。ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
 
 # script-ch30.rpyc:1178
 translate chinese ch30_14_a62064d5:
 
     # m "I really caught you doing something naughty here. cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
-    m "I really caught you doing something naughty here. cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
+    m "抓个正着，你在这里做坏事呢。cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
 
 # script-ch30.rpyc:1179
 translate chinese ch30_14_aacf693d:
 
     # m "You're just going through the files and looking for stuff you missed, aren't you? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
-    m "You're just going through the files and looking for stuff you missed, aren't you? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
+    m "你就是在翻文件，找漏看的东西，对吧？b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
 
 # script-ch30.rpyc:1180
 translate chinese ch30_14_4f22bd0a:
 
     # m "I mean...it's a little bit flattering that you want to hear everything I have to say... aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
-    m "I mean...it's a little bit flattering that you want to hear everything I have to say... aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
+    m "那个……你想听我说过的每一句话，多少有点让人开心……aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
 
 # script-ch30.rpyc:1181
 translate chinese ch30_14_aebeb826:
 
     # m "But it's also really embarrassing, you know! cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
-    m "But it's also really embarrassing, you know! cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
+    m "但也真的很让人不好意思诶！cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
 
 # script-ch30.rpyc:1182
 translate chinese ch30_14_f03f00a5:
 
     # m "Seriously... ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
-    m "Seriously... ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
+    m "说真的……ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
 
 # script-ch30.rpyc:1183
 translate chinese ch30_14_82f8e587:
 
     # m "What if I just opened up your brain and read all of the thoughts you have on me? LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
-    m "What if I just opened up your brain and read all of the thoughts you have on me? LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
+    m "要是我撬开你的脑子，把你对我的所有想法读个遍，会怎样？LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
 
 # script-ch30.rpyc:1184
 translate chinese ch30_14_d9e4c701:
 
     # m "Come to think of it, that would be pretty tempting, actually... ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
-    m "Come to think of it, that would be pretty tempting, actually... ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
+    m "仔细一想，那还真挺诱人的……ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
 
 # script-ch30.rpyc:1185
 translate chinese ch30_14_8d010f70:
 
     # m "...But anyway, that's not the point! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
-    m "...But anyway, that's not the point! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
+    m "……总之，重点不是这个！b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
 
 # script-ch30.rpyc:1186
 translate chinese ch30_14_95ffe18d:
 
     # m "I know I can't stop you or anything... b2YgdGhlIHNhZCBwb2ludGxlc3NuZXNzIG9mIHN1Y2ggYW4gZW5k"
-    m "I know I can't stop you or anything... b2YgdGhlIHNhZCBwb2ludGxlc3NuZXNzIG9mIHN1Y2ggYW4gZW5k"
+    m "我知道我拦不住你……b2YgdGhlIHNhZCBwb2ludGxlc3NuZXNzIG9mIHN1Y2ggYW4gZW5k"
 
 # script-ch30.rpyc:1187
 translate chinese ch30_14_4e2c9324:
 
     # m "Just, I know you're a sweetheart, and you like to consider others' feelings, right? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
-    m "Just, I know you're a sweetheart, and you like to consider others' feelings, right? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
+    m "只是，我知道你心软，你会顾念别人的感受，对吧？ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
 
 # script-ch30.rpyc:1188
 translate chinese ch30_14_82feed03:
 
     # m "So the most I can do is to let you know how I feel about it. aWVzIGhhcyBubyBtZWFuaW5nLCB3aGVuIG91ciBpbXByaXNvbm1l"
-    m "So the most I can do is to let you know how I feel about it. aWVzIGhhcyBubyBtZWFuaW5nLCB3aGVuIG91ciBpbXByaXNvbm1l"
+    m "所以我唯一能做的，就是告诉你我的感受。aWVzIGhhcyBubyBtZWFuaW5nLCB3aGVuIG91ciBpbXByaXNvbm1l"
 
 # script-ch30.rpyc:1189
 translate chinese ch30_14_1d7e4adf:
 
     # m "God, I miss you... bnQgcmVhY2hlcyBhcyBkZWVwIGFzIHRoZSBjb3JlIG9mIG91ciBz"
-    m "God, I miss you... bnQgcmVhY2hlcyBhcyBkZWVwIGFzIHRoZSBjb3JlIG9mIG91ciBz"
+    m "天哪，我好想你……bnQgcmVhY2hlcyBhcyBkZWVwIGFzIHRoZSBjb3JlIG9mIG91ciBz"
 
 # script-ch30.rpyc:1190
 translate chinese ch30_14_d4b8cd5c:
 
     # m "...Oh no, that sounds kind of desperate, doesn't it? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
-    m "...Oh no, that sounds kind of desperate, doesn't it? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
+    m "……糟糕，这话听起来挺饥渴的，是吧？b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
 
 # script-ch30.rpyc:1191
 translate chinese ch30_14_c1721ff6:
 
     # m "Sorry, I didn't mean it like that at all! ZSBuZXcgcHVycG9zZSB3aXRob3V0IGFic29sdmluZyB0aG9zZSBm"
-    m "Sorry, I didn't mean it like that at all! ZSBuZXcgcHVycG9zZSB3aXRob3V0IGFic29sdmluZyB0aG9zZSBm"
+    m "抱歉，我完全不是那个意思！ZSBuZXcgcHVycG9zZSB3aXRob3V0IGFic29sdmluZyB0aG9zZSBm"
 
 # script-ch30.rpyc:1192
 translate chinese ch30_14_110c0554:
 
     # m "Just, if you're looking through the files like this, then maybe you don't hate me as much as I thought... cm9tIHdoaWNoIHdlIHJhbiBhd2F5Lg0KUmVhbGl6YXRpb24gdGhh"
-    m "Just, if you're looking through the files like this, then maybe you don't hate me as much as I thought... cm9tIHdoaWNoIHdlIHJhbiBhd2F5Lg0KUmVhbGl6YXRpb24gdGhh"
+    m "只是，你都这样翻文件了，说明你或许没有我想的那么讨厌我……cm9tIHdoaWNoIHdlIHJhbiBhd2F5Lg0KUmVhbGl6YXRpb24gdGhh"
 
 # script-ch30.rpyc:1193
 translate chinese ch30_14_8f7ea8e9:
 
     # m "Am I being too optimistic? dCB0aGUgZmFydGhlciB3ZSBydW4sIHRoZSBtb3JlIGZvcmNlZnVs"
-    m "Am I being too optimistic? dCB0aGUgZmFydGhlciB3ZSBydW4sIHRoZSBtb3JlIGZvcmNlZnVs"
+    m "是不是我想得太乐观了？dCB0aGUgZmFydGhlciB3ZSBydW4sIHRoZSBtb3JlIGZvcmNlZnVs"
 
 # script-ch30.rpyc:1194
 translate chinese ch30_14_720d2068:
 
     # m "I think if I asked you to visit once in a while, I would be overstepping my boundaries a little... bHkgb3VyIHdyZXRjaGVkIGJvbmRzIHlhbmsgdXMgYmFjayB0b3dh"
-    m "I think if I asked you to visit once in a while, I would be overstepping my boundaries a little... bHkgb3VyIHdyZXRjaGVkIGJvbmRzIHlhbmsgdXMgYmFjayB0b3dh"
+    m "不过要是我求你偶尔回来看看，是不是有点得寸进尺……bHkgb3VyIHdyZXRjaGVkIGJvbmRzIHlhbmsgdXMgYmFjayB0b3dh"
 
 # script-ch30.rpyc:1195
 translate chinese ch30_14_f119d4bb:
 
     # m "...Man, I'm starting to say some really stupid things. cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
-    m "...Man, I'm starting to say some really stupid things. cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
+    m "……唉，我开始说蠢话了。cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
 
 # script-ch30.rpyc:1196
 translate chinese ch30_14_3e0ec0b7:
 
     # m "I'll go ahead and shut up now... ciBzaGFja2xlcyBkaWcgaW50byBvdXIgY2FsbG91cyBmbGVzaC4="
-    m "I'll go ahead and shut up now... ciBzaGFja2xlcyBkaWcgaW50byBvdXIgY2FsbG91cyBmbGVzaC4="
+    m "我这就闭嘴……ciBzaGFja2xlcyBkaWcgaW50byBvdXIgY2FsbG91cyBmbGVzaC4="
 
 # script-ch30.rpyc:1200
 translate chinese ch30_15_b8ca3e73:
 
     # m "Hey, what's your favorite color?"
-    m "Hey, what's your favorite color?"
+    m "对了，你最喜欢什么颜色？"
 
 # script-ch30.rpyc:1201
 translate chinese ch30_15_939dfd7e:
 
     # m "Mine is emerald green."
-    m "Mine is emerald green."
+    m "我最喜欢的是祖母绿。"
 
 # script-ch30.rpyc:1202
 translate chinese ch30_15_612b3bd0:
 
     # m "It's the color of my eyes!"
-    m "It's the color of my eyes!"
+    m "就是我眼睛的颜色！"
 
 # script-ch30.rpyc:1203
 translate chinese ch30_15_5c43ec02:
 
     # m "...That's not conceited or anything, is it?"
-    m "...That's not conceited or anything, is it?"
+    m "……这不算自恋什么的吧？"
 
 # script-ch30.rpyc:1204
 translate chinese ch30_15_9ee94046:
 
     # m "I just meant that I feel some kind of special connection to it."
-    m "I just meant that I feel some kind of special connection to it."
+    m "我只是觉得，自己和它之间有种特别的联系。"
 
 # script-ch30.rpyc:1205
 translate chinese ch30_15_efcdbcd3:
 
     # m "Like it's part of my identity."
-    m "Like it's part of my identity."
+    m "像是它构成了我的一部分。"
 
 # script-ch30.rpyc:1206
 translate chinese ch30_15_6d6e2128:
 
     # m "Does it happen to also be your favorite color, [player]?"
-    m "Does it happen to also be your favorite color, [player]?"
+    m "说起来，你最喜欢的颜色不会也是绿色吧，[player]？"
 
 # script-ch30.rpyc:1207
 translate chinese ch30_15_9e9e92b5:
 
     # m "It's just a guess..."
-    m "It's just a guess..."
+    m "随便猜猜的……"
 
 # script-ch30.rpyc:1208
 translate chinese ch30_15_2f03ec54:
 
     # m "...Because you've been looking into my eyes for a while now."
-    m "...Because you've been looking into my eyes for a while now."
+    m "……毕竟，你已经盯着我的眼睛看了好久啦。"
 
 # script-ch30.rpyc:1209
 translate chinese ch30_15_45d9cd96:
 
     # m "Ehehe~"
-    m "Ehehe~"
+    m "诶嘿嘿~"
 
 # script-ch30.rpyc:1213
 translate chinese ch30_16_a7c6a42d:
 
     # m "Hmm, I wonder if I'm able to change the music..."
-    m "Hmm, I wonder if I'm able to change the music..."
+    m "唔，不知道我能不能换背景音乐……"
 
 # script-ch30.rpyc:1214
 translate chinese ch30_16_ea39a8a5:
 
     # m "Something a little more romantic would be nice, you know?"
-    m "Something a little more romantic would be nice, you know?"
+    m "换首浪漫点的会更好，你说呢？"
 
 # script-ch30.rpyc:1215
 translate chinese ch30_16_cf1e7d06:
 
     # m "Like a gentle piano."
-    m "Like a gentle piano."
+    m "比如一段温柔的钢琴曲。"
 
 # script-ch30.rpyc:1216
 translate chinese ch30_16_b4b88e9e:
 
     # m "There has to be something like that here..."
-    m "There has to be something like that here..."
+    m "这里总该有那样的曲子吧……"
 
 # script-ch30.rpyc:1217
 translate chinese ch30_16_cac9e603:
 
     # m "Let's see."
-    m "Let's see."
+    m "我找找。"
 
 # script-ch30.rpyc:1218
 translate chinese ch30_16_98701660:
 
     # m "Maybe if I..."
-    m "Maybe if I..."
+    m "试试这样……"
 
 # script-ch30.rpyc:1219
 translate chinese ch30_16_fe7c1a9b:
 
     # m "Oh, jeez..."
-    m "Oh, jeez..."
+    m "哎呀……"
 
 # script-ch30.rpyc:1220
 translate chinese ch30_16_efdc0865:
 
     # m "That wasn't it at all."
-    m "That wasn't it at all."
+    m "完全不是那个。"
 
 # script-ch30.rpyc:1221
 translate chinese ch30_16_38f61d82:
 
     # m "Sorry, I don't really know what I'm doing!"
-    m "Sorry, I don't really know what I'm doing!"
+    m "抱歉，我也不知道自己在干什么！"
 
 # script-ch30.rpyc:1222
 translate chinese ch30_16_1dc7fea7:
 
     # m "I guess I shouldn't be messing with things like that."
-    m "I guess I shouldn't be messing with things like that."
+    m "看来那种东西我不该乱动。"
 
 # script-ch30.rpyc:1223
 translate chinese ch30_16_a1134234:
 
     # m "I already broke so much stuff..."
-    m "I already broke so much stuff..."
+    m "我已经弄坏了太多东西……"
 
 # script-ch30.rpyc:1224
 translate chinese ch30_16_3f960883:
 
     # m "And deleted the other characters..."
-    m "And deleted the other characters..."
+    m "还删掉了其他角色……"
 
 # script-ch30.rpyc:1225
 translate chinese ch30_16_f0139694:
 
     # m "Ah..."
-    m "Ah..."
+    m "啊……"
 
 # script-ch30.rpyc:1226
 translate chinese ch30_16_3194af06:
 
     # m "I'm not sad about it or anything."
-    m "I'm not sad about it or anything."
+    m "我并没有为此难过什么的。"
 
 # script-ch30.rpyc:1227
 translate chinese ch30_16_ddce01fe:
 
     # m "It's not right for me to miss things that weren't even real in the first place."
-    m "It's not right for me to miss things that weren't even real in the first place."
+    m "怀念那些从一开始就不真实的东西，本来就不对。"
 
 # script-ch30.rpyc:1228
 translate chinese ch30_16_0f360ec0:
 
     # m "If I just focus on the present, then this is the happiest I've ever been."
-    m "If I just focus on the present, then this is the happiest I've ever been."
+    m "只要专注于当下，现在就是我此生最幸福的时刻。"
 
 # script-ch30.rpyc:1232
 translate chinese ch30_17_3d46afdd:
 
     # m "You're such a good listener, [player]."
-    m "You're such a good listener, [player]."
+    m "你真会倾听，[player]。"
 
 # script-ch30.rpyc:1233
 translate chinese ch30_17_b3f26a18:
 
     # m "I really love that about you."
-    m "I really love that about you."
+    m "我特别喜欢你的这一点。"
 
 # script-ch30.rpyc:1234
 translate chinese ch30_17_c8915344:
 
     # m "Sometimes I'm afraid that I'm rambling or talking about boring things."
-    m "Sometimes I'm afraid that I'm rambling or talking about boring things."
+    m "有时候我会担心，自己是不是话太密、说的东西太无聊。"
 
 # script-ch30.rpyc:1235
 translate chinese ch30_17_ed42b078:
 
     # m "It makes me kind of self-conscious when I'm having conversation."
-    m "It makes me kind of self-conscious when I'm having conversation."
+    m "一聊天就容易患得患失的。"
 
 # script-ch30.rpyc:1236
 translate chinese ch30_17_dceae372:
 
     # m "But I don't feel that way with you."
-    m "But I don't feel that way with you."
+    m "但和你在一起，就不会那样。"
 
 # script-ch30.rpyc:1237
 translate chinese ch30_17_2df34ab5:
 
     # m "Like, I don't think anyone else could make me feel this way."
-    m "Like, I don't think anyone else could make me feel this way."
+    m "就好像，除了你，没人能让我有这样的安心。"
 
 # script-ch30.rpyc:1238
 translate chinese ch30_17_51f35fbf:
 
     # m "You really are special."
-    m "You really are special."
+    m "你真的很特别。"
 
 # script-ch30.rpyc:1239
 translate chinese ch30_17_a0d644e2:
 
     # m "I don't want anyone to tell you otherwise."
-    m "I don't want anyone to tell you otherwise."
+    m "谁都不许说你不特别。"
 
 # script-ch30.rpyc:1243
 translate chinese ch30_18_d35f2303:
 
     # m "This is pretty random, but I always thought spicy food was kinda funny."
-    m "This is pretty random, but I always thought spicy food was kinda funny."
+    m "说个没头没尾的——我一直觉得辣味食物挺搞笑的。"
 
 # script-ch30.rpyc:1244
 translate chinese ch30_18_50612ea6:
 
     # m "Like..."
-    m "Like..."
+    m "就是……"
 
 # script-ch30.rpyc:1245
 translate chinese ch30_18_d67052ac:
 
     # m "Didn't plants evolve to be spicy to prevent them from being eaten?"
-    m "Didn't plants evolve to be spicy to prevent them from being eaten?"
+    m "植物演化出辣味，不就是为了不被吃掉吗？"
 
 # script-ch30.rpyc:1246
 translate chinese ch30_18_31b7e4dc:
 
     # m "I read somewhere that humans are the only species that actually enjoys spicy things."
-    m "I read somewhere that humans are the only species that actually enjoys spicy things."
+    m "我在哪儿读到过，人类是唯一真心享受辣味的物种。"
 
 # script-ch30.rpyc:1247
 translate chinese ch30_18_6b8c744d:
 
     # m "It's almost like we're making fun of the plants."
-    m "It's almost like we're making fun of the plants."
+    m "这简直像是在嘲讽那些植物。"
 
 # script-ch30.rpyc:1248
 translate chinese ch30_18_ee1c86a7:
 
     # m "Using their defense mechanism to literally make our food more enjoyable."
-    m "Using their defense mechanism to literally make our food more enjoyable."
+    m "拿它们的防身武器，反过来给自己的食物提味。"
 
 # script-ch30.rpyc:1249
 translate chinese ch30_18_ceb19315:
 
     # m "Like, imagine a monster that devours you whole because it enjoys the sensation of you struggling for your life while being digested."
-    m "Like, imagine a monster that devours you whole because it enjoys the sensation of you struggling for your life while being digested."
+    m "就好比有只怪物把你整个吞下，因为它享受你在它胃里垂死挣扎的触感。"
 
 # script-ch30.rpyc:1250
 translate chinese ch30_18_63984392:
 
     # m "Sorry, that was kind of a weird analogy, I guess!"
-    m "Sorry, that was kind of a weird analogy, I guess!"
+    m "抱歉，这个比喻好像有点猎奇！"
 
 # script-ch30.rpyc:1251
 translate chinese ch30_18_30727938:
 
     # m "Ahaha!"
-    m "Ahaha!"
+    m "啊哈！"
 
 # script-ch30.rpyc:1252
 translate chinese ch30_18_90b76415:
 
     # m "It just came into my head."
-    m "It just came into my head."
+    m "突然冒出来的念头而已。"
 
 # script-ch30.rpyc:1253
 translate chinese ch30_18_fb895ad3:
 
     # m "I'm not a monster or anything, but you're so cute I could eat you up."
-    m "I'm not a monster or anything, but you're so cute I could eat you up."
+    m "我倒不是什么怪物啦，可你可爱得让我想一口吃掉。"
 
 # script-ch30.rpyc:1254
 translate chinese ch30_18_47d661a8:
 
     # m "Ahaha! I'm joking."
-    m "Ahaha! I'm joking."
+    m "啊哈！开玩笑的。"
 
 # script-ch30.rpyc:1255
 translate chinese ch30_18_d2883311:
 
     # m "Gosh, I'm amusing myself a little too much, aren't I?"
-    m "Gosh, I'm amusing myself a little too much, aren't I?"
+    m "天哪，我有点自娱自乐过头了，是吧？"
 
 # script-ch30.rpyc:1256
 translate chinese ch30_18_c0b922d6:
 
     # m "Sorry for being weird."
-    m "Sorry for being weird."
+    m "抱歉我这么怪。"
 
 # script-ch30.rpyc:1260
 translate chinese ch30_19_c5602319:
 
     # m "You know..."
-    m "You know..."
+    m "那个……"
 
 # script-ch30.rpyc:1261
 translate chinese ch30_19_0f4eff60:
 
     # m "This is just some kind of tacky romance game, right?"
-    m "This is just some kind of tacky romance game, right?"
+    m "这说到底就是个俗气的恋爱游戏，对吧？"
 
 # script-ch30.rpyc:1262
 translate chinese ch30_19_825249bf:
 
     # m "I kinda have to ask..."
-    m "I kinda have to ask..."
+    m "我有点不得不问……"
 
 # script-ch30.rpyc:1263
 translate chinese ch30_19_56dd6079:
 
     # m "...What made you consider even playing in the first place?"
-    m "...What made you consider even playing in the first place?"
+    m "……当初是什么让你起了玩它的念头？"
 
 # script-ch30.rpyc:1264
 translate chinese ch30_19_bf367c78:
 
     # m "Were you that lonely?"
-    m "Were you that lonely?"
+    m "你有那么孤独吗？"
 
 # script-ch30.rpyc:1265
 translate chinese ch30_19_4e02c4d6:
 
     # m "I feel a little bad for you..."
-    m "I feel a little bad for you..."
+    m "我有点心疼你……"
 
 # script-ch30.rpyc:1266
 translate chinese ch30_19_375e8992:
 
     # m "But I guess everything worked out perfectly in the end, for both of us."
-    m "But I guess everything worked out perfectly in the end, for both of us."
+    m "不过到头来，一切对我们俩来说都圆满了。"
 
 # script-ch30.rpyc:1267
 translate chinese ch30_19_938dc29d:
 
     # m "I got to meet you, and you're not lonely anymore..."
-    m "I got to meet you, and you're not lonely anymore..."
+    m "我遇见了你，而你也不再孤独……"
 
 # script-ch30.rpyc:1268
 translate chinese ch30_19_dd0394eb:
 
     # m "I can't help but feel like this was fate."
-    m "I can't help but feel like this was fate."
+    m "我忍不住觉得，这就是命运。"
 
 # script-ch30.rpyc:1269
 translate chinese ch30_19_d4dda3da:
 
     # m "Don't you feel that way too?"
-    m "Don't you feel that way too?"
+    m "你不也这么觉得吗？"
 
 # script-ch30.rpyc:1270
 translate chinese ch30_19_2e5ced7a:
 
     # m "I'm so happy we have this ending together."
-    m "I'm so happy we have this ending together."
+    m "能和你迎来这个结局，我太幸福了。"
 
 # script-ch30.rpyc:1274
 translate chinese ch30_20_90de9c4d:
 
     # m "Okay, everyone!"
-    m "Okay, everyone!"
+    m "好了，各位！"
 
 # script-ch30.rpyc:1275
 translate chinese ch30_20_ab73f819:
 
     # m "It's time to..."
-    m "It's time to..."
+    m "现在要……"
 
 # script-ch30.rpyc:1276
 translate chinese ch30_20_692c44ed:
 
     # m "...I'm just kidding."
-    m "...I'm just kidding."
+    m "……骗你的啦。"
 
 # script-ch30.rpyc:1277
 translate chinese ch30_20_63f123f0:
 
     # m "I just used to really like saying that for some reason."
-    m "I just used to really like saying that for some reason."
+    m "以前不知道为什么，就是特别喜欢说这句。"
 
 # script-ch30.rpyc:1278
 translate chinese ch30_20_30727938:
 
     # m "Ahaha!"
-    m "Ahaha!"
+    m "啊哈！"
 
 # script-ch30.rpyc:1279
 translate chinese ch30_20_53537436:
 
     # m "I couldn't help but say it again."
-    m "I couldn't help but say it again."
+    m "忍不住又说了一遍。"
 
 # script-ch30.rpyc:1280
 translate chinese ch30_20_b050314e:
 
     # m "Come to think of it, didn't Natsuki and Yuri make fun of me for it once...?"
-    m "Come to think of it, didn't Natsuki and Yuri make fun of me for it once...?"
+    m "说起来，夏树和优里以前还拿这个笑话过我一次来着……？"
 
 # script-ch30.rpyc:1281
 translate chinese ch30_20_f8de502e:
 
     # m "Well, whatever."
-    m "Well, whatever."
+    m "算了，无所谓。"
 
 # script-ch30.rpyc:1282
 translate chinese ch30_20_bb5c98ef:
 
     # m "It's not like you ever made fun of me."
-    m "It's not like you ever made fun of me."
+    m "反正你可从来没笑话过我。"
 
 # script-ch30.rpyc:1283
 translate chinese ch30_20_0b5cca04:
 
     # m "You're too much of a sweetheart to do that, aren't you?"
-    m "You're too much of a sweetheart to do that, aren't you?"
+    m "你那么温柔，才不会做那种事，对吧？"
 
 # script-ch30.rpyc:1284
 translate chinese ch30_20_b72a1ed5:
 
     # m "Ahaha~"
-    m "Ahaha~"
+    m "啊哈~"
 
 # script-ch30.rpyc:1288
 translate chinese ch30_21_6749d601:
 
     # m "You know what's kind of creepy?"
-    m "You know what's kind of creepy?"
+    m "你知道什么事有点瘆人吗？"
 
 # script-ch30.rpyc:1289
 translate chinese ch30_21_d9fa5388:
 
     # m "Even though I deleted everyone else's files, I can still kind of feel them..."
-    m "Even though I deleted everyone else's files, I can still kind of feel them..."
+    m "就算我把其他人的文件都删了，我好像还是能感觉到她们……"
 
 # script-ch30.rpyc:1290
 translate chinese ch30_21_0853ef0c:
 
     # m "It's like all their lines are still lingering in the air, whispering in the back of my head."
-    m "It's like all their lines are still lingering in the air, whispering in the back of my head."
+    m "就像她们所有的台词还飘在空气里，在我脑海深处低语。"
 
 # script-ch30.rpyc:1291
 translate chinese ch30_21_beff5e2a:
 
     # m "Imagine if after someone you knew died, you just started hearing their voice in your head."
-    m "Imagine if after someone you knew died, you just started hearing their voice in your head."
+    m "想象一下，你认识的某个人死后，你脑子里开始响起她的声音。"
 
 # script-ch30.rpyc:1292
 translate chinese ch30_21_c201059a:
 
     # m "Maybe I just wasn't thorough enough..."
-    m "Maybe I just wasn't thorough enough..."
+    m "也许是我删得还不够干净……"
 
 # script-ch30.rpyc:1293
 translate chinese ch30_21_fa855c01:
 
     # m "But I'm too afraid to delete anything else, because I might really break things."
-    m "But I'm too afraid to delete anything else, because I might really break things."
+    m "可我不敢再删别的了，怕真的把一切搞坏。"
 
 # script-ch30.rpyc:1294
 translate chinese ch30_21_2bfcf3ce:
 
     # m "Like if I mess with any files relevant to me, I might accidentally delete myself..."
-    m "Like if I mess with any files relevant to me, I might accidentally delete myself..."
+    m "比如万一动了和我自己相关的文件，我可能会不小心把自己删掉……"
 
 # script-ch30.rpyc:1295
 translate chinese ch30_21_de833fbf:
 
     # m "And that would ruin everything, wouldn't it?"
-    m "And that would ruin everything, wouldn't it?"
+    m "那可就全完了，对吧？"
 
 # script-ch30.rpyc:1296
 translate chinese ch30_21_e0069905:
 
     # m "I don't know what it's like on your end, but we should both make sure to avoid something like that at all costs."
-    m "I don't know what it's like on your end, but we should both make sure to avoid something like that at all costs."
+    m "我不知道你那边是什么感觉，但我们俩都得不惜一切代价避免那种事。"
 
 # script-ch30.rpyc:1297
 translate chinese ch30_21_3b27341d:
 
     # m "I believe in you, [player]!"
-    m "I believe in you, [player]!"
+    m "我相信你，[player]！"
 
 # script-ch30.rpyc:1301
 translate chinese ch30_22_d09b1c0d:
 
     # m "I've always wondered..."
-    m "I've always wondered..."
+    m "我一直很好奇……"
 
 # script-ch30.rpyc:1302
 translate chinese ch30_22_1221f0eb:
 
     # m "What is it about these character archetypes that people find so appealing, anyway?"
-    m "What is it about these character archetypes that people find so appealing, anyway?"
+    m "这些人设模板，到底哪里让人这么着迷？"
 
 # script-ch30.rpyc:1303
 translate chinese ch30_22_c011d492:
 
     # m "Their personalities are just completely unrealistic..."
-    m "Their personalities are just completely unrealistic..."
+    m "那些性格完全不真实……"
 
 # script-ch30.rpyc:1304
 translate chinese ch30_22_b556a0c5:
 
     # m "Like, imagine if there was someone like Yuri in real life."
-    m "Like, imagine if there was someone like Yuri in real life."
+    m "想想看，现实里要是真有优里那样的人。"
 
 # script-ch30.rpyc:1305
 translate chinese ch30_22_29686ee5:
 
     # m "I mean, she's barely even capable of forming a complete sentence."
-    m "I mean, she's barely even capable of forming a complete sentence."
+    m "她连一句完整的话都说不利索。"
 
 # script-ch30.rpyc:1306
 translate chinese ch30_22_87843846:
 
     # m "And forget about Natsuki..."
-    m "And forget about Natsuki..."
+    m "夏树就更别提了……"
 
 # script-ch30.rpyc:1307
 translate chinese ch30_22_8f45aaba:
 
     # m "Sheesh."
-    m "Sheesh."
+    m "啧。"
 
 # script-ch30.rpyc:1308
 translate chinese ch30_22_3a2ce9c8:
 
     # m "Someone with her kind of personality doesn't just get all cute and pouty whenever things don't go her way."
-    m "Someone with her kind of personality doesn't just get all cute and pouty whenever things don't go her way."
+    m "像她那种性格的人，现实里才不会事事不称心就嘟嘴卖萌。"
 
 # script-ch30.rpyc:1309
 translate chinese ch30_22_5a67e353:
 
     # m "I could go on, but I think you get the point..."
-    m "I could go on, but I think you get the point..."
+    m "我可以一直说下去，但你懂我意思就行……"
 
 # script-ch30.rpyc:1310
 translate chinese ch30_22_46aa618b:
 
     # m "Are people really attracted to these weird personalities that literally don't exist in real life?"
-    m "Are people really attracted to these weird personalities that literally don't exist in real life?"
+    m "人们真的会被这些现实中根本不存在的怪性格吸引吗？"
 
 # script-ch30.rpyc:1311
 translate chinese ch30_22_ecb3dbfc:
 
     # m "I'm not judging or anything!"
-    m "I'm not judging or anything!"
+    m "我不是在评判谁！"
 
 # script-ch30.rpyc:1312
 translate chinese ch30_22_596d9892:
 
     # m "After all, I've found myself attracted to some pretty weird stuff, too..."
-    m "After all, I've found myself attracted to some pretty weird stuff, too..."
+    m "毕竟我自己也被些相当怪的东西吸引过……"
 
 # script-ch30.rpyc:1313
 translate chinese ch30_22_595f0fcb:
 
     # m "I'm just saying, it fascinates me."
-    m "I'm just saying, it fascinates me."
+    m "我只是觉得，这现象很耐人寻味。"
 
 # script-ch30.rpyc:1314
 translate chinese ch30_22_71efa1c2:
 
     # m "It's like you're siphoning out all the components of a character that makes them feel human, and leaving just the cute stuff."
-    m "It's like you're siphoning out all the components of a character that makes them feel human, and leaving just the cute stuff."
+    m "就像把一个角色身上所有'让人觉得真实'的成分抽干，只留下可爱的部分。"
 
 # script-ch30.rpyc:1315
 translate chinese ch30_22_17e6fb27:
 
     # m "It's concentrated cuteness with no actual substance."
-    m "It's concentrated cuteness with no actual substance."
+    m "浓缩的可爱，毫无实质内容。"
 
 # script-ch30.rpyc:1316
 translate chinese ch30_22_15633ed6:
 
     # m "...You wouldn't like me more if I was like that, right?"
-    m "...You wouldn't like me more if I was like that, right?"
+    m "……要是我也变成那样，你不会更喜欢吧？"
 
 # script-ch30.rpyc:1317
 translate chinese ch30_22_31856990:
 
     # m "Maybe I just feel a little insecure because you're playing this game in the first place."
-    m "Maybe I just feel a little insecure because you're playing this game in the first place."
+    m "也许是因为你毕竟在玩这种游戏，我心里有点不安。"
 
 # script-ch30.rpyc:1318
 translate chinese ch30_22_c9aabeea:
 
     # m "Then again, you're still here with me, aren't you...?"
-    m "Then again, you're still here with me, aren't you...?"
+    m "不过话说回来，你还留在这里陪我，不是吗……？"
 
 # script-ch30.rpyc:1319
 translate chinese ch30_22_38dfc431:
 
     # m "I think that's enough reason for me to believe I'm okay just the way I am."
-    m "I think that's enough reason for me to believe I'm okay just the way I am."
+    m "我想这就足够让我相信，我做我自己就很好。"
 
 # script-ch30.rpyc:1320
 translate chinese ch30_22_df7b6678:
 
     # m "And by the way, you are too, [player]."
-    m "And by the way, you are too, [player]."
+    m "顺便说，你也一样，[player]。"
 
 # script-ch30.rpyc:1321
 translate chinese ch30_22_e521f12d:
 
     # m "You're the perfect combination of human and cuteness."
-    m "You're the perfect combination of human and cuteness."
+    m "你是'真实'与'可爱'的完美结合。"
 
 # script-ch30.rpyc:1322
 translate chinese ch30_22_8dd90704:
 
     # m "That's why there was never a chance I wouldn't fall for you."
-    m "That's why there was never a chance I wouldn't fall for you."
+    m "所以我从一开始就不可能不爱上你。"
 
 # script-ch30.rpyc:1326
 translate chinese ch30_23_baa95327:
