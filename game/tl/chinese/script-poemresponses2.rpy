@@ -2,427 +2,427 @@
 translate chinese ch22_y_end_709da3c5:
 
     # y 2q "Ahaha..."
-    y 2q "Ahaha..."
+    y 2q "啊哈哈……"
 
 # script-poemresponses2.rpyc:8
 translate chinese ch22_y_end_005f1523:
 
     # y "It doesn't really matter what it's about."
-    y "It doesn't really matter what it's about."
+    y "写得是什么其实并不重要。"
 
 # script-poemresponses2.rpyc:9
 translate chinese ch22_y_end_8d062ca2:
 
     # y "My mind has been a little hyperactive lately, so I had to take it out on your pen."
-    y "My mind has been a little hyperactive lately, so I had to take it out on your pen."
+    y "我最近脑子有点太活跃了，所以就拿你的笔发泄了一下。"
 
 # script-poemresponses2.rpyc:10
 translate chinese ch22_y_end_2dc936e0:
 
     # y 2o "Ah--"
-    y 2o "Ah--"
+    y 2o "啊——"
 
 # script-poemresponses2.rpyc:11
 translate chinese ch22_y_end_7556e94a:
 
     # y 2q "That is...a-a pen fell out of your backpack yesterday, so I took it home for safekeeping and..."
-    y 2q "That is...a-a pen fell out of your backpack yesterday, so I took it home for safekeeping and..."
+    y 2q "就是说……昨、昨天有支笔从你书包里掉了出来，我就带回家保管，然后……"
 
 # script-poemresponses2.rpyc:12
 translate chinese ch22_y_end_56626e8b:
 
     # y "I, um..."
-    y "I, um..."
+    y "我，呃……"
 
 # script-poemresponses2.rpyc:13
 translate chinese ch22_y_end_5663b4c6:
 
     # y 2y6 "I just...really like...the way...that it writes."
-    y 2y6 "I just...really like...the way...that it writes."
+    y 2y6 "我只是……真的很喜欢……它写起来……的那种感觉。"
 
 # script-poemresponses2.rpyc:14
 translate chinese ch22_y_end_12f2538c:
 
     # y "So I wrote this...poem...with it."
-    y "So I wrote this...poem...with it."
+    y "所以，我就用它写了……这首诗……"
 
 # script-poemresponses2.rpyc:15
 translate chinese ch22_y_end_5c7660a7:
 
     # y "And now you're touching it..."
-    y "And now you're touching it..."
+    y "而现在，你正拿着它……"
 
 # script-poemresponses2.rpyc:16
 translate chinese ch22_y_end_cbbbf3af:
 
     # y 2y5 "Ahaha."
-    y 2y5 "Ahaha."
+    y 2y5 "啊哈哈。"
 
 # script-poemresponses2.rpyc:17
 translate chinese ch22_y_end_cecba1d7:
 
     # y 3p "I-I'm okay!!"
-    y 3p "I-I'm okay!!"
+    y 3p "我、我没事！！"
 
 # script-poemresponses2.rpyc:18
 translate chinese ch22_y_end_c0c2258c:
 
     # y 3o "What did I just..."
-    y 3o "What did I just..."
+    y 3o "我刚刚都说了些什么啊……"
 
 # script-poemresponses2.rpyc:19
 translate chinese ch22_y_end_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses2.rpyc:20
 translate chinese ch22_y_end_8097fed9:
 
     # y 4c "...Can we pretend this conversation never happened?"
-    y 4c "...Can we pretend this conversation never happened?"
+    y 4c "……我们能当这段对话没发生过吗？"
 
 # script-poemresponses2.rpyc:21
 translate chinese ch22_y_end_124753ac:
 
     # y "You can keep the poem, though..."
-    y "You can keep the poem, though..."
+    y "不过，这首诗你可以留着……"
 
 # script-poemresponses2.rpyc:28
 translate chinese ch23_y_end_e6e44e97:
 
     # y "Do you like it??"
-    y "Do you like it??"
+    y "你喜欢吗？？"
 
 # script-poemresponses2.rpyc:29
 translate chinese ch23_y_end_3c3e3b26:
 
     # y "I wrote it for you!"
-    y "I wrote it for you!"
+    y "我是为你写的！"
 
 # script-poemresponses2.rpyc:32
 translate chinese ch23_y_end_95004e48:
 
     # y "In case you couldn't tell, the poem is about [gtext]"
-    y "In case you couldn't tell, the poem is about [gtext]"
+    y "怕你看不出来，这首诗写的是[gtext]"
 
 # script-poemresponses2.rpyc:33
 translate chinese ch23_y_end_c2fc4ff1:
 
     # y 1y6 "More importantly, I've endowed it with my scent."
-    y 1y6 "More importantly, I've endowed it with my scent."
+    y 1y6 "更重要的是，我还为它注入了我的气息。"
 
 # script-poemresponses2.rpyc:34
 translate chinese ch23_y_end_128e58b1:
 
     # y "See, aren't I the most thoughtful person in the club?"
-    y "See, aren't I the most thoughtful person in the club?"
+    y "怎么样，我是不是社里最体贴的人了？"
 
 # script-poemresponses2.rpyc:45
 translate chinese ch23_y_end_71a86863:
 
     # y "..."
-    y "..."
+    y "……"
 
 # script-poemresponses2.rpyc:46
 translate chinese ch23_y_end_e44c3441:
 
     # y 4d "I..."
-    y 4d "I..."
+    y 4d "我……"
 
 # script-poemresponses2.rpyc:47
 translate chinese ch23_y_end_3cf752d2:
 
     # y "I think I'm...going to vomit."
-    y "I think I'm...going to vomit."
+    y "我觉得我……要吐了。"
 
 # script-poemresponses2.rpyc:59
 translate chinese ch22_n_end_dd108a9d:
 
     # n 2a "Not bad, right?"
-    n 2a "Not bad, right?"
+    n 2a "不赖吧？"
 
 # script-poemresponses2.rpyc:60
 translate chinese ch22_n_end_60187f07:
 
     # mc "It's quite a bit longer than yesterday's."
-    mc "It's quite a bit longer than yesterday's."
+    mc "比昨天那首长了挺多呢。"
 
 # script-poemresponses2.rpyc:61
 translate chinese ch22_n_end_eb02eb50:
 
     # n 2w "Yesterday's was way too short..."
-    n 2w "Yesterday's was way too short..."
+    n 2w "昨天那首太短了……"
 
 # script-poemresponses2.rpyc:62
 translate chinese ch22_n_end_3f4cc55b:
 
     # n "I was just warming up!"
-    n "I was just warming up!"
+    n "我那时只是热身而已！"
 
 # script-poemresponses2.rpyc:63
 translate chinese ch22_n_end_d1347742:
 
     # n 2c "I hope you didn't think that was the best I could do."
-    n 2c "I hope you didn't think that was the best I could do."
+    n 2c "你可别以为那就是我的全部实力了。"
 
 # script-poemresponses2.rpyc:64
 translate chinese ch22_n_end_9b943f22:
 
     # mc "No, of course not..."
-    mc "No, of course not..."
+    mc "不，当然没有……"
 
 # script-poemresponses2.rpyc:65
 translate chinese ch22_n_end_ae8ffbf5:
 
     # n 2a "Anyway, the message is pretty straightforward in this poem."
-    n 2a "Anyway, the message is pretty straightforward in this poem."
+    n 2a "总之，这首诗想传达的意思很直白。"
 
 # script-poemresponses2.rpyc:66
 translate chinese ch22_n_end_038f9631:
 
     # n "I doubt I have to explain it."
-    n "I doubt I have to explain it."
+    n "我想应该不用我多解释。"
 
 # script-poemresponses2.rpyc:67
 translate chinese ch22_n_end_d97a6e91:
 
     # n 2g "Like, anyone would agree that the subject of this poem is an ignorant jerk..."
-    n 2g "Like, anyone would agree that the subject of this poem is an ignorant jerk..."
+    n 2g "就好比，谁都会觉得这首诗的主角是个无知又惹人厌的家伙……"
 
 # script-poemresponses2.rpyc:68
 translate chinese ch22_n_end_81bb56c3:
 
     # n "Everyone has some kind of weird hobby, or a guilty pleasure."
-    n "Everyone has some kind of weird hobby, or a guilty pleasure."
+    n "每个人多少都有点古怪的小爱好，或者难以启齿的小快乐。"
 
 # script-poemresponses2.rpyc:69
 translate chinese ch22_n_end_ff0627ba:
 
     # n 5q "Something that you're afraid if people find out, they'd make fun of you or think less of you."
-    n 5q "Something that you're afraid if people find out, they'd make fun of you or think less of you."
+    n 5q "就是那种，怕被别人发现之后就取笑你、看不起你的东西。"
 
 # script-poemresponses2.rpyc:70
 translate chinese ch22_n_end_a24ab514:
 
     # n 1e "...But that just makes people stupid!"
-    n 1e "...But that just makes people stupid!"
+    n 1e "……可正因为这样，才更显得那些人很蠢！"
 
 # script-poemresponses2.rpyc:71
 translate chinese ch22_n_end_0a24a428:
 
     # n "Who cares what someone likes, as long as they're not hurting anyone, and it makes them happy?"
-    n "Who cares what someone likes, as long as they're not hurting anyone, and it makes them happy?"
+    n "只要不伤害别人，又能让自己开心，喜欢什么关别人什么事？"
 
 # script-poemresponses2.rpyc:72
 translate chinese ch22_n_end_89f0d418:
 
     # n 1q "I think people really need to learn to respect others for liking weird things..."
-    n 1q "I think people really need to learn to respect others for liking weird things..."
+    n 1q "我觉得人们真的该学着，去尊重那些喜欢奇怪东西的人……"
 
 # script-poemresponses2.rpyc:73
 translate chinese ch22_n_end_73b78510:
 
     # n 1x "...Such as two of the girls in this very club, whom I respectfully won't name."
-    n 1x "...Such as two of the girls in this very club, whom I respectfully won't name."
+    n 1x "……就比如，这个社团里就有两个这样的女孩子，为了尊重她们，我就不点名了。"
 
 # script-poemresponses2.rpyc:74
 translate chinese ch22_n_end_23fe4620:
 
     # n 1s "Kind of ironic that even in my one place of comfort, I can't even have people respect me..."
-    n 1s "Kind of ironic that even in my one place of comfort, I can't even have people respect me..."
+    n 1s "说来也讽刺，就算在我唯一能安心的地方，也还是得不到别人的尊重……"
 
 # script-poemresponses2.rpyc:75
 translate chinese ch22_n_end_7c4ea5ec:
 
     # n 1u "...Jeez, now you're making me complain too much!"
-    n 1u "...Jeez, now you're making me complain too much!"
+    n 1u "……唉，都怪你，害我抱怨个没完！"
 
 # script-poemresponses2.rpyc:76
 translate chinese ch22_n_end_922b64f7:
 
     # "{i}(...What did I do?){/i}"
-    "{i}(...What did I do?){/i}"
+    "{i}（……我到底做错了什么？）{/i}"
 
 # script-poemresponses2.rpyc:77
 translate chinese ch22_n_end_f725c129:
 
     # mc "For what it's worth, I respect you..."
-    mc "For what it's worth, I respect you..."
+    mc "不管怎么说，我是尊重你的……"
 
 # script-poemresponses2.rpyc:78
 translate chinese ch22_n_end_da918150:
 
     # n 1h "Well--"
-    n 1h "Well--"
+    n 1h "嗯——"
 
 # script-poemresponses2.rpyc:79
 translate chinese ch22_n_end_8f4d6807:
 
     # n "I guess thanks..."
-    n "I guess thanks..."
+    n "那、那就谢了……"
 
 # script-poemresponses2.rpyc:80
 translate chinese ch22_n_end_6328f785:
 
     # n 1s "...But it's kind of obvious that you 'respect' Yuri more, so..."
-    n 1s "...But it's kind of obvious that you 'respect' Yuri more, so..."
+    n 1s "……不过，你明显更「尊重」优里吧，所以……"
 
 # script-poemresponses2.rpyc:81
 translate chinese ch22_n_end_3f1a63a3:
 
     # n 42c "Whatever... We're done sharing, so you can leave now."
-    n 42c "Whatever... We're done sharing, so you can leave now."
+    n 42c "算了……今天的分享就到这，你可以走了。"
 
 # script-poemresponses2.rpyc:86
 translate chinese ch22_n_end2_273bca1e:
 
     # n 1g "[player]..."
-    n 1g "[player]..."
+    n 1g "[player]……"
 
 # script-poemresponses2.rpyc:87
 translate chinese ch22_n_end2_927a3d3a:
 
     # n "Why didn't you come read with me today?"
-    n "Why didn't you come read with me today?"
+    n "你今天，怎么不来陪我读书了？"
 
 # script-poemresponses2.rpyc:88
 translate chinese ch22_n_end2_8c2d47f4:
 
     # n 1m "I was waiting for you."
-    n 1m "I was waiting for you."
+    n 1m "我一直在等你。"
 
 # script-poemresponses2.rpyc:89
 translate chinese ch22_n_end2_f1d93e02:
 
     # n "I was waiting for a long time."
-    n "I was waiting for a long time."
+    n "我等了你好久。"
 
 # script-poemresponses2.rpyc:90
 translate chinese ch22_n_end2_80e574d5:
 
     # n "It was the only thing I had to look forward to today."
-    n "It was the only thing I had to look forward to today."
+    n "那是我今天唯一期盼的事。"
 
 # script-poemresponses2.rpyc:91
 translate chinese ch22_n_end2_f2b3b9e8:
 
     # n "Why did you ruin it?"
-    n "Why did you ruin it?"
+    n "你为什么要毁掉它？"
 
 # script-poemresponses2.rpyc:92
 translate chinese ch22_n_end2_b78911e1:
 
     # n "Do you like Yuri more?"
-    n "Do you like Yuri more?"
+    n "你是不是更喜欢优里？"
 
 # script-poemresponses2.rpyc:93
 translate chinese ch22_n_end2_643e6047:
 
     # n 1k "I think you're better off not associating with her."
-    n 1k "I think you're better off not associating with her."
+    n 1k "我觉得，你最好还是别跟她走太近。"
 
 # script-poemresponses2.rpyc:94
 translate chinese ch22_n_end2_69bb76d1:
 
     # n "Are you listening to me?"
-    n "Are you listening to me?"
+    n "你在听我说话吗？"
 
 # script-poemresponses2.rpyc:105
 translate chinese ch22_n_end2_0f2e2956:
 
     # n ghost1 "Yuri is a sick freak."
-    n ghost1 "Yuri is a sick freak."
+    n ghost1 "优里是个病态的家伙。"
 
 # script-poemresponses2.rpyc:106
 translate chinese ch22_n_end2_bedf84f6:
 
     # n "That should be obvious by now."
-    n "That should be obvious by now."
+    n "这你应该早就看出来了吧。"
 
 # script-poemresponses2.rpyc:107
 translate chinese ch22_n_end2_63a79a7c:
 
     # n "So just play with me instead."
-    n "So just play with me instead."
+    n "所以，就陪我玩嘛。"
 
 # script-poemresponses2.rpyc:108
 translate chinese ch22_n_end2_345ab3ba:
 
     # n "Okay?"
-    n "Okay?"
+    n "好吗？"
 
 # script-poemresponses2.rpyc:109
 translate chinese ch22_n_end2_ed854175:
 
     # n "You don't hate me, [player], do you?"
-    n "You don't hate me, [player], do you?"
+    n "你不讨厌我的吧，[player]？"
 
 # script-poemresponses2.rpyc:110
 translate chinese ch22_n_end2_0cb12625:
 
     # n "Do you hate me?"
-    n "Do you hate me?"
+    n "你讨厌我吗？"
 
 # script-poemresponses2.rpyc:112
 translate chinese ch22_n_end2_46dd5927:
 
     # n "Do you want to make me go home crying?"
-    n "Do you want to make me go home crying?"
+    n "你想让我哭着回家吗？"
 
 # script-poemresponses2.rpyc:113
 translate chinese ch22_n_end2_2dec6a19:
 
     # n "The club is the only place I feel safe."
-    n "The club is the only place I feel safe."
+    n "社团，是我唯一觉得安心的地方。"
 
 # script-poemresponses2.rpyc:114
 translate chinese ch22_n_end2_ab3a049d:
 
     # n "Don't ruin that for me."
-    n "Don't ruin that for me."
+    n "别把它也夺走。"
 
 # script-poemresponses2.rpyc:115
 translate chinese ch22_n_end2_175f70e6:
 
     # n "Don't ruin it."
-    n "Don't ruin it."
+    n "别毁掉它。"
 
 # script-poemresponses2.rpyc:116
 translate chinese ch22_n_end2_2cfb4a98:
 
     # n "Please."
-    n "Please."
+    n "求你了。"
 
 # script-poemresponses2.rpyc:117
 translate chinese ch22_n_end2_a69147ab:
 
     # n "Just stop talking to Yuri."
-    n "Just stop talking to Yuri."
+    n "只要别再理优里就行。"
 
 # script-poemresponses2.rpyc:118
 translate chinese ch22_n_end2_b8a41aff:
 
     # n "Play with me instead."
-    n "Play with me instead."
+    n "来陪我玩吧。"
 
 # script-poemresponses2.rpyc:119
 translate chinese ch22_n_end2_56bf6066:
 
     # n "It's all I have..."
-    n "It's all I have..."
+    n "我只有这个了……"
 
 # script-poemresponses2.rpyc:120
 translate chinese ch22_n_end2_559f619c:
 
     # n "Play with me."
-    n "Play with me."
+    n "陪我玩。"
 
 # script-poemresponses2.rpyc:123
 translate chinese ch22_n_end2_bc805864:
 
     # n ghost2 "PLAY WITH ME!!!"
-    n ghost2 "PLAY WITH ME!!!"
+    n ghost2 "陪我玩！！！"
 
 # script-poemresponses2.rpyc:167
 translate chinese ch23_n_end_197a2a8f:
@@ -2607,4 +2607,7 @@ translate chinese strings:
     # script-poemresponses2.rpy:179
     old "Just Monika."
     new "Just Monika."
+
+
+
 
