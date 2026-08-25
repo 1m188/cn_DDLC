@@ -434,7 +434,7 @@ translate chinese yuri_exclusive2_1_ch22_f902f7cf:
 translate chinese yuri_exclusive2_1_ch22_f1d585ba:
 
     # y "my whole body gets incredibly [gtext]{nw}"
-    y "my whole body gets incredibly [gtext]{nw}"
+    y "我的整个身体都会变得难以置信地……[gtext]{nw}"
 
 # script-exclusives2-yuri.rpyc:88
 translate chinese yuri_exclusive2_1_ch22_cbb32f29:

@@ -182,7 +182,7 @@ translate chinese ch3_main_07187167:
 translate chinese ch3_main_8f497507:
 
     # n 4z "Mon-ika!"
-    n 4z "莫妮卡（Mon-ika）！"
+    n 4z "莫妮—卡！"
 
 # script-ch3.rpyc:62
 translate chinese ch3_main_5ddfdfed:

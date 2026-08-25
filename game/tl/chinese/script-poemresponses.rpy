@@ -12858,15 +12858,15 @@ translate chinese strings:
 
     # script-poemresponses.rpy:27
     old "Sayori"
-    new "Sayori"
+    new "纱世里"
 
     # script-poemresponses.rpy:27
     old "Natsuki"
-    new "Natsuki"
+    new "夏树"
 
     # script-poemresponses.rpy:27
     old "Yuri"
-    new "Yuri"
+    new "优里"
 
 
 
