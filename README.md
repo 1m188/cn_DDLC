@@ -28,10 +28,37 @@
 python tools/extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature Club"
 ```
 
-- 从 `scripts.rpa` 内的 `.rpyc` 提取全部对白与字符串，生成 Ren'Py 官方格式翻译骨架
+- 从 `scripts.rpa` 内的 `.rpyc` 提取全部对白与**可扫描字符串**（菜单标题、
+  物理源文件中的 `_()` 文本），生成 Ren'Py 官方格式翻译骨架；
+  **界面屏幕文本不在提取范围**（原因与应对见下文「界面文本的提取限制」）
 - 产物注释中的本地绝对路径自动脱敏为 `文件名:行号`，行尾统一 LF，适合开源
 - 项目内已有翻译会先自动备份到 `backups/`（已 gitignore）
 - 游戏本体更新后追加新文本：`--merge`；清理中断残留：`--force`
+
+#### 界面文本的提取限制
+
+界面（主菜单、设置、快捷菜单、存档/读档、关于等）的按钮与提示文字存放
+在 `scripts.rpa` 内的 `.rpyc` 编译产物中。引擎的翻译扫描器只能读取物理
+`.rpy` 源码；对归档内的编译脚本，提取工具只能取到菜单标题——**因此 UI
+屏幕文本无法自动提取，只能手工维护**在 `game/tl/chinese/screens.rpy`
+（`translate chinese strings:` 块，格式与其它字符串一致）。
+`tools/extract.py` 生成的骨架**永不包含** `screens.rpy`，也不会改写或
+删除它。
+
+重新提取对 `screens.rpy` 的影响：
+
+- 增量提取（`--merge`，游戏本体更新后的常规操作）：项目翻译先部署进
+  游戏目录再提取，`screens.rpy` 随整目录原样移回项目，**不会丢失**；
+- 全新提取（不带 `--merge`）：项目翻译先备份到 `backups/` 再重建骨架，
+  `screens.rpy` **只存在于备份中**，需要手动从 `backups/` 恢复。
+
+手工维护 UI 翻译时注意：
+
+- 同一字符串（`old`）只能定义一次：与 `common.rpy` 等已有条目重复时，
+  Ren'Py 6.99 会报 `A translation for ... already exists` 并**闪退**
+  （重复翻译是报错而非覆盖）；
+- 界面文本显示时都会查翻译表（是否包裹 `_()` 不影响翻译生效），因此
+  原版中未包裹 `_()` 的界面文字同样可以通过 `old`/`new` 翻译。
 
 ## 目录结构
 
@@ -39,7 +66,7 @@ python tools/extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature C
 cn_DDLC/
 ├── game/                      # 补丁产物（玩家要复制的就是这个目录的内容）
 │   ├── fonts/                 # 中文字体（思源黑体 + 霞鹜文楷，含 OFL 许可证）
-│   ├── tl/chinese/            # 翻译文件（对白 + 字符串）
+│   ├── tl/chinese/            # 翻译文件（对白 + 字符串；screens.rpy 为手工维护的界面文本）
 │   └── zz_cn_config.rpy       # 语言与字体配置（手工维护）
 ├── tools/extract.py           # 提取工具（低频使用）
 ├── backups/                   # 自动备份（gitignore）
@@ -49,6 +76,8 @@ cn_DDLC/
 ## 开发流程
 
 1. **提取**（一次性）：`tools/extract.py` 生成 `game/tl/chinese/` 翻译骨架
+   （对白 + 可扫描字符串；**界面文本需在骨架基础上手工补充**
+   `screens.rpy`，见上文「界面文本的提取限制」）
 2. **翻译**（主体工作）：直接编辑 `game/tl/chinese/*.rpy` —— 对白块替换语句
    文本，字符串块填写 `new` 行
 3. **测试**：把 `game/` 目录内容复制到游戏目录实测（同下述安装方式）
@@ -74,8 +103,11 @@ cn_DDLC/
 - 诗词小游戏词汇表（`poemwords.txt`）与 glitch 文本需要单独处理
 - 文本中的 Ren'Py 标签（`{w}`、`[var]` 等）与引号转义必须保持原样
 - **诗歌正文不参与翻译**：诗会朗读的四首诗（含标题）存放在游戏数据
-  （`Poem` 对象）中，Ren'Py 6.99 只翻译对白与字符串，无法覆盖，
-  游戏内诗句仍为英文原文；仅通过 `zz_cn_config.rpy` 把诗歌手写体
-  字体（m1/n1/s1/y1-3，仅含英文字形）映射为霞鹜文楷（LXGW WenKai，
+  （`Poem` 对象）中，不经文本渲染查表路径，翻译系统无法覆盖，游戏内
+  诗句仍为英文原文；仅通过 `zz_cn_config.rpy` 把诗歌手写体字体
+  （m1/n1/s1/y1-3，仅含英文字形）映射为霞鹜文楷（LXGW WenKai，
   SIL OFL 1.1），以英文原文 + 中文手写观感呈现
 - 界面/正文则映射为思源黑体（Noto Sans SC）
+- UI 界面文本（按钮/设置/存档等）手工维护于 `game/tl/chinese/screens.rpy`，
+  同一 `old` 字符串全项目只能定义一次（与 `common.rpy` 等重复会启动报错，
+  详见上文「界面文本的提取限制」）

@@ -1,9 +1,14 @@
 ﻿# 界面文本翻译（screens.rpy）
 # 依据 scripts.rpa 内 screens.rpyc 编译产物中的 _() 调用提取（原版字符串逐一对应）。
+# 原版界面文本显示时都会查翻译表（是否包裹 _() 不影响翻译生效），
+# 因此未列入本文件的字符串同样可以用 old/new 翻译。
 # 刻意保留原文的部分（未列入本文件）：
 #   1. 快捷菜单中故障化显示的乱码字样（原版即为乱码，属故障效果）。
-#   2. name_input 的提示语 "Please enter your name" 与损坏存档提示等未包裹 _() 的字符串。
+#   2. name_input 的提示语 "Please enter your name" 与损坏存档提示等
+#      （刻意保留英文，非机制限制）。
 #   3. 主菜单背景随机短语（splash.rpy init 数据，不经翻译系统）。
+# 注意：同一 old 全项目只能定义一次——与 common.rpy 等已有条目重复时，
+# Ren'Py 6.99 会报 "A translation for ... already exists" 并启动闪退。
 
 translate chinese strings:
 
@@ -46,14 +51,7 @@ translate chinese strings:
     old "Help"
     new "帮助"
 
-    old "Quit"
-    new "退出"
-
     # —— 游戏菜单（game_menu）——
-
-    # game/screens.rpy:609
-    old "Return"
-    new "返回"
 
     # —— 主菜单（main_menu）——
 
@@ -91,14 +89,8 @@ translate chinese strings:
     old "Window"
     new "窗口"
 
-    old "Fullscreen"
-    new "全屏"
-
     old "Rollback Side"
     new "回滚侧"
-
-    old "Disable"
-    new "禁用"
 
     old "Left"
     new "左"
