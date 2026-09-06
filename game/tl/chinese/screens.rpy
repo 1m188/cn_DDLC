@@ -4,9 +4,10 @@
 # 因此未列入本文件的字符串同样可以用 old/new 翻译。
 # 刻意保留原文的部分（未列入本文件）：
 #   1. 快捷菜单中故障化显示的乱码字样（原版即为乱码，属故障效果）。
-#   2. name_input 的提示语 "Please enter your name" 与损坏存档提示等
-#      （刻意保留英文，非机制限制）。
-#   3. 主菜单背景随机短语（splash.rpy init 数据，不经翻译系统）。
+#   2. 窗口标题栏的游戏名（品牌名，与主菜单 Logo 一致，保留英文）。
+# 此前刻意保留、现已补译的条目（含出处机制说明见对应条目注释）：
+# 主菜单背景随机短语（splash.rpy，经 "[splash_message]" 模板显示）、
+# name_input 的 "Please enter your name"、损坏存档等 dialog 消息。
 # 注意：同一 old 全项目只能定义一次——与 common.rpy 等已有条目重复时，
 # Ren'Py 6.99 会报 "A translation for ... already exists" 并启动闪退。
 
@@ -151,3 +152,25 @@ translate chinese strings:
     # game/screens.rpy:1498
     old "Skipping"
     new "跳过中"
+
+    # —— 对话框消息（dialog / name_input，经 _(message) 显示）——
+
+    # game/screens.rpy 主菜单“新游戏”按钮传入的提示语
+    old "Please enter your name"
+    new "请输入你的名字"
+
+    # game/screens.rpy 帮助按钮提示
+    old "The help file has been opened in your browser."
+    new "帮助文件已在浏览器中打开。"
+
+    # game/screens.rpy FileActionMod：playthrough 1 读档时缺 sayori.chr
+    old "File error: \"characters/sayori.chr\"\n\nThe file is missing or corrupt."
+    new "文件错误：\"characters/sayori.chr\"\n\n文件缺失或已损坏。"
+
+    # game/screens.rpy FileActionMod：损坏存档
+    old "The save file is corrupt. Starting a new game."
+    new "存档文件已损坏。正在开始新游戏。"
+
+    # game/screens.rpy FileActionMod：playthrough 3 存档
+    old "There's no point in saving anymore.\nDon't worry, I'm not going anywhere."
+    new "已经没有必要再存档了。\n放心，我哪儿也不会去。"
