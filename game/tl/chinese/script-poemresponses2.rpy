@@ -2608,6 +2608,12 @@ translate chinese strings:
     old "Just Monika."
     new "只想着莫妮卡。"
 
+    # script-poemresponses2.rpy:223
+    # m2 诗歌朗读故障时弹出的 dialog 消息（renpy.call_screen 位置参数形式），
+    # 与莫妮卡刚朗读的诗《救救我》（Save Me）呼应
+    old "Please help me."
+    new "救救我。"
+
 
 
 

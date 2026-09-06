@@ -1847,3 +1847,9 @@ translate chinese strings:
     new "再见，[player]。"
     old "Goodbye, Literature Club."
     new "再见，文学部。"
+
+    # 结局后检测到 monika.chr 被玩家恢复时弹出的 dialog 消息
+    # （renpy.call_screen，一生仅一次）
+    old "Please stop playing with my heart.\nI don't want to come back."
+    new "别再玩弄我的感情了。\n我不想回来。"
+

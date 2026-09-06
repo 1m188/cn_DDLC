@@ -114,6 +114,10 @@ cn_DDLC/
   霞鹜文楷（LXGW WenKai，SIL OFL 1.1）
 - 同类的「模板 + `!t`」补译还包括开篇警示语（`[splash_message]` 及其
   随机彩蛋消息，见 `splash.rpy`）
+- 制作人员名单与片尾曲已覆盖（`game/tl/chinese/credits.rpy`）：名单头衔与
+  片尾曲《Your Reality》歌词逐行走字符串翻译表（歌词按打字机分段成条目，
+  部分段带行首空格，`old` 须与原文逐字一致）；Dan Salvato、Satchely 等
+  人名与署名 `"Monika\n[player]"` 刻意保留原文
 - 界面/正文则映射为思源黑体（Noto Sans SC）
 - UI 界面文本（按钮/设置/存档等）手工维护于 `game/tl/chinese/screens.rpy`，
   同一 `old` 字符串全项目只能定义一次（与 `common.rpy` 等重复会启动报错，
