@@ -1828,3 +1828,22 @@ translate chinese ch40_clearall_35809bce:
     # s "We all love you."
     s "我们都爱你。"
 
+
+translate chinese strings:
+
+    # —— 删档剧情的 dialog 消息（call screen dialog(...)）——
+
+    old "No..."
+    new "不……"
+    old "I won't let you hurt him."
+    new "我不会让你伤害他的。"
+    old "I'm sorry... I was wrong."
+    new "对不起……是我错了。"
+    old "There's no happiness here after all..."
+    new "这里终究没有幸福……"
+    old "Goodbye, Sayori."
+    new "再见，纱世里。"
+    old "Goodbye, [player]."
+    new "再见，[player]。"
+    old "Goodbye, Literature Club."
+    new "再见，文学部。"
