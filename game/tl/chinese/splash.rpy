@@ -1,3 +1,8 @@
+﻿# splash.rpy 翻译
+# 对白块由提取骨架生成；strings 块含菜单文本、开篇警示语模板
+# （[splash_message] → [splash_message!t]，机制见下方注释）与提示语。
+# 同一 old 全项目只能定义一次（重复会导致 Ren'Py 启动报错闪退）。
+
 # splash.rpyc:234
 translate chinese splashscreen_f490803a:
 
@@ -73,3 +78,46 @@ translate chinese strings:
     # splash.rpy:267
     old "I agree."
     new "我同意。"
+
+    # —— 开篇警示语（show splash_warning "[splash_message]"）——
+    # 显示的是模板字符串，翻译在插值之前进行：把模板译为带 !t 的形式，
+    # 使插值时再对具体消息查一次翻译表（!t 转换，renpy/substitutions.py）。
+
+    old "[splash_message]"
+    new "[splash_message!t]"
+
+    # splash.rpy init 块：splash_message_default（一周目固定显示）
+    old "This game is not suitable for children\nor those who are easily disturbed."
+    new "本游戏不适合儿童，\n亦不适合容易受到惊扰的玩家。"
+
+    # splash.rpy init 块：splash_messages（二周目起随机彩蛋消息）
+    old "You are my sunshine,\nMy only sunshine"
+    new "你是我的阳光，\n我唯一的阳光"
+    old "I missed you."
+    new "我好想你。"
+    old "Play with me"
+    new "陪我玩"
+    old "It's just a game, mostly."
+    new "这只是个游戏，大概吧。"
+    old "This game is not suitable for children\nor those who are easily disturbed?"
+    new "本游戏不适合儿童，\n亦不适合容易受到惊扰的玩家？"
+    old "I have granted kids to hell"
+    new "我已把孩子们送进了地狱"
+    old "PM died for this."
+    new "PM 为此而死。"
+    old "It was only partially your fault."
+    new "这其中只有一部分是你的错。"
+    old "This game is not suitable for children\nor those who are easily dismembered."
+    new "本游戏不适合儿童，\n亦不适合容易被肢解的玩家。"
+    old "Don't forget to backup Monika's character file."
+    new "别忘了备份莫妮卡的角色文件。"
+
+    # 刻意保留原文（故障彩蛋）："sdfasdklfgsdfgsgoinrfoenlvbd"、"null"
+
+    # splash.rpy 首次读档后的操作提示（dialog 屏幕）
+    old "Hint: You can use the \"Skip\" button to\nfast-forward through text you've already read."
+    new "提示：可以使用“跳过”按钮，\n快速略过已经读过的文本。"
+
+    # splash.rpy 好结局文本（ATL Text，sayori_text 样式）
+    old "Now everyone can be happy."
+    new "现在，大家都得到幸福了。"
