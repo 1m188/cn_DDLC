@@ -100,14 +100,23 @@ cn_DDLC/
 
 - 只翻译显示文本，**不得改动**任何变量名、文件名（如 `monika.chr`）、
   存档交互逻辑——DDLC 的 meta 玩法依赖这些
-- 诗词小游戏词汇表（`poemwords.txt`）与 glitch 文本需要单独处理
+- 诗词小游戏词汇表（`poemwords.txt`，228 词）经 `script-poemgame.rpy` 的
+  strings 块逐词覆盖（词按钮与所有界面文本一样走字符串翻译表）；
+  运行时随机生成的 glitch 词无固定原文，不覆盖
 - 文本中的 Ren'Py 标签（`{w}`、`[var]` 等）与引号转义必须保持原样
-- **诗歌正文不参与翻译**：诗会朗读的四首诗（含标题）存放在游戏数据
-  （`Poem` 对象）中，不经文本渲染查表路径，翻译系统无法覆盖，游戏内
-  诗句仍为英文原文；仅通过 `zz_cn_config.rpy` 把诗歌手写体字体
-  （m1/n1/s1/y1-3，仅含英文字形）映射为霞鹜文楷（LXGW WenKai，
-  SIL OFL 1.1），以英文原文 + 中文手写观感呈现
+- **诗歌已全部覆盖**（`game/tl/chinese/poems.rpy`）：诗的标题与正文存放在
+  `Poem` 对象中，经 poem 屏幕的模板 `"[currentpoem.title]\n\n[currentpoem.text]"`
+  显示；引擎显示前会对模板调用字符串翻译，因此把模板译为
+  `[currentpoem.title!t]\n\n[currentpoem.text!t]`，插值时即对标题/正文
+  再各查一次翻译表（`!t` 转换）。21 首诗中 19 首已译（以原作行数为骨架）；
+  刻意保留原文：y23 乱码诗、n2b Base64 谜题诗、s3 的标题 "%"。
+  诗歌手写体字体（m1/n1/s1/y1-3）仍经 `zz_cn_config.rpy` 映射为
+  霞鹜文楷（LXGW WenKai，SIL OFL 1.1）
+- 同类的「模板 + `!t`」补译还包括开篇警示语（`[splash_message]` 及其
+  随机彩蛋消息，见 `splash.rpy`）
 - 界面/正文则映射为思源黑体（Noto Sans SC）
 - UI 界面文本（按钮/设置/存档等）手工维护于 `game/tl/chinese/screens.rpy`，
   同一 `old` 字符串全项目只能定义一次（与 `common.rpy` 等重复会启动报错，
   详见上文「界面文本的提取限制」）
+- 刻意保留英文的其他内容：窗口标题栏游戏名（品牌名）、删档结局的模拟
+  控制台输出、假崩溃画面（模仿引擎报错样式）、logo 等图片资源
