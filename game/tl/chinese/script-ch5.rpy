@@ -62,7 +62,7 @@ translate chinese ch5_main_12c35a24:
 translate chinese ch5_main_201144fc:
 
     # "I'm more excited for it to be over so I can spend time with Sayori and [ch4_name] at the festival."
-    "我更盼着它赶紧结束，好在学园祭上陪纱世里和[ch4_name]好好玩玩。"
+    "我更盼着它赶紧结束，好在学园祭上陪纱世里和[ch4_name!t]好好玩玩。"
 
 # script-ch5.rpyc:101
 translate chinese ch5_main_8ede78be:

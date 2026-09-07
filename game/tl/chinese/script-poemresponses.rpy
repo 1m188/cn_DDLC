@@ -4592,7 +4592,7 @@ translate chinese ch2_n_good_sharedwithch3_fa810c86:
 translate chinese ch2_n_good_sharedwithch3_96bb8ff6:
 
     # mc "I'll give you the poem, but that's still not very fair to [unfairto]..."
-    mc "诗可以给你，不过这样对[unfairto]未免不太公平……"
+    mc "诗可以给你，不过这样对[unfairto!t]未免不太公平……"
 
 # script-poemresponses.rpyc:1082
 translate chinese ch2_n_good_sharedwithch3_1b2e0949:
@@ -7466,7 +7466,7 @@ translate chinese ch3_s_bad_27d55987:
 translate chinese ch3_s_bad_d782c986:
 
     # s "Probably [currentname]..."
-    s "大概是[currentname]吧……"
+    s "大概是[currentname!t]吧……"
 
 # script-poemresponses.rpyc:1658
 translate chinese ch3_s_bad_b8c522fc:
@@ -12852,9 +12852,20 @@ translate chinese m_yuri_3_e903db06:
 
 translate chinese strings:
 
+    # —— 运行时求值的界面文本（提取骨架看不到，手工补全）——
+    # 机制同 splash/poems 的“模板+!t”：菜单标题与说话人标签先整体查表，
+    # 再经 !t 转换对插值结果二次查表（renpy/substitutions.py convert_field）。
+
     # script-poemresponses.rpy:27
+    # 菜单标题模板；menutext 为 python 运行时赋值（见下方两条），需 !t 才能翻出值
     old "[menutext]"
-    new "[menutext]"
+    new "[menutext!t]"
+
+    # script-poemresponses.rpy:23/25 init python：menutext 赋值（第一/二至三天分享诗歌菜单）
+    old "Who should I show my poem to first?"
+    new "我的诗应该先给谁看？"
+    old "Who should I show my poem to next?"
+    new "我的诗接下来该给谁看？"
 
     # script-poemresponses.rpy:27
     old "Sayori"
@@ -12867,6 +12878,22 @@ translate chinese strings:
     # script-poemresponses.rpy:27
     old "Yuri"
     new "优里"
+
+    # —— 说话人标签（definitions.rpyc：DynamicCharacter('s/m/n/y_name') 显示值，
+    #    Character.call 中 who 经 translate_string；ch0 开场前四名部员尚未自我介绍，
+    #    script.rpy init 默认值即这些匿名代号。"???" 中英语形一致，无需条目）——
+
+    # script.rpy:13-16 init python：m/n/y_name 默认值（ Girl 3=Monika、Girl 2=Natsuki、Girl 1=Yuri）
+    old "Girl 1"
+    new "1号女孩"
+    old "Girl 2"
+    new "2号女孩"
+    old "Girl 3"
+    new "3号女孩"
+
+    # definitions.rpyc：Character('Nat & Yuri')，夏树与优里同时说话的标签
+    old "Nat & Yuri"
+    new "夏树与优里"
 
 
 

@@ -128,7 +128,7 @@ translate chinese ch4_main_be038b9e:
 translate chinese ch4_main_29ce83ba:
 
     # "I decide to visit Sayori before [ch4_name] comes over."
-    "[ch4_name]到来之前，我决定先去看看纱世里。"
+    "[ch4_name!t]到来之前，我决定先去看看纱世里。"
 
 # script-ch4.rpyc:36
 translate chinese ch4_main_f5e89c18:
@@ -266,7 +266,7 @@ translate chinese ch4_main_c067efa9:
 translate chinese ch4_main_9e1f01a3:
 
     # s "Aren't you supposed to see [ch4_name] today?"
-    s "你不是今天要和[ch4_name]见面吗？"
+    s "你不是今天要和[ch4_name!t]见面吗？"
 
 # script-ch4.rpyc:64
 translate chinese ch4_main_3f1ca1d2:
@@ -338,7 +338,7 @@ translate chinese ch4_main_755e2699:
 translate chinese ch4_main_95fc3bb8:
 
     # mc "Ah, so it's just me and [ch4_name], then..."
-    mc "啊，那就只有我和[ch4_name]了……"
+    mc "啊，那就只有我和[ch4_name!t]了……"
 
 # script-ch4.rpyc:76
 translate chinese ch4_main_df50d1be:
@@ -1382,7 +1382,7 @@ translate chinese ch4_main_fc896afd:
 translate chinese ch4_main_0756728a:
 
     # mc "It's almost time for [ch4_name] to meet me at my house..."
-    mc "[ch4_name]差不多要到我家了……"
+    mc "[ch4_name!t]差不多要到我家了……"
 
 # script-ch4.rpyc:256
 translate chinese ch4_main_95533e69:
@@ -1484,7 +1484,7 @@ translate chinese ch4_main_75570300:
 translate chinese ch4_main_33401e76:
 
     # "But it's hard for me to keep thinking about it when [ch4_name] is about to come over, too..."
-    "可[ch4_name]也快到了，我很难一直想下去……"
+    "可[ch4_name!t]也快到了，我很难一直想下去……"
 
 # script-ch4.rpyc:274
 translate chinese ch4_main_3818a70d:
@@ -6488,7 +6488,7 @@ translate chinese ch4_end_f8ac1185:
 translate chinese ch4_end_e9eaa5d7:
 
     # s "How much fun you were having with [ch4_name]."
-    s "你和[ch4_name]玩得有多开心。"
+    s "你和[ch4_name!t]玩得有多开心。"
 
 # script-ch4.rpyc:1231
 translate chinese ch4_end_2ce2e237:

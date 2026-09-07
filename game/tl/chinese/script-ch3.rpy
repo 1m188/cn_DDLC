@@ -2540,7 +2540,7 @@ translate chinese ch3_end_8cbb49b3:
 translate chinese ch3_end_7bb2e7af:
 
     # "[ch4_name] is going to be coming to my house on Sunday...?"
-    "[ch4_name]周日要来我家……？"
+    "[ch4_name!t]周日要来我家……？"
 
 # script-ch3.rpyc:646
 translate chinese ch3_end_f8f05de5:

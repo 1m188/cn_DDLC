@@ -114,6 +114,20 @@ cn_DDLC/
   霞鹜文楷（LXGW WenKai，SIL OFL 1.1）
 - 同类的「模板 + `!t`」补译还包括开篇警示语（`[splash_message]` 及其
   随机彩蛋消息，见 `splash.rpy`）
+- **运行时求值的显示文本已全部补齐**（提取骨架看不到这些，均为手工补译，
+  集中在 `script-poemresponses.rpy` 的 strings 块，注释标注出处）：
+  - 说话人标签：`s/m/n/y_name` 经 `DynamicCharacter` 显示，`character.py`
+    的 `call` 会对 `who` 走翻译表，故补 `Girl 1/2/3`（ch0 开场四人自我介绍
+    前的匿名代号，见 `script.rpy` init）与 `Nat & Yuri`（夏树优里同说话的
+    静态标签）；`???`（Sayori/Monika 未报名时的代号）中英同形无需条目；
+    `Sayori/Natsuki/Yuri/Monika` 标签沿用既有 `old` 条目；
+  - 菜单标题：`menutext` 为 python 运行时赋值（"Who should I show my poem
+    to first?/next?"），模板条目 `old "[menutext]"` 改译为 `"[menutext!t]"`
+    并对两条赋值补 `old`/`new`；
+  - 正文插值的人名变量 `[ch2_winner]`/`[ch4_name]`/`[unfairto]`/`[currentname]`
+    的译文一律改为 `!t` 插值（值 Sayori/Yuri/Natsuki 已有全局 `old` 条目）
+  - 刻意保留：`[gtext]`/`[ntext]`/二周目乱码 `[m/n/y/s_name]`（glitchtext，
+    无固定原文）、`[currentuser]`（系统用户名）、`[player]`（玩家自定）
 - 制作人员名单与片尾曲已覆盖（`game/tl/chinese/credits.rpy`）：名单头衔与
   片尾曲《Your Reality》歌词逐行走字符串翻译表（歌词按打字机分段成条目，
   部分段带行首空格，`old` 须与原文逐字一致）；Dan Salvato、Satchely 等

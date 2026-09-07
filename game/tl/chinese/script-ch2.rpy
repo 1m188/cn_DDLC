@@ -3092,7 +3092,7 @@ translate chinese ch2_end_1fbc80ee:
 translate chinese ch2_end_c4ee50a6:
 
     # s 1a "So...let's just say that one day, [ch2_winner] asked to walk home with you..."
-    s 1a "那个……假如说，有一天[ch2_winner]约你一起回家……"
+    s 1a "那个……假如说，有一天[ch2_winner!t]约你一起回家……"
 
 # script-ch2.rpyc:853
 translate chinese ch2_end_e4c4b2af:
@@ -3146,7 +3146,7 @@ translate chinese ch2_end_sayori_e87e0575:
 translate chinese ch2_end_sayori_24121141:
 
     # mc "You really think I would ditch you for [ch2_winner]?"
-    mc "你真觉得我会为了[ch2_winner]抛下你？"
+    mc "你真觉得我会为了[ch2_winner!t]抛下你？"
 
 # script-ch2.rpyc:874
 translate chinese ch2_end_sayori_208b890a:
@@ -3212,7 +3212,7 @@ translate chinese ch2_end_sayori_ee391249:
 translate chinese ch2_end_sayori_bf0a2c77:
 
     # s "[ch2_winner] would deserve it if she wanted it, so..."
-    s "如果[ch2_winner]想要的话，她也配得上，所以……"
+    s "如果[ch2_winner!t]想要的话，她也配得上，所以……"
 
 # script-ch2.rpyc:887
 translate chinese ch2_end_sayori_d609de76:
@@ -3450,7 +3450,7 @@ translate chinese strings:
 
     # script-ch2.rpy:858
     old "I would walk home with [ch2_winner]."
-    new "我会和[ch2_winner]一起回家。"
+    new "我会和[ch2_winner!t]一起回家。"
 
     # script-ch2.rpy:858
     old "I would still walk home with Sayori."
