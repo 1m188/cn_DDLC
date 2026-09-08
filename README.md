@@ -121,8 +121,8 @@ cn_DDLC/
     三周目结尾信 2 张，正文以霞鹜文楷（钢笔/手写风）重排为中文，纸张
     纹理取自原图采样，黑条（涂改的称呼）、血迹、简笔画、箭头、点等
     艺术元素原样保留；`poem_special9` 末尾字迹散架的故障效果以空格
-    排版模拟；`poem_end` 落款 Monika 与 `poem_end_clearall` 落款
-    Dan Salvato 按署名惯例保留原文；
+    排版模拟；`poem_end` 落款译作「莫妮卡」（与全篇人名译名一致），
+    `poem_end_clearall` 落款为现实作者 Dan Salvato，保留原文；
   - 刻意保留原图：special2/3（整页涂黑）、special7a/b（马赛克拼贴）等
     纯故障艺术，以及 logo、贴纸、光标等无文字图片。
 - **历史界面运行时文本已覆盖**（`script-exclusives2-natsuki.rpy` 与
