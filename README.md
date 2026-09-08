@@ -112,6 +112,24 @@ cn_DDLC/
   刻意保留原文：y23 乱码诗、n2b Base64 谜题诗、s3 的标题 "%"。
   诗歌手写体字体（m1/n1/s1/y1-3）仍经 `zz_cn_config.rpy` 映射为
   霞鹜文楷（LXGW WenKai，SIL OFL 1.1）
+- **图片内文字已替换**（`game/gui/`、`game/images/poem_special/` 下的新增
+  图片）：Ren'Py 加载时松散文件优先于 `.rpa` 归档，因此这些新增图片会覆盖
+  归档内的同名资源而不改动游戏本体——
+  - `gui/poem_dismiss.png`：诗歌界面提示 "Click outside poem area to
+    continue" → 「点击诗歌区域外继续」（保留粉底与手绘箭头）；
+  - `images/poem_special/`：二周目点击课桌纸条显示的特殊诗歌页 11 张与
+    三周目结尾信 2 张，正文以霞鹜文楷（钢笔/手写风）重排为中文，纸张
+    纹理取自原图采样，黑条（涂改的称呼）、血迹、简笔画、箭头、点等
+    艺术元素原样保留；`poem_special9` 末尾字迹散架的故障效果以空格
+    排版模拟；`poem_end` 落款 Monika 与 `poem_end_clearall` 落款
+    Dan Salvato 按署名惯例保留原文；
+  - 刻意保留原图：special2/3（整页涂黑）、special7a/b（马赛克拼贴）等
+    纯故障艺术，以及 logo、贴纸、光标等无文字图片。
+- **历史界面运行时文本已覆盖**（`script-exclusives2-natsuki.rpy` 与
+  `script-ch23.rpy` 的 strings 块）：原脚本在 python 块里用
+  `_history_list[-1].what = "..."` 与 `m.add_history(...)` 把刚说过的
+  台词在历史界面改写/写入为英文原句，共 4 条（含莫妮卡游戏开场白的
+  故障重复整段），均已按改写前后语义补译。
 - 同类的「模板 + `!t`」补译还包括开篇警示语（`[splash_message]` 及其
   随机彩蛋消息，见 `splash.rpy`）
 - **运行时求值的显示文本已全部补齐**（提取骨架看不到这些，均为手工补译，

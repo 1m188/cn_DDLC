@@ -964,3 +964,15 @@ translate chinese natsuki_exclusive2_1_a968bb9a:
     # m "Why don't we all share poems now?"
     m "我们现在来分享诗歌吧？"
 
+translate chinese strings:
+
+    # script-exclusives2-natsuki.rpy python：_history_list[-1].what 的历史改写文本
+    # n 的台词因乱码故意保留原样，历史界面改写为此句
+    old "Freaking Monika..."
+    new "可恶的莫妮卡……"
+    # 台词在 {nw} 处被截断并以乱码结尾，历史界面改写为此完整句
+    old "Consider this a lesson straight from the Literature Club: Don't judge a book by its cover!"
+    new "把这当作来自文学部的一课：别凭封面去评判一本书！"
+    # 台词为更粗俗的说法（已有译文），历史界面改写为此委婉句
+    old "I don't even know what my dad would do if he found this."
+    new "真不敢想要是我爸发现这个，他会怎么对我。"
