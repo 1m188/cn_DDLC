@@ -4,9 +4,9 @@
 #   1) 强制游戏语言为中文 —— 激活 game/tl/chinese/ 下的翻译
 #   2) 将游戏使用的英文字体全局替换为中文字体（均 SIL OFL 1.1，可自由分发）：
 #      - 界面/正文 -> 思源黑体 Noto Sans SC（许可证 OFL-NotoSansSC.txt）
-#      - 角色手写体（诗歌 m1/n1/s1/y1-3）-> 霞鹜文楷 LXGW WenKai
-#        （许可证 OFL-LXGWWenKai.txt；仅用 Regular，加粗请求也按
-#        Regular 渲染，以保持手写笔画风格）
+#      - 角色手写体（诗歌 m1/n1/s1/y1-3）-> 龙藏体 Long Cang
+#        （许可证 OFL-LongCang.txt；Google Fonts 收录的钢笔手写体；
+#        仅用 Regular，加粗请求也按 Regular 渲染，以保持手写笔画风格）
 #
 # 维护说明：
 #   - 替换表的键是游戏原字体引用（提取自 scripts.rpa 内 .rpyc 的实际常量），
@@ -19,7 +19,7 @@ define config.language = "chinese"
 init python:
     _cn_regular = "fonts/NotoSansSC-Regular.otf"
     _cn_bold = "fonts/NotoSansSC-Bold.otf"
-    _cn_hand = "fonts/LXGWWenKai-Regular.ttf"
+    _cn_hand = "fonts/LongCang-Regular.ttf"
 
     config.font_replacement_map.update({
         ("DejaVuSans.ttf", False, False): (_cn_regular, False, False),

@@ -65,7 +65,7 @@ python tools/extract.py "D:/SteamLibrary/steamapps/common/Doki Doki Literature C
 ```
 cn_DDLC/
 ├── game/                      # 补丁产物（玩家要复制的就是这个目录的内容）
-│   ├── fonts/                 # 中文字体（思源黑体 + 霞鹜文楷，含 OFL 许可证）
+│   ├── fonts/                 # 中文字体（思源黑体 + 龙藏体，含 OFL 许可证）
 │   ├── tl/chinese/            # 翻译文件（对白 + 字符串；screens.rpy 为手工维护的界面文本）
 │   └── zz_cn_config.rpy       # 语言与字体配置（手工维护）
 ├── tools/extract.py           # 提取工具（低频使用）
@@ -110,8 +110,9 @@ cn_DDLC/
   `[currentpoem.title!t]\n\n[currentpoem.text!t]`，插值时即对标题/正文
   再各查一次翻译表（`!t` 转换）。21 首诗中 19 首已译（以原作行数为骨架）；
   刻意保留原文：y23 乱码诗、n2b Base64 谜题诗、s3 的标题 "%"。
-  诗歌手写体字体（m1/n1/s1/y1-3）仍经 `zz_cn_config.rpy` 映射为
-  霞鹜文楷（LXGW WenKai，SIL OFL 1.1）
+  诗歌手写体字体（m1/n1/s1/y1-3）经 `zz_cn_config.rpy` 映射为
+  龙藏体（Long Cang，SIL OFL 1.1）——游戏内实时渲染的手写语境
+  （诗歌正文/标题、好结局 sayori_text 文本等）与替换图片使用同一字体
 - **图片内文字已替换**（`game/gui/`、`game/images/poem_special/` 下的新增
   图片）：Ren'Py 加载时松散文件优先于 `.rpa` 归档，因此这些新增图片会覆盖
   归档内的同名资源而不改动游戏本体——

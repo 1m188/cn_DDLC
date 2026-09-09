@@ -26,7 +26,7 @@ translate chinese strings:
     new "海滩"
     # game/poems.rpy poem_y3b
     old "Ghost Under the Light pt. 2"
-    new "灯光下的幽灵·其二"
+    new "灯光下的幽灵（其二）"
     # game/poems.rpy poem_y22
     old "Wheel"
     new "轮"
@@ -69,7 +69,7 @@ translate chinese strings:
 
     # game/poems.rpy poem_y2《The Raccoon》
     old "It happened in the dead of night while I was slicing bread for a guilty snack.\nMy attention was caught by the scuttering of a raccoon outside my window.\nThat was, I believe, the first time I noticed my strange tendencies as an unordinary human.\nI gave the raccoon a piece of bread, my subconscious well aware of the consequences.\nWell aware that a raccoon that is fed will always come back for more.\nThe enticing beauty of my cutting knife was the symptom.\nThe bread, my hungry curiosity.\nThe raccoon, an urge.\n\nThe moon increments its phase and reflects that much more light off of my cutting knife.\nThe very same light that glistens in the eyes of my raccoon friend.\nI slice the bread, fresh and soft. The raccoon becomes excited.\nOr perhaps I'm merely projecting my emotions onto the newly-satisfied animal.\n\nThe raccoon has taken to following me.\nYou could say that we've gotten quite used to each other.\nThe raccoon becomes hungry more and more frequently, so my bread is always handy.\nEvery time I brandish my cutting knife, the raccoon shows me its excitement.\nA rush of blood. Classic Pavlovian conditioning. I slice the bread.\nAnd I feed myself again."
-    new "事情发生在万籁俱寂的深夜，我正切着面包，权当一份于心有愧的夜宵。\n窗外传来窸窣的响动，一只浣熊攫住了我的注意。\n我相信，那是我头一次察觉，自己这个异于常人的人竟有如此古怪的癖性。\n我给了浣熊一块面包，潜意识里清楚地知道后果。\n清楚地知道，一旦被喂食过，浣熊就永远会回来索要更多。\n我那把切刀诱人的美感，正是症候所在。\n面包，是我饥渴的好奇心。\n浣熊，是一股冲动。\n\n月亮渐次盈满，在我的切刀上又添几分寒光。\n同样的光，也闪现在我浣熊朋友的眼睛里。\n我切下面包，新鲜而柔软。浣熊兴奋起来。\n又或许，我只是把自己的情绪，投射到了这只刚刚餍足的小动物身上。\n\n浣熊开始跟着我了。\n可以说，我们已经相当习惯彼此。\n浣熊饿的次数越来越多，于是我的面包总是备在手边。\n每当我挥起切刀，浣熊就会向我展示它的兴奋。\n一阵血涌。教科书般的巴甫洛夫条件反射。我切下面包。\n然后，再次喂饱我自己。"
+    new "事情发生在万籁俱寂的深夜，我正切着面包，权当一份于心有愧的夜宵。\n窗外传来沙沙的响动，一只浣熊攫住了我的注意。\n我相信，那是我头一次察觉，自己这个异于常人的人竟有如此古怪的癖性。\n我给了浣熊一块面包，潜意识里清楚地知道后果。\n清楚地知道，一旦被喂食过，浣熊就永远会回来索要更多。\n我那把切刀诱人的美感，正是症候所在。\n面包，是我饥渴的好奇心。\n浣熊，是一股冲动。\n\n月亮渐次盈满，在我的切刀上又添几分寒光。\n同样的光，也闪现在我浣熊朋友的眼睛里。\n我切下面包，新鲜而柔软。浣熊兴奋起来。\n又或许，我只是把自己的情绪，投射到了这只刚刚餍足的小动物身上。\n\n浣熊开始跟着我了。\n可以说，我们已经相当习惯彼此。\n浣熊饿的次数越来越多，于是我的面包总是备在手边。\n每当我挥起切刀，浣熊就会向我展示它的兴奋。\n一阵血涌。教科书般的巴甫洛夫条件反射。我切下面包。\n然后，再次喂饱我自己。"
 
     # game/poems.rpy poem_y3《Beach》
     old "A marvel millions of years in the making.\nWhere the womb of Earth chaotically meets the surface.\nUnder a clear blue sky, an expanse of bliss--\nBut beneath gray rolling clouds, an endless enigma.\nThe easiest world to get lost in\nIs one where everything can be found.\n\nOne can only build a sand castle where the sand is wet.\nBut where the sand is wet, the tide comes.\nWill it gently lick at your foundations until you give in?\nOr will a sudden wave send you crashing down in the blink of an eye?\nEither way, the outcome is the same.\nYet we still build sand castles.\n\nI stand where the foam wraps around my ankles.\nWhere my toes squish into the sand.\nThe salty air is therapeutic.\nThe breeze is gentle, yet powerful.\nI sink my toes into the ultimate boundary line, tempted by the foamy tendrils.\nTurn back, and I abandon my peace to erode at the shore.\nDrift forward, and I return to Earth forevermore."
