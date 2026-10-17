@@ -32,7 +32,20 @@ translate chinese natsuki_exclusive2_1_32722f83:
 translate chinese natsuki_exclusive2_1_715b4d41:
 
     # n 4x "fucking monikammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
-    n 4x "fucking monikammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+    # 该句非运行时乱码，而是静态"粗话+拖长音"台词：接收 style.edited
+    # 异常字体（替换后为 Noto Sans SC + kerning 8）渲染；原版文本是
+    # 连续拉丁长词 monikammmmmm…（断行类 AL），layout "tex" 对超长单词
+    # 不拆分、独占一行并允许溢出——即原版第二行"m"串直接冲出对话框。
+    # 汉字缺省断行类 ID 逐字可断，直接译文只会在框内换行；经
+    # game/zz_cn_config.rpy 将「莫妮卡」「啊」的断行类定制为 AL 后，
+    # 本译文同样形成不可断长词，逐行还原原版排版：
+    #   原版   line1 = "fucking（159px） / line2 = monikam…m"（约1576px 溢出）
+    #   译文   line1 = "可恶的（约128px）/ line2 = 莫妮卡啊啊…啊！"（约1568px 溢出）
+    # （行宽按 gui.text_size=24 + kerning 8 = 每字 32px 实测；44 个"啊"，行尾加"！"
+    #   与历史界面的"可恶的莫妮卡……"呼应）
+    # 历史界面经 _history_list[-1].what 改写为 "Freaking Monika..."（下方
+    # strings 块），译文统一使用"可恶的莫妮卡"措辞，对照关系不变。
+    n 4x "可恶的莫妮卡啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！"
 
 # script-exclusives2-natsuki.rpyc:85
 translate chinese natsuki_exclusive2_1_0e3ba913:
@@ -967,7 +980,9 @@ translate chinese natsuki_exclusive2_1_a968bb9a:
 translate chinese strings:
 
     # script-exclusives2-natsuki.rpy python：_history_list[-1].what 的历史改写文本
-    # n 的台词因乱码故意保留原样，历史界面改写为此句
+    # n 的台词本体（"fucking monika"+拖长音，见对白块处注释）已译作
+    # "可恶的莫妮卡"+"啊"×44+"！"（溢出式长尾，须配合 zz_cn_config.rpy 的
+    # 断行类定制）；此处为历史界面显示的软化改写句
     old "Freaking Monika..."
     new "可恶的莫妮卡……"
     # 台词在 {nw} 处被截断并以乱码结尾，历史界面改写为此完整句
