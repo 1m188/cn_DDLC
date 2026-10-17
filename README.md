@@ -139,6 +139,13 @@ cn_DDLC/
   故障重复整段），均已按改写前后语义补译。
 - 同类的「模板 + `!t`」补译还包括开篇警示语（`[splash_message]` 及其
   随机彩蛋消息，见 `splash.rpy`）
+- **脚本直传的屏幕确认框已补译**（`script-ch20.rpy` 的 strings 块）：
+  `call screen confirm(message, ...)` 传入的 message
+  （"You have unlocked a special poem.\nWould you like to read it?"，
+  `_special_poems` 收录页解锁提示）不属于任何对白节点，显示时只经字符
+  串翻译表，故以 strings 块手工入库（`script-ch22.rpy:304` 为同一文案，
+  共用同一条目）。所有 `call screen`/`renpy.call_screen("dialog", ...)`
+  直传 message 的调用点已逐一核对，其余均在既有条目中覆盖或属刻意保留
 - **运行时求值的显示文本已全部补齐**（提取骨架看不到这些，均为手工补译，
   集中在 `script-poemresponses.rpy` 的 strings 块，注释标注出处）：
   - 说话人标签：`s/m/n/y_name` 经 `DynamicCharacter` 显示，`character.py`

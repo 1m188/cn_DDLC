@@ -1768,3 +1768,14 @@ translate chinese ch20_main2_dff2799d:
     # "And I guess that starts with writing a poem tonight..."
     "而这一切，就从今晚写一首诗开始吧……"
 
+# script-ch20.rpy:493 —— 解锁特殊诗歌的确认框（script-ch22.rpy:304 为同一文案，共用本条目）。
+# 该文本经 call screen confirm(message, ...) 直传屏幕，不属于任何对白节点，
+# 显示时只经字符串翻译表（renpy/substitutions.py substitute），故以 strings 块补译。
+# 注意：同一 old 全项目只能定义一次，重复会导致 Ren'Py 启动报错闪退。
+
+translate chinese strings:
+
+    # script-ch20.rpy:493 / script-ch22.rpy:304
+    old "You have unlocked a special poem.\nWould you like to read it?"
+    new "已解锁一首特殊诗歌。\n要现在阅读吗？"
+
