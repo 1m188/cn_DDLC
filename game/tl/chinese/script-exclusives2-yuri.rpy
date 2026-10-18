@@ -374,7 +374,14 @@ translate chinese yuri_exclusive2_1_ch22_3ff5a78e:
 translate chinese yuri_exclusive2_1_ch22_2257168a:
 
     # y "Then, suddenlyyyyyyyyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyyyyyy{nw}"
-    y "Then, suddenlyyyyyyyyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyyyyyy{nw}"
+    # 原版：上一句以 style.edited 异常字体说"而是因为这个世界充满了可怕的人，
+    # 反正我们全都一文不值。"，本句接着把 "Then, suddenly" 的尾音 y 拖长
+    # （两个 y 串，各约 21/20 个），{nw} 表示不等待、点击继续。译文把拖长音
+    # 锚在语气词「啊」，保留原版"连写串 + 空格 + 第二串"的词结构；
+    # 「啊」的断行类由 game/zz_cn_config.rpy 定制为 AL，故串内不可断、
+    # 可溢出对话框。排版对位：原版 line1 "Then, suddenlyyyy…" 713px 框内 /
+    # line2 第二串 y 溢出 389px；译文 line1 704px / line2 溢出 522px。
+    y "然后，突然间就啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊{nw}"
 
 # script-exclusives2-yuri.rpyc:73
 translate chinese yuri_exclusive2_1_ch22_2d6e3c72:
@@ -704,7 +711,15 @@ translate chinese yuri_exclusive2_1_ch22_0a665800:
 translate chinese yuri_exclusive2_1_ch22_167110f3:
 
     # y "I was just{fast} bathing in the feeling of your body heat tttttttttttttheat eattttttt{nw}"
-    y "I was just{fast} bathing in the feeling of your body heat tttttttttttttheat eattttttt{nw}"
+    # 原版：上一句 "I was just--!{nw}" 正常字体，本句以 style.edited 异常字体
+    # 接上"我只是在感受你身体的温度"，并把 "heat" 的尾音 t 拖长成两段
+    # （tttttttttttttheat / eattttttt），{nw} 不等待；历史界面随后被
+    # _history_list.pop() 删除这条发言。译文把拖长音锚在「度」，保留原版
+    # "句 + 拖长段1 + 空格 + 拖长段2" 的词结构；「度」的断行类由
+    # game/zz_cn_config.rpy 定制为 AL，故拖长串不可断、可溢出对话框。
+    # 排版对位：原版 line1 657px 框内 / line2 639px 溢出 552px；
+    # 译文 line1 384px / line2 512px 溢出 152px / line3 256px 溢出 408px。
+    y "我只是在感受你身体的温度 度度度度度度度度度度度度度度度度 度度度度度度度度{nw}"
 
 # script-exclusives2-yuri.rpyc:142
 translate chinese yuri_exclusive2_1_ch22_d23d4ffa:

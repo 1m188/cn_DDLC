@@ -243,7 +243,19 @@ translate chinese natsuki_exclusive2_1_f6db1694:
 translate chinese natsuki_exclusive2_1_c002a680:
 
     # n "don't judge a bookkkkkkkkkkkkkkkkk kkkkk kk{space=20}k{space=40}k{space=120}k{space=160}k{space=200}k"
-    n "don't judge a bookkkkkkkkkkkkkkkkk kkkkk kk{space=20}k{space=40}k{space=120}k{space=160}k{space=200}k"
+    # 原版：上一句 {nw} 不等待，本句以 style.edited 异常字体接上被拖长的
+    # "don't judge a book"（book 的尾音 k 拉长并在屏幕上散落），历史界面
+    # 另由 _history_list[-1].what 补全整句（见本文件 strings 块的
+    # "Consider this a lesson straight from the Literature Club: Don't
+    # judge a book by its cover!"）。本译文对应显示层：语义为
+    # "don't judge a book"（别凭封面评判一本书），拖长音锚在「书」，
+    # 保留原版全部 {space=N} 标签让尾部散落位置一致；「书」的断行类
+    # 由 game/zz_cn_config.rpy 定制为 AL，故重复串不可断、可溢出框外。
+    # 排版对位（Noto@24 + kerning 8）：原版 line1 "don't judge a" 227px /
+    # line2 "bookkk… kkkkk kk" 573px（溢出 56px）/ line3 散落 k（溢出 701px）。
+    # 译文按原版词结构分段：书×13（对位 book+16k 的 426px）、书×3（对位
+    # kkkkk 105px）、书×2（对位 kk 64px）、再 5 个带 {space} 的散落「书」。
+    n "别凭封面评判一本 书书书书书书书书书书书书书 书书书 书书{space=20}书{space=40}书{space=120}书{space=160}书{space=200}书"
 
 # script-exclusives2-natsuki.rpyc:123
 translate chinese natsuki_exclusive2_1_55994a4c:

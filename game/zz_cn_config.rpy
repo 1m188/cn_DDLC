@@ -73,18 +73,23 @@ init python:
     })
 
     # —— 断行类定制（UAX #14）——
-    # 把「莫妮卡」「啊」改为 AL（字母类）：AL×AL 之间引擎只允许"间接断行"
-    # （即必须隔着空格才可能断），因此由这几个字组成的连续串成为不可断词；
-    # 再配合 layout "tex" 对超长单词"独占一行并允许溢出"的行为，还原
-    # script-exclusives2-natsuki.rpy 中夏树台词尾音冲出对话框的效果
-    # （原版该行为不可断的拉丁长词 monikammmmmm…，接收 VerilySerifMono
-    # 字体 + kerning 8 的样式渲染）。
+    # 把「莫妮卡」「啊」「书」「哈」改为 AL（字母类）：AL×AL 之间引擎只允许
+    # "间接断行"（必须隔着空格才可能断），因此由这些字组成的连续串成为
+    # 不可断词；再配合 layout "tex" 对超长单词"独占一行并允许溢出"的行为，
+    # 还原原作中几处"拖长音冲出对话框"的演出（原版均为不可断的拉丁长词，
+    # 接收 style.edited = VerilySerifMono + kerning 8 的渲染）：
+    #   - script-exclusives2-natsuki.rpy 夏树 "fucking monikammmmmm…"
+    #   - script-exclusives2-natsuki.rpy 夏树 "don't judge a bookkkkkkk…"
+    #   - script-exclusives2-yuri.rpy 优里 "Then, suddenlyyyyy…"
+    #   - script-exclusives2-yuri.rpy 优里 "…body heat tttttttttttttheat eattttttt"
+    #   - script-ch23.rpy 优里 "AHAHAHAHA…"
     # 副作用评估（全局，但影响极小）：
-    #   - 这四个字与普通字符相邻处的断行行为不变（ID×AL、AL×ID 仍允许断行），
+    #   - 这些字与普通字符相邻处的断行行为不变（ID×AL、AL×ID 仍允许断行），
     #     即汉字正常的逐字断行不受影响；
-    #   - 仅这四字两两相邻处不再插入断点（如「莫」「妮」「卡」相连的人名与
-    #     连用的「啊」串），全游戏文本中此类组合极少位于行尾，视觉无感。
-    # 详见 game/tl/chinese/script-exclusives2-natsuki.rpy 的对白块注释。
+    #   - 仅上述字两两相邻处不再插入断点（人名「莫妮卡」、「啊啊」「哈哈」
+    #     「书」「度」的叠用），全游戏文本中此类组合极少位于行尾，视觉无感；
+    #   - 「书」「哈」「度」为常用字，但其与普通字相邻的断点未变，仅影响叠字串。
+    # 详见 game/tl/chinese/ 下相应翻译文件的注释。
     import renpy.text.textsupport as _cn_ts
 
-    _cn_ts.language_tailor("莫妮卡啊", "AL")
+    _cn_ts.language_tailor("莫妮卡啊书哈度", "AL")

@@ -1484,7 +1484,10 @@ translate chinese yuri_kill_1_4ddc816c:
 translate chinese yuri_kill_1_76475273:
 
     # y 3y3 "AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA{nw}"
-    y 3y3 "AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA{nw}"
+    # 原版：优里崩坏狂笑，单行不可断拉丁大写串（1127px，溢出对话框 383px），
+    # {nw} 不等待。译文「哈哈哈哈…」，「哈」的断行类由 game/zz_cn_config.rpy
+    # 定制为 AL，故连串不可断、同样单行溢出（35 个「哈」≈1120px）。
+    y 3y3 "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈{nw}"
 
 # script-ch23.rpyc:648
 translate chinese yuri_kill_loop_18a69774:
